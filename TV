@@ -1,4 +1,4 @@
-#EXTM3U  
+#EXTM3U
 
 #EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148_300.png" group-title="马新",8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
@@ -44,8 +44,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="AGEC2" tvg-name="DW English" tvg-logo="http://static.epg.best/de/DeutscheWelleEn.de.png" group-title="新闻",Deutsche Welle
 https://livecdn.fptplay.net/world/dwenglish_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AGEC3" tvg-name="France24" tvg-logo="http://static.epg.best/fr/France24English.fr.png" group-title="新闻",France 24
-https://livecdn.fptplay.net/world/france24_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="398" tvg-name="NHK World" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" group-title="新闻",NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="新闻",RT
@@ -130,7 +128,7 @@ http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1
 http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:-1 tvg-id="NOW.HK" tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="港台",Now新闻
 http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="港台",J2                  
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="港台",J2
 http://livetv.dnsfor.me:80/channel.19.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" group-title="港台",东森新闻
 http://seb.sason.top/sc/dsxw_fhd.m3u8
@@ -176,7 +174,7 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #EXTINF:-1 tvg-id="555" tvg-name="History HD" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="家庭娱乐",History
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-#EXTINF:-1 tvg-id="714" tvg-name="Crime and Investigation HD" tvg-logo="https://static.epg.best/id/CrimeInvestigation.id.png" group-title="家庭娱乐",Crime + Investigation
+#EXTINF:-1 tvg-id="714" tvg-name="Crime and Investigation HD" tvg-logo="https://static.epg.best/id/CrimeInvestigation.id.png" group-title="家庭娱乐",Crime+Investigation
 http://203.154.177.124:8899/live/ch23/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
