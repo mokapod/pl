@@ -1,5 +1,9 @@
-#EXTM3U
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" tvg-shift=0 m3uautoload=2
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/unifitv.xml" tvg-shift=0 m3uautoload=3
+#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg" tvg-shift=0 m3uautoload=4
 
+#EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MjU5YWI1ZGEtM2IyMi0zOWI5LTliMzAtMTUwMTliMWE1MjJh
 #EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148_300.png" group-title="马新",8TV
