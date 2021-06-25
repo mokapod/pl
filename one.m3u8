@@ -218,10 +218,3 @@ http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MjU5YWI1ZGEtM2IyMi0zOWI5LTliMzAtMTUwMTliMWE1MjJh
 #EXTINF:-1 tvg-id="" tvg-name="Blue Ant Blue Ant Extreme" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png" group-title="家庭娱乐",Blue Ant Extreme
 http://1.9.62.158/PLTV/88888888/224/3221227656/3221227656.mpd
-
-#EXTINF:-1 tvg-id="447" tvg-name="" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="时尚",Fashion TV International
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="447" tvg-name="" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="时尚",Fashion TV Paris
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="447" tvg-name="" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="时尚",Fashion TV Midnight Secrets
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
