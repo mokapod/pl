@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml,http://gg.gg/47shop_mytvepg"
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml" url-tvg="http://gg.gg/47shop_mytvepg"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MjU5YWI1ZGEtM2IyMi0zOWI5LTliMzAtMTUwMTliMWE1MjJh
