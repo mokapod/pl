@@ -128,8 +128,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中国",CCTV-17 农业农村
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
-
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="中国",湖南卫视
+
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="中国",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
@@ -225,10 +225,10 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MjU5YWI1ZGEtM2IyMi0zOWI5LTliMzAtMTUwMTliMWE1MjJh
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png" group-title="家庭娱乐",Blue Ant Entertainment
+#EXTINF:-1 tvg-id="blue_ant_entertainment" tvg-name="Blue Ant Entertainment" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png" group-title="家庭娱乐",Blue Ant Entertainment
 http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MjU5YWI1ZGEtM2IyMi0zOWI5LTliMzAtMTUwMTliMWE1MjJh
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Blue Ant Extreme" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png" group-title="家庭娱乐",Blue Ant Extreme
+#EXTINF:-1 tvg-id="blue_ant_extreme" tvg-name="Blue Ant Blue Ant Extreme" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png" group-title="家庭娱乐",Blue Ant Extreme
 http://1.9.62.158/PLTV/88888888/224/3221227656/3221227656.mpd
