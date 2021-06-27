@@ -58,9 +58,9 @@ http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育",CCTV-5 体育
-http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+http://hdtv.lzu6.edu.cn/hls/cctv5hd.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
-http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+http://hdtv.lzu6.edu.cn/hls/cctv5phd.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.id" tvg-name="NBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuC6ErRClAx5_n-FA4FPsk9FnEFGB-5dGLlQ&usqp=CAU" group-title="体育",NBA
 http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8
