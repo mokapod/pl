@@ -80,21 +80,6 @@ http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="801" tvg-name="Astro Arena HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_300.png" group-title="体育",Astro Arena
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OWZiYjgwNmItNzg4OS0zMzc0LWIxNzgtMWJjNTFmYzY4NWRk
-#EXTINF:-1 tvg-id="815" tvg-name="FOX Sports HD" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="体育",FOX Sports
-http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OWZiYjgwNmItNzg4OS0zMzc0LWIxNzgtMWJjNTFmYzY4NWRk
-#EXTINF:-1 tvg-id="816" tvg-name="FOX Sports 2 HD" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="体育",FOX Sports 2
-http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OWZiYjgwNmItNzg4OS0zMzc0LWIxNzgtMWJjNTFmYzY4NWRk
-#EXTINF:-1 tvg-id="817" tvg-name="FOX Sports 3 HD" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="体育",FOX Sports 3
-http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd
-
 #EXTINF:-1 tvg-id="392" tvg-name="KBS World HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/392_300.png" group-title="日韓",KBS World
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:-1 tvg-id="393" tvg-name="One HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/393_300.png" group-title="日韓",One
