@@ -1,13 +1,14 @@
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml.gz,http://gg.gg/47shop_mytvepg"
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml,http://gg.gg/47shop_mytvepg"
 
 #EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148_300.png" group-title="马新",8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 tvg-id="306" tvg-name="Astro AEC HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png" group-title="马新",AEC
 http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
 #EXTINF:-1 tvg-id="307" tvg-name="Astro Shuang Xing HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/307_300.png" group-title="马新",双星
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1 tvg-id="308" tvg-name="Astro Quan Jia HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/308_300.png" group-title="马新",全佳
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
 #EXTINF:-1 tvg-id="309" tvg-name="Celestial Movies HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/309_300.png" group-title="马新",天映频道
 http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-id="300" tvg-name="iQIYI HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/300_300.png" group-title="马新",爱奇艺
