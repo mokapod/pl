@@ -46,7 +46,7 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="港台",无线新闻
 http://livetv.dnsfor.me/channel.10.m3u8
-#EXTINF:-1 tvg-ID="7122" tvg-name="有线新闻台" tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png" group-title="香港",有线新闻
+#EXTINF:-1 tvg-ID="7122" tvg-name="有线新闻台" tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png" group-title="港台",有线新闻
 http://hkyx.love.sky-media.tk/test/index.php?id=37
 #EXTINF:-1 tvg-id="NOW.HK" tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="港台",Now新闻
 http://livetv.dnsfor.me:80/channel.4.m3u8
