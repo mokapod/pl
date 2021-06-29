@@ -33,7 +33,7 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 #EXTINF:-1 tvg-ID="ChU.SG" tvg-name="" tvg-logo="https://static.epg.best/sg/ChannelU.sg.png" group-title="马新",U频道
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
-#EXTINF:-1 tvg-id="801" tvg-name="Astro Arena HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_300.png" group-title="体育",Astro Arena
+#EXTINF:-1 tvg-id="801" tvg-name="Astro Arena HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/802_300.png" group-title="体育",Astro Arena
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png" group-title="体育",Astro SuperSport
