@@ -85,17 +85,24 @@ https://liveanevia.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd
 #EXTINF:-1 tvg-id="foxsports3hd" tvg-name="FOX Sports 3 HD" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="体育",FOX Sports 3 ᵛⁿ
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 
+#EXTINF:-1 tvg-id="818" tvg-name="beIN Sports HD" tvg-logo="https://picon-13398.kxcdn.com/beinsports.jpg" group-title="体育",beIN Sports
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/27938
+#EXTINF:-1 tvg-id="819" tvg-name="beIN Sports MAX HD" tvg-logo="https://picon-13398.kxcdn.com/beinsportsmaxmy.jpg" group-title="体育",beIN Sports MAX
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/27937
+
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育",CCTV-5 体育
 http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="体育",SONY TEN 1
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30617
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="体育",SONY TEN 2
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7244
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="体育",SONY TEN 3
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30623
+#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="Sony Ten 1 HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten1in.jpg" group-title="体育",SONY TEN 1
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/10168
+#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="Sony Ten 2 HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten2in.jpg" group-title="体育",SONY TEN 2
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/10170
+#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="Sony Ten 3 IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten3in.jpg" group-title="体育",SONY TEN 3
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/10169
+#EXTINF:-1 tvg-id="SonySIX.in" tvg-name="Sony Six HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonysixin.jpg" group-title="体育",SONY SIX
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/18805
 
 #EXTINF:-1 tvg-id="NBATV.id" tvg-name="NBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuC6ErRClAx5_n-FA4FPsk9FnEFGB-5dGLlQ&usqp=CAU" group-title="体育",NBA
 http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8
