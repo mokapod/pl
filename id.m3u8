@@ -1,0 +1,15 @@
+#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg"
+
+#EXTINF:-1 tvg-id="NBATV.id" tvg-name="NBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuC6ErRClAx5_n-FA4FPsk9FnEFGB-5dGLlQ&usqp=CAU" group-title="体育",NBA
+http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8
+#https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="WAKUWAKUJAPAN.MACAN" tvg-name="Waku Waku Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="日韓",WakuWaku Japan
+https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
+
+#EXTINF:-1 tvg-id="blue_ant_entertainment" tvg-name="Blue Ant Entertainment" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png" group-title="家庭娱乐",Blue Ant Entertainment
+http://210.210.155.35/dr9445/h/h16/02.m3u8
+#EXTINF:-1 tvg-id="blue_ant_extreme" tvg-name="Blue Ant Extreme" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png" group-title="家庭娱乐",Blue Ant Extreme
+http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
