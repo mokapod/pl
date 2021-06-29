@@ -1,0 +1,29 @@
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://macan.tv/xmltv.php?username=epg&password=epg"
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="体育",MUTV
+https://sport.livedoomovie.com/02_MUTV_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png" group-title="体育",LFCTV
+https://sport.livedoomovie.com/02_lfctv_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="体育",True Sports 1
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-2-1071.png" group-title="体育",True Sports 2
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-3-1072.png" group-title="体育",True Sports 3
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-id="Erz.truesport4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-4-1073.png" group-title="体育", True Sports 4
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8?uri=eroz_brebes.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="时尚",Fashion TV International
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="时尚",Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="时尚",Fashion TV Midnight Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="GlobalFashion.us" tvg-name="" tvg-logo="https://s3.amazonaws.com/ctm-tm/016759516.JPG" group-title="时尚",Global Fashion Channel
+https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_540p.m3u8
+
