@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://macan.tv/xmltv.php?username=epg&password=epg"
+#EXTM3U
 
 #MY
 #EXTINF:-1 tvg-id="818" tvg-name="beIN Sports HD" tvg-logo="https://picon-13398.kxcdn.com/beinsports.jpg" group-title="体育",beIN Sports
