@@ -47,7 +47,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="AGEC2" tvg-name="DW English" tvg-logo="http://static.epg.best/de/DeutscheWelleEn.de.png" group-title="新闻",Deutsche Welle
 https://livecdn.fptplay.net/world/dwenglish_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France24English.fr.png" group-title="新闻",France 24
+#EXTINF:-1 tvg-id="AGEC3" tvg-name="France24" tvg-logo="http://static.epg.best/fr/France24English.fr.png" group-title="新闻",France 24
 https://livecdn.fptplay.net/world/france24_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="398" tvg-name="NHK World" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" group-title="新闻",NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
