@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="http://gg.gg/47shop_mytvepg"
 
-#EXTINF:-1 tvg-id="foxsportshd" tvg-name="FOX Sports HD" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="体育",FOX Sports ⁱᵈ
+#EXTINF:-1 tvg-id="foxsportshd" tvg-name="FOX Sports HD" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="体育",FOX Sports ᵛⁿ
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="foxsports2hd" tvg-name="FOX Sports 2 HD" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="体育",FOX Sports 2 ⱽᴺ
+#EXTINF:-1 tvg-id="foxsports2hd" tvg-name="FOX Sports 2 HD" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="体育",FOX Sports 2 ᵛⁿ
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="foxsports3hd" tvg-name="FOX Sports 3 HD" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="体育",FOX Sports 3 ⱽᴺ
+#EXTINF:-1 tvg-id="foxsports3hd" tvg-name="FOX Sports 3 HD" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="体育",FOX Sports 3 ᵛⁿ
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
