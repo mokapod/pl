@@ -55,6 +55,8 @@ http://85.203.33.88:80/2OvejPbTW4606/xopfto268/2655
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/gb/LiverpoolFCTV.uk.png" group-title="体育",LFCTV
 http://85.203.33.88:80/2OvejPbTW4606/xopfto268/3568
 #http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4296
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/gb/ChelseaTV.uk.png" group-title="体育",Chelsea TV
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4137
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD UK" tvg-logo="https://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="体育",Sky Sports Main Event
 http://85.203.33.88:80/2OvejPbTW4606/xopfto268/5600
@@ -81,10 +83,6 @@ http://85.203.33.88:80/2OvejPbTW4606/xopfto268/14902
 
 
 #US
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV HD" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="体育",NBA TV
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/12085
-#http://85.203.33.88:80/2OvejPbTW4606/xopfto268/9010
-
 #EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png" group-title="家庭娱乐",Food Network
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4876
 #http://85.203.33.88:80/2OvejPbTW4606/xopfto268/18191
@@ -102,14 +100,3 @@ http://85.203.33.88:80/2OvejPbTW4606/xopfto268/15712
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9782
 #EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery HD" tvg-logo="https://static.epg.best/us/InvestigationDiscovery.us.png" group-title="家庭娱乐",Investigation Discovery
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4992
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet HD" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" group-title="家庭娱乐",Animal Planet
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/12060
-#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="National Geographic HD" tvg-logo="https://static.epg.best/us/NatGeo.us.png" group-title="家庭娱乐",National Geographic
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/5034
-#http://85.203.33.88:80/2OvejPbTW4606/xopfto268/15714
-#EXTINF:-1 tvg-id="NatGeoWild.us" tvg-name="National Geographic Wild HD" tvg-logo="https://static.epg.best/us/NatGeoWild.us.png" group-title="家庭娱乐",Nat Geo Wild
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/5042
-#http://85.203.33.88:80/2OvejPbTW4606/xopfto268/27465
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel HD" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="家庭娱乐",Discovery Channel
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9861
-#http://85.203.33.88:80/2OvejPbTW4606/xopfto268/15717
