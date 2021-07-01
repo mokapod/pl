@@ -15,6 +15,8 @@ http://85.203.33.88:80/2OvejPbTW4606/xopfto268/23451
 #EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814_300.png" group-title="体育",Astro SuperSport 4
 http://85.203.33.88:80/2OvejPbTW4606/xopfto268/33973
 
+
+
 #IN
 #EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="Sony Ten 1 HD IN" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="体育",SONY TEN 1
 http://85.203.33.88:80/2OvejPbTW4606/xopfto268/10168
@@ -32,34 +34,70 @@ http://85.203.33.88:80/2OvejPbTW4606/xopfto268/10141
 #EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM IN" tvg-logo="https://picon-13398.kxcdn.com/9xmin.jpg" group-title="音乐",9XM
 http://85.203.33.88:80/2OvejPbTW4606/xopfto268/10185
 
-#UK
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="体育",MUTV
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/2655
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png" group-title="体育",LFCTV
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/3568
 
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg" group-title="体育",Sky Sports Action
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/3598
-#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsarenahduk.jpg" group-title="体育",Sky Sports Arena
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/16968
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg" group-title="体育",Sky Sports Main Event
+
+#UK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/gb/MUTV.uk.png" group-title="体育",MUTV
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/2655
+#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/gb/LiverpoolFCTV.uk.png" group-title="体育",LFCTV
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/3568
+#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4296
+
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD UK" tvg-logo="https://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="体育",Sky Sports Main Event
 http://85.203.33.88:80/2OvejPbTW4606/xopfto268/5600
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg" group-title="体育",Sky Sports Football
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/20024
-#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premier League HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg" group-title="体育",Sky Sports Premier League
+#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4108
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premier League HD UK" tvg-logo="https://static.epg.best/gb/SkySportsPremiereLeague.uk.png" group-title="体育",Sky Sports Premier League
 http://85.203.33.88:80/2OvejPbTW4606/xopfto268/4458
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg" group-title="体育",Sky Sports F1
+#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4112
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football HD UK" tvg-logo="https://static.epg.best/gb/SkySportsFootball.uk.png" group-title="体育",Sky Sports Football
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/20024
+#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4113
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 HD UK" tvg-logo="https://static.epg.best/gb/SkySportsF1.uk.png" group-title="体育",Sky Sports F1
 http://85.203.33.88:80/2OvejPbTW4606/xopfto268/3603
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg" group-title="体育",Sky Sports Mix
+#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4115
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action HD UK" tvg-logo="https://static.epg.best/gb/SkySportsAction.uk.png" group-title="体育",Sky Sports Action
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/3598
+#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4110
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena HD UK" tvg-logo="https://static.epg.best/gb/SkySportsArena.uk.png" group-title="体育",Sky Sports Arena
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/16968
+#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/12984
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix HD UK" tvg-logo="https://static.epg.best/gb/SkySportsMix.uk.png" group-title="体育",Sky Sports Mix
 http://85.203.33.88:80/2OvejPbTW4606/xopfto268/14902
+#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4117
+
+
 
 #US
-#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network US" tvg-logo="https://picon-13398.kxcdn.com/foodnetwork.jpg" group-title="家庭娱乐",Food Network US
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/18191
-#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV FHD US" tvg-logo="https://picon-13398.kxcdn.com/hgtv.jpg" group-title="家庭娱乐",HGTV US
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/13835
-#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC HD US" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="家庭娱乐",TLC US
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/18079
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV HD" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="体育",NBA TV
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/12085
+#http://85.203.33.88:80/2OvejPbTW4606/xopfto268/9010
 
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV HD US" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="体育",NBA US
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/9010
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png" group-title="家庭娱乐",Food Network
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4876
+#http://85.203.33.88:80/2OvejPbTW4606/xopfto268/18191
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV FHD" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="家庭娱乐",HGTV
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/5089
+#http://85.203.33.88:80/2OvejPbTW4606/xopfto268/13835
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC HD" tvg-logo="https://static.epg.best/us/TLC.us.png" group-title="家庭娱乐",TLC
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9805
+#http://85.203.33.88:80/2OvejPbTW4606/xopfto268/18079
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E HD" tvg-logo="https://static.epg.best/us/AandE.us.png" group-title="家庭娱乐",A&E
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/10350
+#EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="History HD" tvg-logo="https://static.epg.best/us/HistoryChannel.us.png" group-title="家庭娱乐",History
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/15712
+#EXTINF:-1 tvg-id="CrimeandInvestigation.us" tvg-name="Crime and Investigation HD" tvg-logo="https://static.epg.best/us/CrimeInvestigation.us.png" group-title="家庭娱乐",Crime + Investigation
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9782
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery HD" tvg-logo="https://static.epg.best/us/InvestigationDiscovery.us.png" group-title="家庭娱乐",Investigation Discovery
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4992
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet HD" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" group-title="家庭娱乐",Animal Planet
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/12060
+#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="National Geographic HD" tvg-logo="https://static.epg.best/us/NatGeo.us.png" group-title="家庭娱乐",National Geographic
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/5034
+#http://85.203.33.88:80/2OvejPbTW4606/xopfto268/15714
+#EXTINF:-1 tvg-id="NatGeoWild.us" tvg-name="National Geographic Wild HD" tvg-logo="https://static.epg.best/us/NatGeoWild.us.png" group-title="家庭娱乐",Nat Geo Wild
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/5042
+#http://85.203.33.88:80/2OvejPbTW4606/xopfto268/27465
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel HD" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="家庭娱乐",Discovery Channel
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9861
+#http://85.203.33.88:80/2OvejPbTW4606/xopfto268/15717
