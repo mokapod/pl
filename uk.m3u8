@@ -1,0 +1,44 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/gb/MUTV.uk.png" group-title="体育",MUTV
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/2655
+#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/gb/LiverpoolFCTV.uk.png" group-title="体育",LFCTV
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/3568
+#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4296
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/gb/ChelseaTV.uk.png" group-title="体育",Chelsea TV
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4137
+
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD UK" tvg-logo="https://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="体育",Sky Sports Main Event
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/5600
+#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4108
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premier League HD UK" tvg-logo="https://static.epg.best/gb/SkySportsPremiereLeague.uk.png" group-title="体育",Sky Sports Premier League
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/4458
+#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4112
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football HD UK" tvg-logo="https://static.epg.best/gb/SkySportsFootball.uk.png" group-title="体育",Sky Sports Football
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/20024
+#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4113
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 HD UK" tvg-logo="https://static.epg.best/gb/SkySportsF1.uk.png" group-title="体育",Sky Sports F1
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/3603
+#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4115
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action HD UK" tvg-logo="https://static.epg.best/gb/SkySportsAction.uk.png" group-title="体育",Sky Sports Action
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/3598
+#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4110
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena HD UK" tvg-logo="https://static.epg.best/gb/SkySportsArena.uk.png" group-title="体育",Sky Sports Arena
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/16968
+#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/12984
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix HD UK" tvg-logo="https://static.epg.best/gb/SkySportsMix.uk.png" group-title="体育",Sky Sports Mix
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/14902
+#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4117
+
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network" tvg-logo="https://static.epg.best/gb/FoodNetwork.uk.png" group-title="家庭娱乐",Food Network
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4188
+#http://85.203.33.88:80/2OvejPbTW4606/xopfto268/3991
+#EXTINF:-1 tvg-id="HGTV.uk" tvg-name="HGTV FHD" tvg-logo="https://media.info/i/lf/600/1579638343/1096.png" group-title="家庭娱乐",HGTV
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/14961
+#EXTINF:-1 tvg-id="TLC.uk" tvg-name="TLC HD" tvg-logo="https://static.epg.best/gb/TLC.uk.png" group-title="家庭娱乐",TLC
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4276
+#EXTINF:-1 tvg-id="HistoryChannel.uk" tvg-name="History HD" tvg-logo="https://static.epg.best/gb/HistoryChannel.uk.png" group-title="家庭娱乐",History
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4197
+#EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="Investigation Discovery HD" tvg-logo="https://static.epg.best/gb/InvestigationDiscovery.uk.png" group-title="家庭娱乐",Investigation Discovery
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4202
