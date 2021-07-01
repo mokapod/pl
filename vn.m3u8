@@ -2,15 +2,15 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-id="foxsportshd" tvg-name="FOX Sports HD" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="体育",FOX Sports
+#EXTINF:-1 tvg-id="foxsportshd" tvg-name="FOX Sports HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/815_300.png" group-title="体育",FOX Sports
 https://liveanevia.mncnow.id/live/eds/FoxSportss1s/sa_dash_vmx/FoxSportss1s.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-id="foxsports2hd" tvg-name="FOX Sports 2 HD" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="体育",FOX Sports 2
+#EXTINF:-1 tvg-id="foxsports2hd" tvg-name="FOX Sports 2 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/816_300.png" group-title="体育",FOX Sports 2
 https://liveanevia.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-id="foxsports3hd" tvg-name="FOX Sports 3 HD" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="体育",FOX Sports 3
+#EXTINF:-1 tvg-id="foxsports3hd" tvg-name="FOX Sports 3 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/817_300.png" group-title="体育",FOX Sports 3
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
