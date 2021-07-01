@@ -60,7 +60,7 @@ http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF:-1 tvg-id="395" tvg-name="tvN HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" group-title="日韓",tvN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-#EXTINF:-1 tvg-id="AGEC1" tvg-name="K-Plus HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png" group-title="日韓",K+
+#EXTINF:-1 tvg-id="AGEC1" tvg-name="K-Plus HD" tvg-logo="https://static.epg.best/id/Kplus.id.png" group-title="日韓",K+
 http://210.210.155.35/uq2663/h/h08/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
