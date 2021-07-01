@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg"
 
-#EXTINF:-1 tvg-id="NBATV.id" tvg-name="NBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuC6ErRClAx5_n-FA4FPsk9FnEFGB-5dGLlQ&usqp=CAU" group-title="体育",NBA
+#EXTINF:-1 tvg-id="NBATV.id" tvg-name="NBA" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="体育",NBA
 http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8
 #https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 
