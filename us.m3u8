@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E HD" tvg-logo="https://static.epg.best/us/AandE.us.png" group-title="家庭娱乐",A&E
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/10350
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png" group-title="家庭娱乐",Food Network
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4876
+#http://85.203.33.88:80/2OvejPbTW4606/xopfto268/18191
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV FHD" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="家庭娱乐",HGTV
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/5089
+#http://85.203.33.88:80/2OvejPbTW4606/xopfto268/13835
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC HD" tvg-logo="https://static.epg.best/us/TLC.us.png" group-title="家庭娱乐",TLC
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9805
+#http://85.203.33.88:80/2OvejPbTW4606/xopfto268/18079
+#EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="History HD" tvg-logo="https://static.epg.best/us/HistoryChannel.us.png" group-title="家庭娱乐",History
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/15712
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery HD" tvg-logo="https://static.epg.best/us/InvestigationDiscovery.us.png" group-title="家庭娱乐",Investigation Discovery
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4992
