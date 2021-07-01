@@ -111,6 +111,8 @@ http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8
 https://sport.livedoomovie.com/02_MUTV_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png" group-title="体育",LFCTV
 https://sport.livedoomovie.com/02_lfctv_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/gb/ChelseaTV.uk.png" group-title="体育",Chelsea TV
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4137
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国",CCTV-1 综合
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
