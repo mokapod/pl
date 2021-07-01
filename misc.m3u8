@@ -80,6 +80,18 @@ http://85.203.33.88:80/2OvejPbTW4606/xopfto268/16968
 http://85.203.33.88:80/2OvejPbTW4606/xopfto268/14902
 #http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4117
 
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network" tvg-logo="https://static.epg.best/gb/FoodNetwork.uk.png" group-title="家庭娱乐",Food Network
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4188
+#http://85.203.33.88:80/2OvejPbTW4606/xopfto268/3991
+#EXTINF:-1 tvg-id="HGTV.uk" tvg-name="HGTV FHD" tvg-logo="https://static.epg.best/us/HGTV.uk.png" group-title="家庭娱乐",HGTV
+http://85.203.33.88:80/2OvejPbTW4606/xopfto268/14961
+#EXTINF:-1 tvg-id="TLC.uk" tvg-name="TLC HD" tvg-logo="https://static.epg.best/gb/TLC.uk.png" group-title="家庭娱乐",TLC
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4276
+#EXTINF:-1 tvg-id="HistoryChannel.uk" tvg-name="History HD" tvg-logo="https://static.epg.best/gb/HistoryChannel.uk.png" group-title="家庭娱乐",History
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4197
+#EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="Investigation Discovery HD" tvg-logo="https://static.epg.best/gb/InvestigationDiscovery.uk.png" group-title="家庭娱乐",Investigation Discovery
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4202
+
 
 
 #US
@@ -96,7 +108,5 @@ http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9805
 http://85.203.33.88:80/2OvejPbTW4606/xopfto268/10350
 #EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="History HD" tvg-logo="https://static.epg.best/us/HistoryChannel.us.png" group-title="家庭娱乐",History
 http://85.203.33.88:80/2OvejPbTW4606/xopfto268/15712
-#EXTINF:-1 tvg-id="CrimeandInvestigation.us" tvg-name="Crime and Investigation HD" tvg-logo="https://static.epg.best/us/CrimeInvestigation.us.png" group-title="家庭娱乐",Crime + Investigation
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9782
 #EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery HD" tvg-logo="https://static.epg.best/us/InvestigationDiscovery.us.png" group-title="家庭娱乐",Investigation Discovery
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4992
