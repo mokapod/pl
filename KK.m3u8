@@ -85,34 +85,42 @@ https://liveanevia.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd
 #EXTINF:-1 tvg-id="foxsports3hd" tvg-name="FOX Sports 3 HD" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="体育",FOX Sports 3 ᵛⁿ
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 
-#EXTINF:-1 tvg-id="818" tvg-name="beIN Sports HD" tvg-logo="https://picon-13398.kxcdn.com/beinsports.jpg" group-title="体育",beIN Sports
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/27938
-#EXTINF:-1 tvg-id="819" tvg-name="beIN Sports MAX HD" tvg-logo="https://picon-13398.kxcdn.com/beinsportsmaxmy.jpg" group-title="体育",beIN Sports MAX
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/27937
-
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育",CCTV-5 体育
 http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="Sony Ten 1 HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten1in.jpg" group-title="体育",SONY TEN 1
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/10168
+http://starshare.live:8080/live/W@_A@Q@HJ@09@LK@HJW85YNE5WCV4/Q@_Z@.Q@KJ@09@LK@FG89KNDT97@976F/9402.ts
 #EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="Sony Ten 2 HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten2in.jpg" group-title="体育",SONY TEN 2
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/10170
+http://starshare.live:8080/live/W@_A@Q@HJ@09@LK@HJW85YNE5WCV4/Q@_Z@.Q@KJ@09@LK@FG89KNDT97@976F/9403.ts
 #EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="Sony Ten 3 IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten3in.jpg" group-title="体育",SONY TEN 3
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/10169
-#EXTINF:-1 tvg-id="SonySIX.in" tvg-name="Sony Six HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonysixin.jpg" group-title="体育",SONY SIX
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/18805
+http://starshare.live:8080/live/W@_A@Q@HJ@09@LK@HJW85YNE5WCV4/Q@_Z@.Q@KJ@09@LK@FG89KNDT97@976F/9404.ts
 
-#EXTINF:-1 tvg-id="NBATV.id" tvg-name="NBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuC6ErRClAx5_n-FA4FPsk9FnEFGB-5dGLlQ&usqp=CAU" group-title="体育",NBA
+#EXTINF:-1 tvg-id="NBATV.id" tvg-name="NBA" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="体育",NBA
 http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="体育",MUTV
 https://sport.livedoomovie.com/02_MUTV_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png" group-title="体育",LFCTV
 https://sport.livedoomovie.com/02_lfctv_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/gb/ChelseaTV.uk.png" group-title="体育",Chelsea TV
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4137
+
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD UK" tvg-logo="https://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="体育",Sky Sports Main Event
+http://starshare.live:8080/live/W@_A@Q@HJ@09@LK@HJW85YNE5WCV4/Q@_Z@.Q@KJ@09@LK@FG89KNDT97@976F/23336.ts
+#http://85.203.33.88:80/2OvejPbTW4606/xopfto268/5600
+#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4108
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premier League HD UK" tvg-logo="https://static.epg.best/gb/SkySportsPremiereLeague.uk.png" group-title="体育",Sky Sports Premier League
+http://starshare.live:8080/live/W@_A@Q@HJ@09@LK@HJW85YNE5WCV4/Q@_Z@.Q@KJ@09@LK@FG89KNDT97@976F/23342.ts
+#http://85.203.33.88:80/2OvejPbTW4606/xopfto268/4458
+#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4112
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football HD UK" tvg-logo="https://static.epg.best/gb/SkySportsFootball.uk.png" group-title="体育",Sky Sports Football
+http://starshare.live:8080/live/W@_A@Q@HJ@09@LK@HJW85YNE5WCV4/Q@_Z@.Q@KJ@09@LK@FG89KNDT97@976F/23334.ts
+#http://85.203.33.88:80/2OvejPbTW4606/xopfto268/20024
+#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4113
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 HD UK" tvg-logo="https://static.epg.best/gb/SkySportsF1.uk.png" group-title="体育",Sky Sports F1
+http://starshare.live:8080/live/W@_A@Q@HJ@09@LK@HJW85YNE5WCV4/Q@_Z@.Q@KJ@09@LK@FG89KNDT97@976F/23340.ts
+#http://85.203.33.88:80/2OvejPbTW4606/xopfto268/3603
+#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4115
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国",CCTV-1 综合
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
