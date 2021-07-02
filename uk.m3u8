@@ -1,16 +1,8 @@
 #EXTM3U url-tvg="http://www.xmltv.co.uk/feed/8943"
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/gb/MUTV.uk.png" group-title="体育",MUTV
-http://starshare.live:8080/live/W@_A@Q@HJ@09@LK@HJW85YNE5WCV4/Q@_Z@.Q@KJ@09@LK@FG89KNDT97@976F/29.ts
-#http://85.203.33.88:80/2OvejPbTW4606/xopfto268/2655
-#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4140
-#https://sport.livedoomovie.com/02_MUTV_720p/chunklist.m3u8
+https://sport.livedoomovie.com/02_MUTV_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/gb/LiverpoolFCTV.uk.png" group-title="体育",LFCTV
-http://starshare.live:8080/live/W@_A@Q@HJ@09@LK@HJW85YNE5WCV4/Q@_Z@.Q@KJ@09@LK@FG89KNDT97@976F/30.ts
-#http://85.203.33.88:80/2OvejPbTW4606/xopfto268/3568
-#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4296
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/gb/ChelseaTV.uk.png" group-title="体育",Chelsea TV
-#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4137
 https://sport.livedoomovie.com/02_lfctv_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD UK" tvg-logo="https://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="体育",Sky Sports Main Event
