@@ -90,12 +90,12 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 
-#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="Sony Ten 1 HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten1in.jpg" group-title="体育",SONY TEN 1
-http://starshare.live:8080/live/W@_A@Q@HJ@09@LK@HJW85YNE5WCV4/Q@_Z@.Q@KJ@09@LK@FG89KNDT97@976F/9402.ts
-#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="Sony Ten 2 HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten2in.jpg" group-title="体育",SONY TEN 2
-http://starshare.live:8080/live/W@_A@Q@HJ@09@LK@HJW85YNE5WCV4/Q@_Z@.Q@KJ@09@LK@FG89KNDT97@976F/9403.ts
-#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="Sony Ten 3 IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten3in.jpg" group-title="体育",SONY TEN 3
-http://starshare.live:8080/live/W@_A@Q@HJ@09@LK@HJW85YNE5WCV4/Q@_Z@.Q@KJ@09@LK@FG89KNDT97@976F/9404.ts
+#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="Sony Ten 1 HD IN" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="体育",SONY TEN 1
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9158
+#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="Sony Ten 2 HD IN" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="体育",SONY TEN 2
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9159
+#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="Sony Ten 3 IN" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="体育",SONY TEN 3
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9160
 
 #EXTINF:-1 tvg-id="NBATV.id" tvg-name="NBA" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="体育",NBA
 http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8
