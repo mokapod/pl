@@ -9,8 +9,6 @@ https://sport.livedoomovie.com/02_lfctv_720p/chunklist.m3u8
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/gb/LiverpoolFCTV.uk.png" group-title="体育",LFCTV
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4296
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/gb/ChelseaTV.uk.png" group-title="体育",Chelsea TV
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4137
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD UK" tvg-logo="https://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="体育",Sky Sports Main Event
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4108
@@ -21,21 +19,5 @@ http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4113
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 HD UK" tvg-logo="https://static.epg.best/gb/SkySportsF1.uk.png" group-title="体育",Sky Sports F1
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4115
 
-#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network" tvg-logo="https://static.epg.best/gb/FoodNetwork.uk.png" group-title="家庭娱乐",Food Network
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4188
-#EXTINF:-1 tvg-id="HGTV.uk" tvg-name="HGTV FHD" tvg-logo="https://media.info/i/lf/600/1579638343/1096.png" group-title="家庭娱乐",HGTV
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9856
-#EXTINF:-1 tvg-id="TLC.uk" tvg-name="TLC HD" tvg-logo="https://static.epg.best/gb/TLC.uk.png" group-title="家庭娱乐",TLC
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4276
-#EXTINF:-1 tvg-id="HistoryChannel.uk" tvg-name="History HD" tvg-logo="https://static.epg.best/gb/HistoryChannel.uk.png" group-title="家庭娱乐",History
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4197
-#EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="Investigation Discovery HD" tvg-logo="https://static.epg.best/gb/InvestigationDiscovery.uk.png" group-title="家庭娱乐",Investigation Discovery
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4202
-#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="Animal Planet HD" tvg-logo="https://static.epg.best/gb/AnimalPlanet.uk.png" group-title="家庭娱乐",Animal Planet
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/12504
-#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="National Geographic HD" tvg-logo="https://static.epg.best/gb/NatGeo.uk.png" group-title="家庭娱乐",National Geographic
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4223
-#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="National Geographic Wild HD" tvg-logo="https://static.epg.best/gb/NatGeoWild.uk.png" group-title="家庭娱乐",Nat Geo Wild
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4224
-#EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="Discovery Channel HD" tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png" group-title="家庭娱乐",Discovery Channel
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4171
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://media.info/i/lf/600/1579638343/1096.png" group-title="家庭娱乐",HGTV
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/5089
