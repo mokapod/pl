@@ -35,16 +35,16 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 #EXTINF:-1 tvg-ID="ChU.SG" tvg-name="" tvg-logo="https://static.epg.best/sg/ChannelU.sg.png" group-title="马新",U频道
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
-#EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png" group-title="体育",Astro SuperSport
+#EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/astro-supersport-my.png" group-title="体育",Astro SuperSport
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png" group-title="体育",Astro SuperSport 2
+#EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/astro-supersport-2-my.png" group-title="体育",Astro SuperSport 2
 http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png" group-title="体育",Astro SuperSport 3
+#EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/astro-supersport-3-my.png" group-title="体育",Astro SuperSport 3
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814_300.png" group-title="体育",Astro SuperSport 4
+#EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/astro-supersport-4-my.png" group-title="体育",Astro SuperSport 4
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="801" tvg-name="Astro Arena HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/802_300.png" group-title="体育",Astro Arena
+#EXTINF:-1 tvg-id="801" tvg-name="Astro Arena HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/malaysia/astro-arena-my.png" group-title="体育",Astro Arena
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
 #EXTINF:-1 tvg-id="392" tvg-name="KBS World HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/392_300.png" group-title="日韓",KBS World
