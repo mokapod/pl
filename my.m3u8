@@ -35,21 +35,32 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 #EXTINF:-1 tvg-ID="ChU.SG" tvg-name="" tvg-logo="https://static.epg.best/sg/ChannelU.sg.png" group-title="马新",U频道
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
-#EXTINF:-1 tvg-id="801" tvg-name="Astro Arena HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/802_300.png" group-title="体育",Astro Arena
-http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-id="foxsportshd" tvg-name="FOX Sports HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/815_300.png" group-title="体育",FOX Sports
+https://liveanevia.mncnow.id/live/eds/FoxSportss1s/sa_dash_vmx/FoxSportss1s.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-id="foxsports2hd" tvg-name="FOX Sports 2 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/816_300.png" group-title="体育",FOX Sports 2
+https://liveanevia.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-id="foxsports3hd" tvg-name="FOX Sports 3 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/817_300.png" group-title="体育",FOX Sports 3
+https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png" group-title="体育",Astro SuperSport
-#http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png" group-title="体育",Astro SuperSport 2
-#http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png" group-title="体育",Astro SuperSport 3
-#http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814_300.png" group-title="体育",Astro SuperSport 4
-#http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-id="801" tvg-name="Astro Arena HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/802_300.png" group-title="体育",Astro Arena
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
 #EXTINF:-1 tvg-id="392" tvg-name="KBS World HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/392_300.png" group-title="日韓",KBS World
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
@@ -70,20 +81,20 @@ https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="715" tvg-name="HGTV HD" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="家庭娱乐",HGTV
+#EXTINF:-1 tvg-id="715" tvg-name="HGTV HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/715_300.png" group-title="家庭娱乐",HGTV
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="707" tvg-name="TLC HD" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="家庭娱乐",TLC
+#EXTINF:-1 tvg-id="707" tvg-name="TLC HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/707_300.png" group-title="家庭娱乐",TLC
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="555" tvg-name="History HD" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="家庭娱乐",History
+#EXTINF:-1 tvg-id="555" tvg-name="History HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/555_300.png" group-title="家庭娱乐",History
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-#EXTINF:-1 tvg-id="714" tvg-name="Crime and Investigation HD" tvg-logo="https://static.epg.best/id/CrimeInvestigation.id.png" group-title="家庭娱乐",Crime + Investigation
+#EXTINF:-1 tvg-id="714" tvg-name="Crime and Investigation HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/714_300.png" group-title="家庭娱乐",Crime + Investigation
 http://203.154.177.124:8899/live/ch23/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
