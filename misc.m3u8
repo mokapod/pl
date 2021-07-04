@@ -8,7 +8,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_pa
 http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/chunklist_b2878000_t64RGVmYXVsdA==.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="时尚",Fashion TV Midnight Secrets
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/World_Fashion_Channel_%282018%2C_horizontal%29.svg/revision/latest/scale-to-width-down/512?cb=20210130125950" group-title="Fashion",World Fashion Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/World_Fashion_Channel_%282018%2C_horizontal%29.svg" group-title="Fashion",World Fashion Channel
 http://wfcint.mediacdn.ru/cdn/wfcint/playlist_hdhigh.m3u8
 
 
