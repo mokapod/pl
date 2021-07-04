@@ -8,7 +8,7 @@ https://sport.livedoomovie.com/02_lfctv_720p/chunklist.m3u8
 #HEVC
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="体育",Sky Sports Main Event HEVC
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243580
-#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://static.epg.best/gb/SkySportsPremiereLeague.uk.png" group-title="体育",Sky Sports Premier League HEVC
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://static.epg.best/gb/SkySportsPremiereLeague.uk.png" group-title="体育",Sky Sports Premier League HEVC
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243582
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://static.epg.best/gb/SkySportsFootball.uk.png" group-title="体育",Sky Sports Football HEVC
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243581
@@ -19,7 +19,7 @@ http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243587
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="体育",Sky Sports Main Event
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/13041
 #http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4108
-#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://static.epg.best/gb/SkySportsPremiereLeague.uk.png" group-title="体育",Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://static.epg.best/gb/SkySportsPremiereLeague.uk.png" group-title="体育",Sky Sports Premier League
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4112
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://static.epg.best/gb/SkySportsFootball.uk.png" group-title="体育",Sky Sports Football
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/13040
@@ -37,15 +37,15 @@ http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158551
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158484
 #EXTINF:-1 tvg-id="SkyHistory2.uk" tvg-name="Sky History 2" tvg-logo="https://static.epg.best/gb/History2.uk.png" group-title="娱乐",Sky History 2
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158486
-#EXTINF:-1 tvg-id="CrimeandInvestigation.uk" tvg-name="Investigation Discovery" tvg-logo="https://static.epg.best/gb/CrimeAndInvestigationNetwork.uk.png" group-title="娱乐",Crime + Investigation
+#EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="Investigation Discovery" tvg-logo="https://static.epg.best/gb/CrimeAndInvestigationNetwork.uk.png" group-title="娱乐",Crime + Investigation
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158473
 #EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="Investigation Discovery" tvg-logo="https://static.epg.best/gb/InvestigationDiscovery.uk.png" group-title="娱乐",Investigation Discovery
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158473
 #EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="Animal Planet" tvg-logo="https://static.epg.best/gb/AnimalPlanet.uk.png" group-title="娱乐",Animal Planet
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158477
-#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="National Geographic" tvg-logo="https://static.epg.best/gb/NatGeo.uk.png" group-title="娱乐",National Geographic
+#EXTINF:-1 tvg-id="NationalGeographic.uk" tvg-name="National Geographic" tvg-logo="https://static.epg.best/gb/NatGeo.uk.png" group-title="娱乐",National Geographic
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158479
-#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="National Geographic Wild" tvg-logo="https://static.epg.best/gb/NatGeoWild.uk.png" group-title="娱乐",Nat Geo Wild
+#EXTINF:-1 tvg-id="NationalGeographicWild.uk" tvg-name="National Geographic Wild" tvg-logo="https://static.epg.best/gb/NatGeoWild.uk.png" group-title="娱乐",Nat Geo Wild
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158482
 #EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="Discovery Channel" tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png" group-title="娱乐",Discovery Channel
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158460
@@ -70,19 +70,19 @@ http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4188
 
 #EXTINF:-1 tvg-id="TLC.uk" tvg-name="TLC" tvg-logo="https://static.epg.best/gb/TLC.uk.png" group-title="娱乐",TLC
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/13059
-#EXTINF:-1 tvg-id="SkyHistory.uk" tvg-name="Sky History" tvg-logo="https://static.epg.best/gb/HistoryChannel.uk.png" group-title="娱乐",History
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4197
-#EXTINF:-1 tvg-id="SkyHistory2.uk" tvg-name="Sky History 2" tvg-logo="https://static.epg.best/gb/History2.uk.png" group-title="娱乐",H2
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4195
-#EXTINF:-1 tvg-id="CrimeandInvestigation.uk" tvg-name="Investigation Discovery" tvg-logo="https://static.epg.best/gb/CrimeAndInvestigationNetwork.uk.png" group-title="娱乐",Crime + Investigation
+#EXTINF:-1 tvg-id="SkyHistory.uk" tvg-name="Sky History" tvg-logo="https://static.epg.best/gb/HistoryChannel.uk.png" group-title="娱乐",Sky History
+
+#EXTINF:-1 tvg-id="SkyHistory2.uk" tvg-name="Sky History 2" tvg-logo="https://static.epg.best/gb/History2.uk.png" group-title="娱乐",Sky History 2
+
+#EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="Investigation Discovery" tvg-logo="https://static.epg.best/gb/CrimeAndInvestigationNetwork.uk.png" group-title="娱乐",Crime + Investigation
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4169
 #EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="Investigation Discovery" tvg-logo="https://static.epg.best/gb/InvestigationDiscovery.uk.png" group-title="娱乐",Investigation Discovery
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4202
 #EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="Animal Planet" tvg-logo="https://static.epg.best/gb/AnimalPlanet.uk.png" group-title="娱乐",Animal Planet
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/12504
-#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="National Geographic" tvg-logo="https://static.epg.best/gb/NatGeo.uk.png" group-title="娱乐",National Geographic
+#EXTINF:-1 tvg-id="NationalGeographic.uk" tvg-name="National Geographic" tvg-logo="https://static.epg.best/gb/NatGeo.uk.png" group-title="娱乐",National Geographic
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4223
-#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="National Geographic Wild" tvg-logo="https://static.epg.best/gb/NatGeoWild.uk.png" group-title="娱乐",Nat Geo Wild
+#EXTINF:-1 tvg-id="NationalGeographicWild.uk" tvg-name="National Geographic Wild" tvg-logo="https://static.epg.best/gb/NatGeoWild.uk.png" group-title="娱乐",Nat Geo Wild
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4224
 #EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="Discovery Channel" tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png" group-title="娱乐",Discovery Channel
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/12526
