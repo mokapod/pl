@@ -2,14 +2,13 @@
 
 #EXTINF:-1 tvg-id="NBATV.id" tvg-name="NBA" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="体育",NBA
 http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8
-#https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="WAKUWAKUJAPAN.MACAN" tvg-name="Waku Waku Japan" tvg-logo="https://static.epg.best/id/WakuWakuJapan.id.png" group-title="日韓",WakuWaku Japan
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
 
-#EXTINF:-1 tvg-id="BlueAntEntertainment.id" tvg-name="Blue Ant" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png" group-title="家庭娱乐",Blue Ant Entertainment
+#EXTINF:-1 tvg-id="BlueAntEntertainment.id" tvg-name="Blue Ant" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-asia/blue-ant-entertainment-asi.png" group-title="家庭娱乐",Blue Ant Entertainment
 http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
-#EXTINF:-1 tvg-id="Blue Ant Extreme" tvg-name="Blue Ant Extreme" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png" group-title="家庭娱乐",Blue Ant Extreme
+#EXTINF:-1 tvg-id="Blue Ant Extreme" tvg-name="Blue Ant Extreme" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-asia/blue-ant-extreme-asi.png" group-title="家庭娱乐",Blue Ant Extreme
 http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
