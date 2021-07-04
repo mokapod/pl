@@ -1,30 +1,30 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/gb/MUTV.uk.png" group-title="体育",MUTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/mutv-uk.png?raw=true" group-title="体育",MUTV
 https://sport.livedoomovie.com/02_MUTV_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/gb/LiverpoolFCTV.uk.png" group-title="体育",LFCTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/lfctv-uk.png?raw=true" group-title="体育",LFCTV
 https://sport.livedoomovie.com/02_lfctv_720p/chunklist.m3u8
 
 #HEVC
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="体育",Sky Sports Main Event (HEVC)
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-main-event-hz-uk.png?raw=true" group-title="体育",Sky Sports Main Event (HEVC)
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243580
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://static.epg.best/gb/SkySportsPremiereLeague.uk.png" group-title="体育",Sky Sports Premier League (HEVC)
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-premier-league-hz-uk.png?raw=true" group-title="体育",Sky Sports Premier League (HEVC)
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243582
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://static.epg.best/gb/SkySportsFootball.uk.png" group-title="体育",Sky Sports Football (HEVC)
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-football-hz-uk.png?raw=true" group-title="体育",Sky Sports Football (HEVC)
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243581
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="https://static.epg.best/gb/SkySportsF1.uk.png" group-title="体育",Sky Sports F1 (HEVC)
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-f1-hz-uk.png?raw=true" group-title="体育",Sky Sports F1 (HEVC)
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243587
 
 #Amigo
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="体育",Sky Sports Main Event
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-main-event-hz-uk.png?raw=true" group-title="体育",Sky Sports Main Event
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/13041
 #http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4108
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://static.epg.best/gb/SkySportsPremiereLeague.uk.png" group-title="体育",Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-premier-league-hz-uk.png?raw=true" group-title="体育",Sky Sports Premier League
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4112
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://static.epg.best/gb/SkySportsFootball.uk.png" group-title="体育",Sky Sports Football
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-football-hz-uk.png?raw=true" group-title="体育",Sky Sports Football
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/13040
 #http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4113
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="https://static.epg.best/gb/SkySportsF1.uk.png" group-title="体育",Sky Sports F1
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-f1-hz-uk.png?raw=true" group-title="体育",Sky Sports F1
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4115
 
 #EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/food-network-uk.png?raw=true" group-title="娱乐",Food Network
@@ -52,7 +52,7 @@ http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158460
 #EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="Discovery Science" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/discovery-science-uk.png?raw=true" group-title="娱乐",Discovery Science
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158463
 
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBATV" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="US",NBA TV
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBATV" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nba-tv-us.png?raw=true" group-title="US",NBA TV
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/173432
 
 #EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://media.info/i/lf/600/1579638343/1096.png" group-title="US",HGTV
@@ -61,9 +61,9 @@ http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/117425
 
 
 #Backup
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/gb/MUTV.uk.png" group-title="体育",MUTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/mutv-uk.png?raw=true" group-title="体育",MUTV
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/gb/LiverpoolFCTV.uk.png" group-title="体育",LFCTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/lfctv-uk.png?raw=true" group-title="体育",LFCTV
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4296
 
 #EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/food-network-uk.png?raw=true" group-title="娱乐",Food Network
@@ -91,7 +91,7 @@ http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/12526
 #EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="Discovery Science" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/discovery-science-uk.png?raw=true" group-title="娱乐",Discovery Science
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4173
 
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBATV" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="US",NBA TV
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBATV" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nba-tv-us.png?raw=true" group-title="US",NBA TV
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9850
 
 #EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://media.info/i/lf/600/1579638343/1096.png" group-title="US",HGTV
