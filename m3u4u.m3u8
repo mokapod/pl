@@ -52,7 +52,7 @@ http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158460
 #EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="Discovery Science" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/discovery-science-uk.png?raw=true" group-title="娱乐",Discovery Science
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158463
 
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBATV" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nba-tv-us.png?raw=true" group-title="US",NBA TV
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBATV" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="US",NBA TV
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/173432
 
 #EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://media.info/i/lf/600/1579638343/1096.png" group-title="US",HGTV
