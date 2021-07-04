@@ -4,9 +4,11 @@
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="时尚",Fashion TV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="时尚",Fashion TV New York
+http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/chunklist_b2878000_t64RGVmYXVsdA==.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="时尚",Fashion TV Midnight Secrets
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wfc.tv/images/Logo-WF.png" group-title="Fashion",World Fashion TV 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wfc.tv/images/Logo-WF.png" group-title="Fashion",World Fashion Channel 
 http://wfcint.mediacdn.ru/cdn/wfcint/playlist_hdhigh.m3u8
 
 
@@ -30,23 +32,20 @@ http://85.203.33.88:80/2OvejPbTW4606/xopfto268/33973
 
 #IN
 #EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="Sony Ten 1 HD IN" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="体育",SONY TEN 1
-http://starshare.live:8080/live/W@_A@Q@HJ@09@LK@HJW85YNE5WCV4/Q@_Z@.Q@KJ@09@LK@FG89KNDT97@976F/9402.ts
-#http://85.203.33.88:80/2OvejPbTW4606/xopfto268/10168
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/153767
 #http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9158
 #EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="Sony Ten 2 HD IN" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="体育",SONY TEN 2
-http://starshare.live:8080/live/W@_A@Q@HJ@09@LK@HJW85YNE5WCV4/Q@_Z@.Q@KJ@09@LK@FG89KNDT97@976F/9403.ts
-#http://85.203.33.88:80/2OvejPbTW4606/xopfto268/10170
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/153769
 #http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9159
 #EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="Sony Ten 3 IN" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="体育",SONY TEN 3
-http://starshare.live:8080/live/W@_A@Q@HJ@09@LK@HJW85YNE5WCV4/Q@_Z@.Q@KJ@09@LK@FG89KNDT97@976F/9404.ts
-#http://85.203.33.88:80/2OvejPbTW4606/xopfto268/10169
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/153771
 #http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9160
 #EXTINF:-1 tvg-id="SonySIX.in" tvg-name="Sony Six HD IN" tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="体育",SONY SIX
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/18805
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/153765
 
 #EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India IN" tvg-logo="https://static.epg.best/in/MusicIndia.in.png" group-title="音乐",Music India
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/6245
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/153866
 #EXTINF:-1 tvg-id="" tvg-name="Desi Channel IN" tvg-logo="https://picon-13398.kxcdn.com/desichannelin.jpg" group-title="音乐",Desi Channel
 http://85.203.33.88:80/2OvejPbTW4606/xopfto268/10141
 #EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM IN" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="音乐",9XM
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/10185
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/153809
