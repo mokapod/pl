@@ -6,13 +6,13 @@ https://sport.livedoomovie.com/02_MUTV_720p/chunklist.m3u8
 https://sport.livedoomovie.com/02_lfctv_720p/chunklist.m3u8
 
 #HEVC
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="体育",Sky Sports Main Event HEVC
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="体育",Sky Sports Main Event (HEVC)
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243580
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://static.epg.best/gb/SkySportsPremiereLeague.uk.png" group-title="体育",Sky Sports Premier League HEVC
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://static.epg.best/gb/SkySportsPremiereLeague.uk.png" group-title="体育",Sky Sports Premier League (HEVC)
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243582
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://static.epg.best/gb/SkySportsFootball.uk.png" group-title="体育",Sky Sports Football HEVC
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://static.epg.best/gb/SkySportsFootball.uk.png" group-title="体育",Sky Sports Football (HEVC)
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243581
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="https://static.epg.best/gb/SkySportsF1.uk.png" group-title="体育",Sky Sports F1 HEVC
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="https://static.epg.best/gb/SkySportsF1.uk.png" group-title="体育",Sky Sports F1 (HEVC)
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243587
 
 #Amigo
@@ -49,7 +49,7 @@ http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158479
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158482
 #EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="Discovery Channel" tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png" group-title="娱乐",Discovery Channel
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158460
-#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="Discovery Science" tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png" group-title="娱乐",Discovery Science
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="Discovery Science" tvg-logo="https://static.epg.best/gb/DiscoveryScience.uk.png" group-title="娱乐",Discovery Science
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158463
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBATV" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="US",NBA TV
@@ -86,7 +86,7 @@ http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4223
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4224
 #EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="Discovery Channel" tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png" group-title="娱乐",Discovery Channel
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/12526
-#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="Discovery Science" tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png" group-title="娱乐",Discovery Science
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="Discovery Science" tvg-logo="https://static.epg.best/gb/DiscoveryScience.uk.png" group-title="娱乐",Discovery Science
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4173
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBATV" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="US",NBA TV
