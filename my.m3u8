@@ -66,35 +66,35 @@ https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="715" tvg-name="HGTV HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/715_300.png" group-title="家庭娱乐",HGTV
+#EXTINF:-1 tvg-id="715" tvg-name="HGTV HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hgtv-uk.png" group-title="家庭娱乐",HGTV
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="707" tvg-name="TLC HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/707_300.png" group-title="家庭娱乐",TLC
+#EXTINF:-1 tvg-id="707" tvg-name="TLC HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/tlc-uk.png" group-title="家庭娱乐",TLC
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="555" tvg-name="History HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/555_300.png" group-title="家庭娱乐",History
+#EXTINF:-1 tvg-id="555" tvg-name="History HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/history-channel-uk.png" group-title="家庭娱乐",History
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-#EXTINF:-1 tvg-id="714" tvg-name="Crime and Investigation HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/714_300.png" group-title="家庭娱乐",Crime + Investigation
+#EXTINF:-1 tvg-id="714" tvg-name="Crime and Investigation HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/crime-and-investigation-uk.png" group-title="家庭娱乐",Crime + Investigation
 http://203.154.177.124:8899/live/ch23/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="556" tvg-name="Animal Planet HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="家庭娱乐",Animal Planet
+#EXTINF:-1 tvg-id="556" tvg-name="Animal Planet HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/animal-planet-uk.png" group-title="家庭娱乐",Animal Planet
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-id="551" tvg-name="National Geographic HD" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065651397ki2.png" group-title="家庭娱乐",National Geographic
+#EXTINF:-1 tvg-id="551" tvg-name="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-uk.png" group-title="家庭娱乐",National Geographic
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-id="550" tvg-name="Nat Geo Wild HD" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202009/20200907/20200907034018802dtj.PNG" group-title="家庭娱乐",Nat Geo Wild
+#EXTINF:-1 tvg-id="550" tvg-name="Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-wild-uk.png" group-title="家庭娱乐",Nat Geo Wild
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -104,7 +104,7 @@ https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="552" tvg-name="Discovery Channel HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/552_300.png" group-title="家庭娱乐",Discovery Channel
+#EXTINF:-1 tvg-id="552" tvg-name="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/discovery-channel-uk.png" group-title="家庭娱乐",Discovery Channel
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 #EXTINF:-1 tvg-ID="553" tvg-name="Discovery Asia HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/553_300.png" group-title="家庭娱乐",Discovery Asia
