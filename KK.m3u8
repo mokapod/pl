@@ -33,56 +33,53 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 #EXTINF:-1 tvg-ID="ChU.SG" tvg-name="" tvg-logo="https://static.epg.best/sg/ChannelU.sg.png" group-title="马新",U频道
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
-#EXTINF:-1 tvg-id="513" tvg-name="Al Jazeera English HD" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="新闻",Al Jazeera
+#EXTINF:-1 tvg-id="513" tvg-name="Al Jazeera English HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/aljazeera-int.png" group-title="新闻",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="512" tvg-name="BBC World News HD" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="新闻",BBC World News
+#EXTINF:-1 tvg-id="512" tvg-name="BBC World News HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/bbc-world-news-int.png" group-title="新闻",BBC World News
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kkdjradio.com/wp-content/uploads/2019/01/cbs-news.png" group-title="新闻",CBS News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/us/cbsn-us.png" group-title="新闻",CBS News
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-id="503" tvg-name="CGTN" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/503_300.png" group-title="新闻",CGTN
+#EXTINF:-1 tvg-id="503" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/cgtn-int.png" group-title="新闻",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="515" tvg-name="CNA HD" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png" group-title="新闻",CNA
+#EXTINF:-1 tvg-id="515" tvg-name="CNA HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/cna-int.png" group-title="新闻",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="511" tvg-name="CNN HD" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="新闻",CNN
+#EXTINF:-1 tvg-id="511" tvg-name="CNN HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/us/cnn-us.png" group-title="新闻",CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="AGEC2" tvg-name="DW English" tvg-logo="http://static.epg.best/de/DeutscheWelleEn.de.png" group-title="新闻",Deutsche Welle
+#EXTINF:-1 tvg-id="AGEC2" tvg-name="DW English" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/dw-int.png" group-title="新闻",Deutsche Welle
 https://livecdn.fptplay.net/world/dwenglish_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AGEC3" tvg-name="France24" tvg-logo="http://static.epg.best/fr/France24English.fr.png" group-title="新闻",France 24
+#EXTINF:-1 tvg-id="AGEC3" tvg-name="France24" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/france-24-int.png" group-title="新闻",France 24
 https://livecdn.fptplay.net/world/france24_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="398" tvg-name="NHK World" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" group-title="新闻",NHK World
+#EXTINF:-1 tvg-id="398" tvg-name="NHK World" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/nhk-world-japan-int.png" group-title="新闻",NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="新闻",RT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/russia-today-int.png" group-title="新闻",RT
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 
-#EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png" group-title="体育",Astro SuperSport
-#http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/astro-supersport-my.png" group-title="体育",Astro SuperSport
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png" group-title="体育",Astro SuperSport 2
-#http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/astro-supersport-2-my.png" group-title="体育",Astro SuperSport 2
 http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png" group-title="体育",Astro SuperSport 3
-#http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/astro-supersport-3-my.png" group-title="体育",Astro SuperSport 3
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814_300.png" group-title="体育",Astro SuperSport 4
-#http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/astro-supersport-4-my.png" group-title="体育",Astro SuperSport 4
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="801" tvg-name="Astro Arena HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/802_300.png" group-title="体育",Astro Arena
-http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1 tvg-id="801" tvg-name="Astro Arena HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/astro-arena-my.png" group-title="体育",Astro Arena
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-id="foxsportshd" tvg-name="FOX Sports HD" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="体育",FOX Sports ᵛⁿ
+#EXTINF:-1 tvg-id="foxsportshd" tvg-name="FOX Sports HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/fox-sports-asi.png" group-title="体育",FOX Sports
 https://liveanevia.mncnow.id/live/eds/FoxSportss1s/sa_dash_vmx/FoxSportss1s.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-id="foxsports2hd" tvg-name="FOX Sports 2 HD" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="体育",FOX Sports 2 ᵛⁿ
+#EXTINF:-1 tvg-id="foxsports2hd" tvg-name="FOX Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/fox-sports-2-asi.png" group-title="体育",FOX Sports 2
 https://liveanevia.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-id="foxsports3hd" tvg-name="FOX Sports 3 HD" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="体育",FOX Sports 3 ᵛⁿ
+#EXTINF:-1 tvg-id="foxsports3hd" tvg-name="FOX Sports 3 HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/fox-sports-3-asi.png" group-title="体育",FOX Sports 3
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育",CCTV-5 体育
@@ -90,41 +87,41 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 
-#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="Sony Ten 1 HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten1in.jpg" group-title="体育",SONY TEN 1
-http://starshare.live:8080/live/W@_A@Q@HJ@09@LK@HJW85YNE5WCV4/Q@_Z@.Q@KJ@09@LK@FG89KNDT97@976F/9402.ts
-#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="Sony Ten 2 HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten2in.jpg" group-title="体育",SONY TEN 2
-http://starshare.live:8080/live/W@_A@Q@HJ@09@LK@HJW85YNE5WCV4/Q@_Z@.Q@KJ@09@LK@FG89KNDT97@976F/9403.ts
-#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="Sony Ten 3 IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten3in.jpg" group-title="体育",SONY TEN 3
-http://starshare.live:8080/live/W@_A@Q@HJ@09@LK@HJW85YNE5WCV4/Q@_Z@.Q@KJ@09@LK@FG89KNDT97@976F/9404.ts
+#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="Sony Ten 1 HD IN" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="体育",SONY TEN 1
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9158
+#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="Sony Ten 2 HD IN" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="体育",SONY TEN 2
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9159
+#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="Sony Ten 3 IN" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="体育",SONY TEN 3
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9160
 
-#EXTINF:-1 tvg-id="NBATV.id" tvg-name="NBA" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="体育",NBA
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBATV" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/us/nba-tv-icon-us.png" group-title="US",NBA TV
 http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="体育",MUTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/mutv-uk.png" group-title="体育",MUTV
 https://sport.livedoomovie.com/02_MUTV_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png" group-title="体育",LFCTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/lfctv-uk.png" group-title="体育",LFCTV
 https://sport.livedoomovie.com/02_lfctv_720p/chunklist.m3u8
 
 #HEVC
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="体育",Sky Sports Main Event HEVC
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event (HEVC)" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-main-event-uk.png" group-title="体育",Sky Sports Main Event (HEVC)
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243580
-#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://static.epg.best/gb/SkySportsPremiereLeague.uk.png" group-title="体育",Sky Sports Premier League HEVC
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League (HEVC)" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-premier-league-uk.png" group-title="体育",Sky Sports Premier League (HEVC)
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243582
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://static.epg.best/gb/SkySportsFootball.uk.png" group-title="体育",Sky Sports Football HEVC
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football (HEVC)" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-football-uk.png" group-title="体育",Sky Sports Football (HEVC)
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243581
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="https://static.epg.best/gb/SkySportsF1.uk.png" group-title="体育",Sky Sports F1 HEVC
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 (HEVC)" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-f1-uk.png" group-title="体育",Sky Sports F1 (HEVC)
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243587
 
 #Amigo
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="体育",Sky Sports Main Event
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-main-event-icon-uk.png" group-title="体育",Sky Sports Main Event
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/13041
 #http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4108
-#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://static.epg.best/gb/SkySportsPremiereLeague.uk.png" group-title="体育",Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-premier-league-icon-uk.png" group-title="体育",Sky Sports Premier League
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4112
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://static.epg.best/gb/SkySportsFootball.uk.png" group-title="体育",Sky Sports Football
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-football-icon-uk.png" group-title="体育",Sky Sports Football
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/13040
 #http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4113
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="https://static.epg.best/gb/SkySportsF1.uk.png" group-title="体育",Sky Sports F1
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-f1-icon-uk.png" group-title="体育",Sky Sports F1
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4115
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国",CCTV-1 综合
@@ -184,7 +181,7 @@ http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="港台",壹电视新闻
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
 
-#EXTINF:-1 tvg-id="392" tvg-name="KBS World HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/392_300.png" group-title="日韓",KBS World
+#EXTINF:-1 tvg-id="392" tvg-name="KBS World HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int//kbs-world-int.png" group-title="日韓",KBS World
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:-1 tvg-id="393" tvg-name="One HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/393_300.png" group-title="日韓",One
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
@@ -193,13 +190,8 @@ http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF:-1 tvg-id="395" tvg-name="tvN HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" group-title="日韓",tvN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-#EXTINF:-1 tvg-id="AGEC1" tvg-name="K-Plus HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png" group-title="日韓",K+
+#EXTINF:-1 tvg-id="AGEC1" tvg-name="K-Plus HD" tvg-logo="https://static.epg.best/id/Kplus.id.png" group-title="日韓",K+
 http://210.210.155.35/uq2663/h/h08/01.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="WakuWakuJapan.id" tvg-name="Waku Waku Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="日韓",WakuWaku Japan
-https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -208,35 +200,35 @@ https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="715" tvg-name="HGTV HD" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="家庭娱乐",HGTV
+#EXTINF:-1 tvg-id="715" tvg-name="HGTV HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/hgtv-uk.png" group-title="家庭娱乐",HGTV
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="707" tvg-name="TLC HD" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="家庭娱乐",TLC
+#EXTINF:-1 tvg-id="707" tvg-name="TLC HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/tlc-uk.png" group-title="家庭娱乐",TLC
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="555" tvg-name="History HD" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="家庭娱乐",History
+#EXTINF:-1 tvg-id="555" tvg-name="History HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/history-channel-uk.png" group-title="家庭娱乐",History
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-#EXTINF:-1 tvg-id="714" tvg-name="Crime and Investigation HD" tvg-logo="https://static.epg.best/id/CrimeInvestigation.id.png" group-title="家庭娱乐",Crime + Investigation
+#EXTINF:-1 tvg-id="714" tvg-name="Crime and Investigation HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/crime-and-investigation-uk.png" group-title="家庭娱乐",Crime + Investigation
 http://203.154.177.124:8899/live/ch23/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="556" tvg-name="Animal Planet HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="家庭娱乐",Animal Planet
+#EXTINF:-1 tvg-id="556" tvg-name="Animal Planet HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/animal-planet-uk.png" group-title="家庭娱乐",Animal Planet
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-id="551" tvg-name="National Geographic HD" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065651397ki2.png" group-title="家庭娱乐",National Geographic
+#EXTINF:-1 tvg-id="551" tvg-name="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/national-geographic-uk.png" group-title="家庭娱乐",National Geographic
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-id="550" tvg-name="Nat Geo Wild HD" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202009/20200907/20200907034018802dtj.PNG" group-title="家庭娱乐",Nat Geo Wild
+#EXTINF:-1 tvg-id="550" tvg-name="Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/national-geographic-wild-uk.png" group-title="家庭娱乐",Nat Geo Wild
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -246,12 +238,13 @@ https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="552" tvg-name="Discovery Channel HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/552_300.png" group-title="家庭娱乐",Discovery Channel
+#EXTINF:-1 tvg-id="552" tvg-name="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/discovery-channel-uk.png" group-title="家庭娱乐",Discovery Channel
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 #EXTINF:-1 tvg-ID="553" tvg-name="Discovery Asia HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/553_300.png" group-title="家庭娱乐",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="BlueAntEntertainment.id" tvg-name="Blue Ant" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png" group-title="家庭娱乐",Blue Ant Entertainment
+
+#EXTINF:-1 tvg-id="BlueAntEntertainment.id" tvg-name="Blue Ant" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/blue-ant-entertainment-asi.png" group-title="家庭娱乐",Blue Ant Entertainment
 http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
-#EXTINF:-1 tvg-id="Blue Ant Extreme" tvg-name="Blue Ant Extreme" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png" group-title="家庭娱乐",Blue Ant Extreme
+#EXTINF:-1 tvg-id="Blue Ant Extreme" tvg-name="Blue Ant Extreme" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/blue-ant-extreme-asi.png" group-title="家庭娱乐",Blue Ant Extreme
 http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
