@@ -30,6 +30,18 @@ http://85.203.33.88:80/2OvejPbTW4606/xopfto268/33973
 
 
 
+#SG
+#EXTINF:-1 tvg-id="70ad54a5f0bdfe84cf5345bd99c8c4dc",CNA
+http://101.127.128.44:9981/stream/channelid/626306416?ticket=9EF21B74776E318921295F5836F390C5E1D470B2&profile=pass
+#EXTINF:-1 tvg-id="074b5b58caa4032fb3cea403eef32c99",Channel 5
+http://101.127.128.44:9981/stream/channelid/1482377991?ticket=B3C0B71008814F5F73175734B361B5E361CC7574&profile=pass
+#EXTINF:-1 tvg-id="b7042ce20ba00bc2320afacd4b43c099",Channel 8
+http://101.127.128.44:9981/stream/channelid/1647051959?ticket=F257C6B20A9806785148204E708CE6E72917C61A&profile=pass
+#EXTINF:-1 tvg-id="3c05f8e399abe076a13ff1bb17714840",Channel U
+http://101.127.128.44:9981/stream/channelid/1677198652?ticket=3690EF20864657784AC8F05EEBBAF0B930EC0F0F&profile=pass
+
+
+
 #IN
 #EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="Sony Ten 1 HD IN" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="体育",SONY TEN 1
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/153767
