@@ -6,13 +6,13 @@ https://sport.livedoomovie.com/02_MUTV_720p/chunklist.m3u8
 https://sport.livedoomovie.com/02_lfctv_720p/chunklist.m3u8
 
 #HEVC
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event (HEVC)" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-main-event-uk.png" group-title="体育",Sky Sports Main Event (HEVC)
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event (HEVC)" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-main-event-bug-uk.png" group-title="体育",Sky Sports Main Event (HEVC)
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243580
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League (HEVC)" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-premier-league-uk.png" group-title="体育",Sky Sports Premier League (HEVC)
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League (HEVC)" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-premier-league-bug-uk.png" group-title="体育",Sky Sports Premier League (HEVC)
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243582
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football (HEVC)" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-football-uk.png" group-title="体育",Sky Sports Football (HEVC)
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football (HEVC)" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-football-bug-uk.png" group-title="体育",Sky Sports Football (HEVC)
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243581
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 (HEVC)" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-f1-uk.png" group-title="体育",Sky Sports F1 (HEVC)
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 (HEVC)" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-f1-bug-uk.png" group-title="体育",Sky Sports F1 (HEVC)
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243587
 
 #EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/food-network-uk.png" group-title="娱乐",Food Network
@@ -56,15 +56,15 @@ http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158283
 #http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4296
 
 #Amigo
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-main-event-icon-uk.png" group-title="体育",Sky Sports Main Event
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-main-event-uk.png" group-title="体育",Sky Sports Main Event
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/13041
 #http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4108
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-premier-league-icon-uk.png" group-title="体育",Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-premier-league-uk.png" group-title="体育",Sky Sports Premier League
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4112
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-football-icon-uk.png" group-title="体育",Sky Sports Football
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-football-uk.png" group-title="体育",Sky Sports Football
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/13040
 #http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4113
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-f1-icon-uk.png" group-title="体育",Sky Sports F1
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-f1-uk.png" group-title="体育",Sky Sports F1
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4115
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBATV" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/us/nba-tv-icon-us.png" group-title="US",NBA TV
