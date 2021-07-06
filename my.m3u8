@@ -50,7 +50,7 @@ http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="392" tvg-name="KBS World HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/kbs-world-int.png" group-title="日韓",KBS World
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-#EXTINF:-1 tvg-id="393" tvg-name="One HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/393_300.png" group-title="日韓",One
+#EXTINF:-1 tvg-id="393" tvg-name="One HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/sony-one-int.png" group-title="日韓",One
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF:-1 tvg-id="394" tvg-name="Oh!K HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/oh!k-int.png" group-title="日韓",Oh!K
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
