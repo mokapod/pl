@@ -43,7 +43,7 @@ http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158463
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBATV" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/us/nba-tv-icon-us.png" group-title="US",NBA TV
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/173432
 
-#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://media.info/i/lf/600/1579638343/1096.png" group-title="US",HGTV
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/us/hgtv-us.png" group-title="US",HGTV
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/117425
 
 
@@ -70,5 +70,5 @@ http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4115
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBATV" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/us/nba-tv-icon-us.png" group-title="US",NBA TV
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9850
 
-#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://media.info/i/lf/600/1579638343/1096.png" group-title="US",HGTV
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/us/hgtv-us.png" group-title="US",HGTV
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9856
