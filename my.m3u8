@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="102" tvg-name="TV2" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="马新",TV2
 http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
-#EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148_300.png" group-title="马新",8TV
+#EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/8tv-my.png" group-title="马新",8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 tvg-id="306" tvg-name="Astro AEC HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png" group-title="马新",AEC
 http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
