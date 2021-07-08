@@ -14,6 +14,10 @@ http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243582
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243581
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 (HEVC)" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-f1-bug-frame-uk.png" group-title="体育",Sky Sports F1 (HEVC)
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243587
+#EXTINF:-1 tvg-id="skysportsnfl.uk" tvg-name="Sky Sports Action (HEVC)" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-action-bug-frame-uk.png" group-title="体育",Sky Sports Action (HEVC)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243584
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="Sky Sports Arena (HEVC)" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-arena-bug-frame-uk.png" group-title="体育",Sky Sports Arena (HEVC)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243583
 
 #EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/food-network-uk.png" group-title="娱乐",Food Network
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158454
@@ -66,6 +70,10 @@ http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/13040
 #http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4113
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-f1-uk.png" group-title="体育",Sky Sports F1
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4115
+#EXTINF:-1 tvg-id="skysportsnfl.uk" tvg-name="Sky Sports Action" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-action-uk.png" group-title="体育",Sky Sports Action
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/12983
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="Sky Sports Arena" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-arena-uk.png" group-title="体育",Sky Sports Arena
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/12985
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBATV" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/us/nba-tv-icon-us.png" group-title="US",NBA TV
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9850
