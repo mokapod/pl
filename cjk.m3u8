@@ -47,7 +47,7 @@ http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/tvb-news-asi.png" group-title="港台",无线新闻
 http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:-1 tvg-ID="7122" tvg-name="有线新闻台" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/icable-news-asi.png" group-title="港台",有线新闻
-http://hkyx.love.sky-media.tk/test/index.php?id=37
+https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="NOW.HK" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/now-news-asi.png" group-title="港台",Now新闻
 http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/tvb-j2-asi.png" group-title="港台",J2
