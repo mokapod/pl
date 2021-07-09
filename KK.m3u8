@@ -126,6 +126,18 @@ http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/199243
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158245
 #http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/6201
 
+#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="Sony Ten 1 HD IN" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="体育",SONY TEN 1
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/153767
+#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9158
+#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="Sony Ten 2 HD IN" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="体育",SONY TEN 2
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/153769
+#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9159
+#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="Sony Ten 3 IN" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="体育",SONY TEN 3
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/153771
+#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9160
+#EXTINF:-1 tvg-id="SonySIX.in" tvg-name="Sony Six HD IN" tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="体育",SONY SIX
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/153765
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国",CCTV-1 综合
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中国",CCTV-2 财经
