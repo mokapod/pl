@@ -96,47 +96,18 @@ https://sport.livedoomovie.com/02_MUTV_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/lfctv-uk.png" group-title="体育",LFCTV
 https://sport.livedoomovie.com/02_lfctv_720p/chunklist.m3u8
 
-#HEVC
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event (HEVC)" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-main-event-bug-uk.png" group-title="体育",Sky Sports Main Event (HEVC)
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243580
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League (HEVC)" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-premier-league-bug-uk.png" group-title="体育",Sky Sports Premier League (HEVC)
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243582
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football (HEVC)" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-football-bug-uk.png" group-title="体育",Sky Sports Football (HEVC)
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243581
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 (HEVC)" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-f1-bug-uk.png" group-title="体育",Sky Sports F1 (HEVC)
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/243587
-
-#FHD
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-main-event-uk.png" group-title="体育",Sky Sports Main Event
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158237
-#http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/335
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/335
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-premier-league-uk.png" group-title="体育",Sky Sports Premier League
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158241
-#http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/331
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/331
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-football-uk.png" group-title="体育",Sky Sports Football
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158239
-#http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/6204
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/6204
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-f1-uk.png" group-title="体育",Sky Sports F1
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158253
-#http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/371
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/371
 #EXTINF:-1 tvg-id="skysportsnfl.uk" tvg-name="Sky Sports Action" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-action-uk.png" group-title="体育",Sky Sports Action
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/199243
-#http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/333
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/333
 #EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="Sky Sports Arena" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/sky-sports-arena-uk.png" group-title="体育",Sky Sports Arena
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158245
-#http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/6201
-
-#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="Sony Ten 1 HD IN" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="体育",SONY TEN 1
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/153767
-#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9158
-#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="Sony Ten 2 HD IN" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="体育",SONY TEN 2
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/153769
-#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9159
-#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="Sony Ten 3 IN" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="体育",SONY TEN 3
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/153771
-#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9160
-#EXTINF:-1 tvg-id="SonySIX.in" tvg-name="Sony Six HD IN" tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="体育",SONY SIX
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/153765
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/6201
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国",CCTV-1 综合
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
@@ -203,7 +174,7 @@ http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF:-1 tvg-id="394" tvg-name="Oh!K HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/394_300.png" group-title="日韓",Oh!K
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Ohk/playlist.m3u8
+#http://185.180.221.194:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF:-1 tvg-id="395" tvg-name="tvN HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" group-title="日韓",tvN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 tvg-id="AGEC1" tvg-name="K-Plus HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/kplus-int.png" group-title="日韓",K+
