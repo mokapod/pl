@@ -9,43 +9,4 @@ http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_defa
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/fashion-tv-int.png" group-title="时尚",Fashion TV Midnight Secrets
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/wfc-tv-int.png" group-title="Fashion",World Fashion Channel
-https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
-
-
-
-#MY
-#EXTINF:-1 tvg-id="818" tvg-name="beIN Sports HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/818_300.png" group-title="体育",beIN Sports
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/27938
-#EXTINF:-1 tvg-id="819" tvg-name="beIN Sports MAX HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/819_300.png" group-title="体育",beIN Sports MAX
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/27937
-
-#EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png" group-title="体育",Astro SuperSport
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/23453
-#EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png" group-title="体育",Astro SuperSport 2
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/23452
-#EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png" group-title="体育",Astro SuperSport 3
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/23451
-#EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814_300.png" group-title="体育",Astro SuperSport 4
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/33973
-
-
-
-#IN
-#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="Sony Ten 1 HD IN" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="体育",SONY TEN 1
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/153767
-#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9158
-#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="Sony Ten 2 HD IN" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="体育",SONY TEN 2
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/153769
-#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9159
-#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="Sony Ten 3 IN" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="体育",SONY TEN 3
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/153771
-#http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9160
-#EXTINF:-1 tvg-id="SonySIX.in" tvg-name="Sony Six HD IN" tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="体育",SONY SIX
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/153765
-
-#EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India IN" tvg-logo="https://static.epg.best/in/MusicIndia.in.png" group-title="音乐",Music India
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/153866
-#EXTINF:-1 tvg-id="" tvg-name="Desi Channel IN" tvg-logo="https://picon-13398.kxcdn.com/desichannelin.jpg" group-title="音乐",Desi Channel
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/10141
-#EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM IN" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="音乐",9XM
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/153809
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
