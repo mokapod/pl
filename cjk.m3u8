@@ -46,8 +46,6 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/tvb-news-asi.png" group-title="港台",無線新聞
 http://livetv.dnsfor.me/channel.10.m3u8
-#EXTINF:-1 tvg-ID="7122" tvg-name="有线新闻台" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/icable-news-asi.png" group-title="港台",有線新聞
-https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="NOW.HK" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/now-news-asi.png" group-title="港台",Now新聞
 http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/tvb-j2-asi.png" group-title="港台",J2
@@ -56,8 +54,8 @@ http://livetv.dnsfor.me:80/channel.19.m3u8
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/tvbs-news-asi.png" group-title="港台",TVBS新聞
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/nexttv-news-asi.png" group-title="港台",壹電視新聞
-http://stream.nexttv.com.tw/n001/hd/live.m3u8
+#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="港台",中天综合
+http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育",CCTV-5 体育
 http://hdtv.lzu6.edu.cn/hls/cctv5hd.m3u8
