@@ -1,23 +1,31 @@
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml,http://epg.51zmt.top:8000/e.xml"
 
 #EXTINF:-1 tvg-id="102" tvg-name="TV2" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/tv2-my.png" group-title="马新",TV2
-http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/8tv-my.png" group-title="马新",8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 tvg-id="306" tvg-name="Astro AEC HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/astro-aec-my.png" group-title="马新",AEC
-http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
+http://198.16.106.62:8278/streams/d/Aec1511/playlist.m3u8
+#http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
 #EXTINF:-1 tvg-id="307" tvg-name="Astro Shuang Xing HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/astro-shuangxing-my.png" group-title="马新",双星
-http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1 tvg-id="308" tvg-name="Astro Quan Jia HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/astro-quanjia-my.png" group-title="马新",全佳
-http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
 #EXTINF:-1 tvg-id="309" tvg-name="Celestial Movies HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/celestial-movies-asi.png" group-title="马新",天映频道
-http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-id="310" tvg-name="TVB Jade" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/tvb-jade-asi.png" group-title="马新",翡翠台
-http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+#http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
 #EXTINF:-1 tvg-id="300" tvg-name="iQIYI HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/iqiyi-asi.png" group-title="马新",爱奇艺
-http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+http://198.16.106.62:8278/streams/d/Qiyi1511/playlist.m3u8
+#http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
 #EXTINF:-1 tvg-id="333" tvg-name="Astro Hua Hee Dai HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/astro-huaheedai-my.png" group-title="马新",欢喜台
-http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+#http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
@@ -227,3 +235,57 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m
 http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-id="Blue Ant Extreme" tvg-name="Blue Ant Extreme" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/blue-ant-extreme-asi.png" group-title="家庭娱乐",Blue Ant Extreme
 http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 tvg-id="785" tvg-name="ASSP 785" tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Tokyo 2020",Astro SuperSport CH785
+https://cutt.ly/FQvpobn
+#EXTINF:-1 tvg-id="786" tvg-name="ASSP 786" tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Tokyo 2020",Astro SuperSport CH786
+https://cutt.ly/eQvpTep
+#EXTINF:-1 tvg-id="787" tvg-name="ASSP 787" tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Tokyo 2020",Astro SuperSport CH787
+https://cutt.ly/mQva7rf
+#EXTINF:-1 tvg-id="788" tvg-name="ASSP 788" tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Tokyo 2020",Astro SuperSport CH788
+https://cutt.ly/eQvswWX
+#EXTINF:-1 tvg-id="789" tvg-name="ASSP 789" tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Tokyo 2020",Astro SuperSport CH789
+https://cutt.ly/nQvstaV
+#EXTINF:-1 tvg-id="790" tvg-name="ASSP 790" tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Tokyo 2020",Astro SuperSport CH790
+https://cutt.ly/lQvsphH
+#EXTINF:-1 tvg-id="791" tvg-name="ASSP 791" tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Tokyo 2020",Astro SuperSport CH791
+https://cutt.ly/GQvsdAz
+#EXTINF:-1 tvg-id="792" tvg-name="ASSP 792" tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Tokyo 2020",Astro SuperSport CH792
+https://cutt.ly/KQvsh79
+#EXTINF:-1 tvg-id="793" tvg-name="ASSP 793" tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Tokyo 2020",Astro SuperSport CH793
+https://cutt.ly/rQvsxxk
+#EXTINF:-1 tvg-id="794" tvg-name="ASSP 794" tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Tokyo 2020",Astro SuperSport CH794
+https://cutt.ly/hQvsbhk
+
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 1
+http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 2
+http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 3
+http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 4
+http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 5
+http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 6
+http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 7
+http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 8
+http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 9
+http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 10
+http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 11
+http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 12
+http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 13
+http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 14
+http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 15
+http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 16
+http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
