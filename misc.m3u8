@@ -20,3 +20,57 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/wfc-tv-int.png" group-title="Fashion",World Fashion Channel Russia
 https://wfcrus.mediacdn.ru/cdn/wfcrusweb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="785" tvg-name="ASSP 785" tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Tokyo 2020",Astro SuperSport CH785
+https://cutt.ly/FQvpobn
+#EXTINF:-1 tvg-id="786" tvg-name="ASSP 786" tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Tokyo 2020",Astro SuperSport CH786
+https://cutt.ly/eQvpTep
+#EXTINF:-1 tvg-id="787" tvg-name="ASSP 787" tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Tokyo 2020",Astro SuperSport CH787
+https://cutt.ly/mQva7rf
+#EXTINF:-1 tvg-id="788" tvg-name="ASSP 788" tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Tokyo 2020",Astro SuperSport CH788
+https://cutt.ly/eQvswWX
+#EXTINF:-1 tvg-id="789" tvg-name="ASSP 789" tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Tokyo 2020",Astro SuperSport CH789
+https://cutt.ly/nQvstaV
+#EXTINF:-1 tvg-id="790" tvg-name="ASSP 790" tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Tokyo 2020",Astro SuperSport CH790
+https://cutt.ly/lQvsphH
+#EXTINF:-1 tvg-id="791" tvg-name="ASSP 791" tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Tokyo 2020",Astro SuperSport CH791
+https://cutt.ly/GQvsdAz
+#EXTINF:-1 tvg-id="792" tvg-name="ASSP 792" tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Tokyo 2020",Astro SuperSport CH792
+https://cutt.ly/KQvsh79
+#EXTINF:-1 tvg-id="793" tvg-name="ASSP 793" tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Tokyo 2020",Astro SuperSport CH793
+https://cutt.ly/rQvsxxk
+#EXTINF:-1 tvg-id="794" tvg-name="ASSP 794" tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Tokyo 2020",Astro SuperSport CH794
+https://cutt.ly/hQvsbhk
+
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 1
+http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 2
+http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 3
+http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 4
+http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 5
+http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 6
+http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 7
+http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 8
+http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 9
+http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 10
+http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 11
+http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 12
+http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 13
+http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 14
+http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 15
+http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",AIS PLAY 16
+http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
