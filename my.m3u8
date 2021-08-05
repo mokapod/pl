@@ -21,7 +21,8 @@ http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 #http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
 #EXTINF:-1 tvg-id="300" tvg-name="iQIYI HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/iqiyi-asi.png" group-title="马新",爱奇艺
-http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+http://198.16.106.62:8278/streams/d/Qiyi1511/playlist.m3u8
+#http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
 #EXTINF:-1 tvg-id="333" tvg-name="Astro Hua Hee Dai HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/astro-huaheedai-my.png" group-title="马新",欢喜台
 http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 #http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
