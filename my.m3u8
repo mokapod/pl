@@ -5,6 +5,7 @@ http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/8tv-my.png" group-title="马新",8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="306" tvg-name="Astro AEC HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/astro-aec-my.png" group-title="马新",AEC
 http://198.16.106.62:8278/streams/d/Aec1511/playlist.m3u8
 #http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
@@ -22,6 +23,7 @@ http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 #http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
 #EXTINF:-1 tvg-id="300" tvg-name="iQIYI HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/iqiyi-asi.png" group-title="马新",爱奇艺
 http://198.16.106.62:8278/streams/d/Qiyi1511/playlist.m3u8
+http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 #http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
 #EXTINF:-1 tvg-id="333" tvg-name="Astro Hua Hee Dai HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/astro-huaheedai-my.png" group-title="马新",欢喜台
 http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
@@ -60,7 +62,8 @@ http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:-1 tvg-id="393" tvg-name="One HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/sony-one-int.png" group-title="日韓",One
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF:-1 tvg-id="394" tvg-name="Oh!K HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/oh!k-int.png" group-title="日韓",Oh!K
-http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+http://50.7.161.82:8278/streams/d/ohk_pye/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF:-1 tvg-id="395" tvg-name="tvN HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/tvn-int.png" group-title="日韓",tvN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 tvg-id="AGEC1" tvg-name="K-Plus HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/kplus-int.png" group-title="日韓",K+
