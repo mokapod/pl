@@ -17,8 +17,7 @@ http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 #http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
 #EXTINF:-1 tvg-id="309" tvg-name="Celestial Movies HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/celestial-movies-asi.png" group-title="马新",天映频道
-https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
-#http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-id="310" tvg-name="TVB Jade" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/tvb-jade-asi.png" group-title="马新",翡翠台
 http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
