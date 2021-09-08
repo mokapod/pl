@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/russia-today-int.png" group-title="新闻",RT
-https://rt-news-gd.secure2.footprint.net/1103.m3u8
+https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBATV" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/us/nba-tv-icon-us.png" group-title="体育",NBA TV
 http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8
