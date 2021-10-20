@@ -7,8 +7,8 @@ http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="306" tvg-name="Astro AEC HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/astro-aec-my.png" group-title="马新",AEC
-http://198.16.106.62:8278/streams/d/Aec1511/playlist.m3u8
-#http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
+#http://198.16.106.62:8278/streams/d/Aec1511/playlist.m3u8
+http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
 #http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
 #EXTINF:-1 tvg-id="307" tvg-name="Astro Shuang Xing HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/astro-shuangxing-my.png" group-title="马新",双星
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
