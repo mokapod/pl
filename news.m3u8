@@ -19,5 +19,5 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-id="398" tvg-name="NHK World" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/nhk-world-japan-int.png" group-title="新闻",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/russia-today-int.png" group-title="新闻",RT
-#https://www.youtube.com/watch?v=V0I5eglJMRI|Referer=https://www.youtube.com
 https://www.youtube.com/watch?v=V0I5eglJMRI
+#https://www.youtube.com/watch?v=V0I5eglJMRI|Referer=https://www.youtube.com
