@@ -10,6 +10,7 @@ http://194.233.86.5:5080/WebRTCApp/streams/tv88.m3u8
 #EXTINF:-1 tvg-id="306" tvg-name="Astro AEC HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/astro-aec-my.png" group-title="马新",AEC
 #http://198.16.106.62:8278/streams/d/Aec1511/playlist.m3u8
 http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 #http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
 #EXTINF:-1 tvg-id="307" tvg-name="Astro Shuang Xing HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/astro-shuangxing-my.png" group-title="马新",双星
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
@@ -100,14 +101,6 @@ https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mp
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-id="710" tvg-name="Nat Geo People HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/nat-geo-people-asi.png" group-title="家庭娱乐",Nat Geo People
-https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="552" tvg-name="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/discovery-channel-icon-asi.png" group-title="家庭娱乐",Discovery Channel
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
-
-#EXTINF:-1 tvg-ID="553" tvg-name="Discovery Asia HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/discovery-asia-asi.png" group-title="家庭娱乐",Discovery Asia
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
