@@ -5,7 +5,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="512" tvg-name="BBC World News HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/bbc-world-news-int.png" group-title="新闻",BBC World News
 https://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/us/cbsn-us.png" group-title="新闻",CBS News
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="503" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/cgtn-int.png" group-title="新闻",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="515" tvg-name="CNA HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/cna-int.png" group-title="新闻",CNA
