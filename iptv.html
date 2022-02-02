@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta charset="utf-8">
+<style>
+body {
+	font-family: "Avenir Next"; 
+    background-color: whitesmoke;
+    text-align: left;
+    -webkit-text-size-adjust: 100%;
+    padding: 12px 24px;
+}
+
+textarea, input, button {
+    font-family: "Avenir Next";
+    font-size: 12px;
+}
+
+input {
+    font-weight: 500;
+    width : 260px;
+    text-align: center;
+    background-color: white;
+    padding: 12px 28px;
+}
+
+button {
+  background-color: white;
+  color: mediumblue;
+  border: 1px solid gray;
+  border-radius: 10px;
+  //padding: 12px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 500;
+  margin: 4px 2px;
+  cursor: pointer;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 4px 8px 0 rgba(0,0,0,0.19);
+}
+</style>
+</head>
+
+<body>
+
+<p style="color: gray;"><u>Click a BUTTON to copy its content</u></p>
+
+<h2>IPTV Playlist URL's</h2>
+
+<p>aqfad: <button id="button1" onclick="copyText('button1', 'aqfad', 'https://aqfad.netlify.app')">https://aqfad.netlify.app</button>
+<input id="cb" type="text" hidden></p>
+
+<p>cjk: <button id="button2" onclick="copyText('button2', 'cjk', 'https://raw.githubusercontent.com/mokapod/pl/main/cjk.m3u8')">https://raw.githubusercontent.com/mokapod/pl/main/cjk.m3u8</button>
+<input id="cb" type="text" hidden></p>
+
+<p>Media Prima: <button id="button3" onclick="copyText('button3', 'Media Prima', 'https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/tv3_didiktvkpm_8tv_tv9_EPG.m3u8')">https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/tv3_didiktvkpm_8tv_tv9_EPG.m3u8</button>
+<input id="cb" type="text" hidden></p>
+
+<p>misc: <button id="button4" onclick="copyText('button4', 'misc', 'https://raw.githubusercontent.com/mokapod/pl/main/misc.m3u8')">https://raw.githubusercontent.com/mokapod/pl/main/misc.m3u8</button>
+<input id="cb" type="text" hidden></p>
+
+<p>news: <button id="button5" onclick="copyText('button5', 'news', 'https://raw.githubusercontent.com/mokapod/pl/main/news.m3u8')">https://raw.githubusercontent.com/mokapod/pl/main/news.m3u8</button>
+<input id="cb" type="text" hidden></p>
+
+<p>sg: <button id="button6" onclick="copyText('button6', 'sg', 'https://raw.githubusercontent.com/samleong123/mewatchsg/main/mewatchsg_drm_wv_url.m3u8')">https://raw.githubusercontent.com/samleong123/mewatchsg/main/mewatchsg_drm_wv_url.m3u8</button>
+<input id="cb" type="text" hidden></p>
+
+<p>youtube: <button id="button7" onclick="copyText('button7', 'youtube', 'https://raw.githubusercontent.com/mokapod/ytl/main/youtube.m3u')">https://raw.githubusercontent.com/mokapod/ytl/main/youtube.m3u</button>
+<input id="cb" type="text" hidden></p>
+
+<p>m3u4u: <button id="button8" onclick="copyText('button8', 'm3u4u', 'http://m3u4u.com/m3u/68m7n4vgz7hvdv2n1gek')">http://m3u4u.com/m3u/68m7n4vgz7hvdv2n1gek</button>
+<input id="cb" type="text" hidden></p>
+
+<p>EPG: <button id="button9" onclick="copyText('button9', 'EPG', 'https://is.gd/FcKIx4')">https://is.gd/FcKIx4</button>
+<input id="cb" type="text" hidden></p>
+
+<p>my: <button id="button10" onclick="copyText('button10', 'my', 'https://raw.githubusercontent.com/mokapod/pl/main/my.m3u8')">https://raw.githubusercontent.com/mokapod/pl/main/my.m3u8</button>
+<input id="cb" type="text" hidden></p>
+
+<p>RTM: <button id="button11" onclick="copyText('button11', 'RTM', 'https://rtm.samsam123.tk/rtm-live.m3u8')">https://rtm.samsam123.tk/rtm-live.m3u8</button>
+<input id="cb" type="text" hidden></p>
+
+
+
+<h2>Stalker Portals</h2>
+
+<p>dmtn: <button id="button20" onclick="copyText('button20', 'dmtn', 'http://dmtn.tv:8080/c/')">http://dmtn.tv:8080/c/</button>
+<input id="cb" type="text" hidden></p>
+
+<p>clientportal-worldiptv: <button id="button22" onclick="copyText('button22', 'clientportal-worldiptv', 'http://clientportal-worldiptv.club:8080/c/')">http://clientportal-worldiptv.club:8080/c/</button>
+<input id="cb" type="text" hidden></p>
+
+<p>sonicboom: <button id="button22" onclick="copyText('button22', 'sonicboom', 'http://the.sonicboom.cf:8880/c')">http://the.sonicboom.cf:8880/c</button>
+<input id="cb" type="text" hidden></p>
+
+<p>ipro: <button id="button23" onclick="copyText('button23', 'ipro', 'http://ipro.tv:80/c/')">http://ipro.tv:80/c/</button>
+<input id="cb" type="text" hidden></p>
+
+<p>news: <button id="button24" onclick="copyText('button24', 'news', 'https://raw.githubusercontent.com/mokapod/pl/main/news.m3u8')">https://raw.githubusercontent.com/mokapod/pl/main/news.m3u8</button>
+<input id="cb" type="text" hidden></p>
+
+<script>
+function copyText(button, item, txt) {
+  //buttonId = document.getElementById(button);
+  //buttonId.textContent = '"' + item + '" copied';
+  //buttonId.textContent = 'C O P I E D';
+  //setTimeout(function() { back(buttonId, txt); }, 2000);
+  //function back(button, txt){ button.textContent = txt; }
+  
+  var cb = document.getElementById("cb");
+  cb.value = txt;
+  cb.style.display='block';
+  cb.select();
+  document.execCommand('copy');
+  cb.style.display='none';
+  alert('"' + cb.value + '" copied');
+}
+</script>
+
+</body>
+</html>
