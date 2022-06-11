@@ -2,46 +2,46 @@
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国",CCTV-1 综合
 #http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
-http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
+http://39.135.32.236:6610/PLTV/77777777/224/3221225674/index.m3u8?$广西移动
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中国",CCTV-2 财经
 #http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
-http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8
+http://39.135.32.236:6610/PLTV/77777777/224/3221225676/index.m3u8?$广西移动
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="中国",CCTV-3 文艺
 #http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
-http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+http://39.135.32.236:6610/PLTV/77777777/224/3221225677/index.m3u8?$广西移动
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中国",CCTV-4 中文国际
 #http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
-http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
+http://39.135.32.236:6610/PLTV/77777777/224/3221225753/index.m3u8?$广西移动
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中国",CCTV-6 电影
-http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8
+http://39.135.32.236:6610/PLTV/77777777/224/3221225683/index.m3u8?$广西移动
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="中国",CCTV-7 军事
 #http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
-http://39.134.65.179/PLTV/88888888/224/3221225671/1.m3u8
+http://39.135.32.236:6610/PLTV/77777777/224/3221225627/index.m3u8?$广西移动
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="中国",CCTV-8 电视剧
-http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
+http://39.135.32.236:6610/PLTV/77777777/224/3221225630/index.m3u8?$广西移动
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="中国",CCTV-9 纪录
 #http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8
-http://117.148.179.162/PLTV/88888888/224/3221231697/index.m3u8
+http://39.135.32.236:6610/PLTV/77777777/224/3221225633/index.m3u8?$广西移动
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="中国",CCTV-10 科教
 #http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
-http://117.148.179.175/PLTV/88888888/224/3221231666/index.m3u8
+http://39.135.32.236:6610/PLTV/77777777/224/3221225624/index.m3u8?$广西移动
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="中国",CCTV-11 戏曲
 #http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
-http://117.148.179.164/PLTV/88888888/224/3221231711/index.m3u8
+http://39.135.32.236:6610/PLTV/77777777/224/3221225750/index.m3u8?$广西移动
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="中国",CCTV-12 社会与法
 #http://39.134.115.163:8080/PLTV/88888910/224/3221225629/index.m3u8
-http://117.148.179.150/PLTV/88888888/224/3221231660/index.m3u8
+http://39.135.32.236:6610/PLTV/77777777/224/3221225670/index.m3u8?$广西移动
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中国",CCTV-13 新闻
 #http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
-http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8
+http://39.135.32.236:6610/PLTV/77777777/224/3221225787/index.m3u8?$广西移动
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="中国",CCTV-14 少儿
-http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
+http://39.135.32.236:6610/PLTV/77777777/224/3221225673/index.m3u8?$广西移动
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="中国",CCTV-15 音乐
 #http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
-http://39.134.65.175/PLTV/88888888/224/3221225513/1.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中国",CCTV-17 农业农村
-#http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
-http://117.148.179.167/PLTV/88888888/224/3221231772/index.m3u8
+http://39.135.32.236:6610/PLTV/77777777/224/3221225830/index.m3u8?$广西移动
 
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="中国",湖南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
