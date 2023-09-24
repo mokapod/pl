@@ -1,106 +1,498 @@
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml"
 
-#EXTINF:-1 tvg-id="102" tvg-name="TV2" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/tv2-my.png" group-title="马新",TV2
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-#http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
-#EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/8tv-my.png" group-title="马新",8TV
-http://194.233.86.5:5080/WebRTCApp/streams/tv88.m3u8
-#http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="306" tvg-name="Astro AEC HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/astro-aec-my.png" group-title="马新",AEC
-#http://198.16.106.62:8278/streams/d/Aec1511/playlist.m3u8
-http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
-#http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
-#http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
-#EXTINF:-1 tvg-id="307" tvg-name="Astro Shuang Xing HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/astro-shuangxing-my.png" group-title="马新",双星
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 tvg-id="308" tvg-name="Astro Quan Jia HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/astro-quanjia-my.png" group-title="马新",全佳
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-#http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
-#EXTINF:-1 tvg-id="309" tvg-name="Celestial Movies HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/celestial-movies-asi.png" group-title="马新",天映频道
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1 tvg-id="310" tvg-name="TVB Jade" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/tvb-jade-asi.png" group-title="马新",翡翠台
-http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-#http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
-#EXTINF:-1 tvg-id="300" tvg-name="iQIYI HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/iqiyi-asi.png" group-title="马新",爱奇艺
-http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
-#http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
-#EXTINF:-1 tvg-id="333" tvg-name="Astro Hua Hee Dai HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/astro-huaheedai-my.png" group-title="马新",欢喜台
-http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
-#http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+#EXTM3U
+
+########## Unifi Sports ##########
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
-#EXTINF:-1 tvg-ID="Ch5.SG" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/channel-5-sg.png" group-title="马新",Channel 5
-https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1 HD
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&
-#EXTINF:-1 tvg-ID="Ch8.SG" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/channel-8-sg.png" group-title="马新",8频道
-https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
-#EXTINF:-1 tvg-ID="ChU.SG" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/channel-u-sg.png" group-title="马新",U频道
-https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
-
-#EXTINF:-1 tvg-id="801" tvg-name="Astro Arena HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/my/astro-arena-my.png" group-title="体育",Astro Arena
-http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
-
-#EXTINF:-1 tvg-id="392" tvg-name="KBS World HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/kbs-world-int.png" group-title="日韓",KBS World
-http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-#EXTINF:-1 tvg-id="393" tvg-name="One HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/sony-one-int.png" group-title="日韓",One
-http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-#EXTINF:-1 tvg-id="394" tvg-name="Oh!K HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/oh!k-int.png" group-title="日韓",Oh!K
-http://50.7.161.82:8278/streams/d/ohk_pye/playlist.m3u8
-#http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-#EXTINF:-1 tvg-id="395" tvg-name="tvN HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/tvn-int.png" group-title="日韓",tvN
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-#EXTINF:-1 tvg-id="AGEC1" tvg-name="K-Plus HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/kplus-int.png" group-title="日韓",K+
-http://210.210.155.35/uq2663/h/h08/01.m3u8
-
+EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest/scale-to-width-down/300?cb=20210712113109",Unifi Sports 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="709" tvg-name="Asian Food Network HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/afn-asi.png" group-title="家庭娱乐",Asian Food Network
-https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+#EXTVLCOPT:http-referrer=http://www.unifi_en.com.my
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="715" tvg-name="HGTV HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/hgtv-uk.png" group-title="家庭娱乐",HGTV
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
+EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-3.png",Unifi Sports 3
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live13.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="707" tvg-name="TLC HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/tlc-uk.png" group-title="家庭娱乐",TLC
-https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
+EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-4.png",Unifi Sports 4
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live14.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="555" tvg-name="History HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/history-channel-uk.png" group-title="家庭娱乐",History
-https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
+EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-5.png",Unifi Sports 5
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live15.mpd
 
-#EXTINF:-1 tvg-id="714" tvg-name="Crime and Investigation HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/crime-and-investigation-uk.png" group-title="家庭娱乐",Crime + Investigation
-http://203.154.177.124:8899/live/ch23/playlist.m3u8
+########## Astro Supersport ##########
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="556" tvg-name="Animal Planet HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/animal-planet-uk.png" group-title="家庭娱乐",Animal Planet
-https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eupDzZPCSqmDTstJhPf9Wg", "kid":"IvvvHBzXJek5fsFkVfCCEA" } ], "type":"temporary" }
+EXTINF:-1 tvg-logo="https://telegra.ph/file/b9cd859a14c1c4ba3c9e8.png", Astro Supersport UHD 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-id="551" tvg-name="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/national-geographic-uk.png" group-title="家庭娱乐",National Geographic
-https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/b9cd859a14c1c4ba3c9e8.png", Astro Supersport UHD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-id="550" tvg-name="Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/uk/national-geographic-wild-uk.png" group-title="家庭娱乐",Nat Geo Wild
-https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89c10c7ef0af145be7d6e88dec090b10:80558606a13a99d2c543872d8899ced0
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro Supersport Plus
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="552" tvg-name="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/asi/discovery-channel-icon-asi.png" group-title="家庭娱乐",Discovery Channel
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1000
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport 1
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115615_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport 1
+https://iplogger.com/ASSP1
+
+
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",Astro SuperSport 2
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115616_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",Astro SuperSport 2
+https://iplogger.com/ASSP2
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png", SuperSport 2
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104
+##https://linears-playback.astro.com.my/vsg/411e3gN4AaSSfWXVLAyzIG37WF4Butu2RNZsJuRAgmbJo=mC4j/dash-wv/jitp-linearwm/2104/default.mpd
+##https://raw.githubusercontent.com/Ortsa8/stream/main/sports/assp2.m3u8
+https://raw.githubusercontent.com/Ortsa8/stream/main/ortsa/assp2.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",Astro SuperSport 3
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115617_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",Astro SuperSport 3
+https://iplogger.com/ASSP3
+
+
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",Astro SuperSport 4
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115618_&extension=ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",Astro Supersport 4
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+
+########## SPOTV ##########
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
+EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",SPOTV2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5079
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
+EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",SPOTV2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default.mpd
+
+########## beIN Sports ##########
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png",beIN Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
+EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png",beIN Sports
+https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd
+
+
+
+EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",beIN Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UQKxKqx3VsZdy0ahAdlg0w", "kid":"OcF1WB4jfv+VWWB+ubI8EA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",beIN Sports 2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png",beIN Sports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
+EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png",beIN Sports 3
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd
+
+########## Astro Supersport ##########
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport 1
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186387&extension=ts&play_token=oNnNMlQM3k
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",Astro SuperSport 2
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186388&extension=ts&play_token=oNnNMlQM3k
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",Astro SuperSport 3
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186389&extension=ts&play_token=oNnNMlQM3k
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",Astro SuperSport 4
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186390&extension=ts&play_token=oNnNMlQM3k
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/8TV_%28Malaysia%29_logo_in_English.svg/640px-8TV_%28Malaysia%29_logo_in_English.svg.png", 8TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
+https://aqfadtv.xyz/live/8tv/index.mpd
+
+#EXTINF:-1 group-title="International" tvg-id="8tv.my" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/8tv_malaysia.png", 8TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://12537-stream-ip-tv.xyz/drm/clearkey/?key=eyJ1c2VyX3Rva2VuIjoicXYwc2U0YmkiLCJyZWZyZXNoX3Rva2VuIjoiVDFSeGlYeTlwajRSMUJJc05BVDVmWWN2anppSU45ZktoMW1kNFVRTkxqRXptVWk2OU1tU2VtenJBcXIyUXRFL3lUeUtjZmpJMDd3MEhyL0hkeVV5eExVdENIcXFsU2ZzYjd6NzRDaVNHanNFbnJRWGw0Tm9VWHJtMnJEMzZsOU5PajNvWkhGUEt3UlFTN2lkalVCWVR4dC9YdzhXWE5vd2RlcVFWMWpUNTRCZ0s2MURUTmh2MXljZTNKYWpvUzdITmVPazk5QUYvM3QxWWZqeVE4VFpXSG4wc2d5TDRMbDJTYjJDemhsQVlYRldMMWQrL25vaWowSitVLzVoYlNIN29zUG5ETExhM3p6d1B4OEtOb1Y1Mnp0OWZ0QWN2cnU2SktRLzR4YlJiU3duZDdKVWhGcTNzdVdwbXRlckMzelVVUkpHY0tvVWFRcExTOGN5YzVraDZNekFxZzEvTUFVUVh4RU9DbEhab29jQ3p0S1duZGZlL0FhK3VpUG1wWm91YmJhTkttMGV6QnVKKzZSNFZ5RnpVQT09In0=
+https://12537-stream-ip-tv.xyz/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOGhucjJncXkiLCJyZWZyZXNoX3Rva2VuIjoiRkVSdE85ZitmaXZnS2dHcGNhZ1F6T3NadlZmdVhBSW4vc1FSY1JjM2V3ZDQvM3pOd3lKQzZVYktnSXl0azg0NTNWODg4Z09zUXdxeHlOUzk5Q3hxS2R1Qy92TEU5ZHRUanpFL09qMkQ3Zk9RdVlhVG4vVFYwZWJ2RkVtaEJDdFBWT1Ewa0M4d1RLZnpyMXQ2YUU3ZkdFZkw4RjMrQ0JrUGpBTjViS1RZV0IxV3NFcGgyZ1gvbVVsUkhUK044MGJzcTlYZFM0VFlkdU00SzhRQU94amo0R1o5cGo1YUU1SVpQT1c0cmhDU3ZyUGRwMXNaWGJJMWF4OFZpSzVDWDArV2hiVWd1N2huUlBJRDlKQWlCb2hsSzkyOVN4d1hLNnhLWDJyNU4vNGpaeHpnQ2hvRytmNjZQcUJkSzM4RndVRlN3SEg0c08yaXZxcnI2MWxPZVpTbUp3PT0ifQ==
+
+
+
+
+
+#EXTINF:-1 group-title="AOTGTV" tvg-id="astroaec.my" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/astro_aec.png",Astro AEC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://12537-stream-ip-tv.xyz/drm/clearkey/?key=eyJ1c2VyX3Rva2VuIjoibTZhemp2ZjEiLCJyZWZyZXNoX3Rva2VuIjoiM1pBejN2TG9FTFlxSmxYeWs5N0IrWWF1ZElKREVmOTE4V3pOVHozS1ppVTdES05TbE9ic1VPVzFZR01ZRWpwendlZ3h3TnhPZ3ZaZVA5cVBITG55NE0rTXVXNjAvVEg4WG9EMVRJMDNQR2hISVR3cW5ZMXFzeVBtY01wY0dMd1pHSHpRRXJteEpSdDJJSytnTDJ2UkxiUWd6dkZnNStnNDgydlVOTFJybC9tbXU3Slo3d3FnaG5ZRUFaTUdyUHlHS1lhV2JWY0xQZlRlWC93cEd1U0hYUFR2THdZUWVubExHdE5lYUpJaUNUeFgxV09LRXNjbU52ckNEZ3NYdTAwaXhyZVArYkpvdDNwQlBpM2kzNWFJSGdWTEFvZDlDNkF0UkY4VnQxRDVxano3bHUzVlFWUVh2ZXdyM2xuRmJhbENCYUNGaVhPVldwYVBLVHZQQjRhdzQ3NXMzUEtXTGxkVW5VWS9sdWRmM0lyV2dYSTdvYWlGZTBpOTNmclAwVEhVVk96Q0YvbExoY0dvcUpzeGF3SHVZQT09In0=
+https://12537-stream-ip-tv.xyz/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoibWhxeTA1bGoiLCJyZWZyZXNoX3Rva2VuIjoiTmFFNUNjQ3hXdDI4NjBGeEJlenNsUERhTnZicWJCVGJlVG1TZVk4QmxRaDR2NjF2TFlYYUg1clg5Qk1sNEFBNXA4NCt6R1ExM1NvKzZqbE5kSkNhT1J0UlVaYVFaY2pPMTY3RWRmU08wZiswd1N5TWFMZ3JyM3lZV3N0dnJTSXRQNGRIQjVGZmdyTksyK0R6cFZxWVBvUWx0VzY1VHhqbm9yd1hCTXREcUlQS1I0a3RldFJGa2k1NmJaNWZTQUpuL284bC9aemk5UVZDWWUyVGFFMnpLdkdGL25NMS80YklRQm9xL01qcEFFakFQa0xJNTdHOFBXaDlrdEdGVFI2RGg4SEVGSTFTa094N2djbTRJRHhVY29US3U4RGFoYXl0a0pheFdhTWxtVCsrWE9iWmVsM3NpZkp0NHlFa2I5ak1SRHcyYVk0TmpCSldtcGtuSUdoSjhnMWNYMm9Hc2NlZ0lFWHlHZjZsU2g3UC9oNkl5aUJRNG8xbHpEMi9oRjZIWndkUW9sOEVkVGpLOGkxaThZS1h4QT09In0=
+
+#EXTINF:-1 group-title="AOTGTV" tvg-id="astrohuaheedai.my" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/astro_huang_hee_dai.png",Astro Huang Hee Dai
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://12537-stream-ip-tv.xyz/drm/clearkey/?key=eyJ1c2VyX3Rva2VuIjoibG9zYzByeTMiLCJyZWZyZXNoX3Rva2VuIjoiMkJNRllSdVBBMUE2ZE5uS0dyUUxaMFZpd2J2U1RwNzkrU2ZJU3liWVNEVy9RUmRyTmJwV3hIZWFCeGt1Q3lRU0VCQ2Y1elNSR1B6OHc1a1JCbmJSa0lWcW82ZXpMQ0NrQlFRN041YkxPTm1HK1hoZWFoV1ZBREw4cXFKN2IrTkNFM0Rtcy9yU21jb1NzWGNabDBYb0lScm0xR1c1NndTc01GWnU0c2pRMTRZVWNvUFNzRTVvdWszSkVpVTR2VUYzSlpEb1JlOUdBUVhHWXhMVFZxelNRK0dmRzFTZkFEenFhSWNaVXJSLzBScVl1eVFTblprL0tvR2ZXQTk1SHAyMUkxanhRbEJ5Y1dpcmFRS1NyME4wMTE5eXJ4ZjVobnZJWmR1dUF1cTErdXgvSnZWZnVESWxTNEs2NEhzbXRITHpxUnFjY01vU2xXRlkxSHdVWDA5TFBaZFU0aWsvYjRlTnJFZE5YanRkWi9oWlYyR2U0OUd0clpuSHMvQ1U1SWQycy93RzlXbWljSkJoV2ExSnBWL0NIZz09In0=
+https://12537-stream-ip-tv.xyz/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiZW81Nmd6aWIiLCJyZWZyZXNoX3Rva2VuIjoiVUhSNlJhOVgrby9hV0VUUklCMFc0NTRaUUF3aVhBYUZ1aUF6UFc3ak5QOGQ1M1BxZlgzN2lmZG9qWFZWQ2tEWjRuZFZBWTJ2ODlROU5PQzlhYUVvSVhjVlVObE1HeWFLY3pBcmZZQVJRLzM0aDVwYlZNekhUQlVITDFOdVZCVGJRUVhEb2VFTEVFZmR3WjhFVFNRS0FyYjhFQVhQWHZFOVlhZG9FMkhVZWJJYnNlcEFvMjBLZi9LeHh1MDhBa2FIU1FXVmRIRXYyRVZ3d2xLRDQyVFB2a2pVNzMrZDkwN2V1bXZ4MGJIVm1QRDV6NVJ1TXg2WXdVRTB5Vm1leVFOSEprdFRrREcvMUYydm5vblcvTzZSVnlodVNSblU1OXpLeUdCSFdsRmJ5WGJ6WUUzZk0zYzJPU29aczFXYmN5OFArY2liTVFZR284aUFxd1QyMUs5SHJTZ3o5U0YvZWkrMjBUcHVwVlZPWWZzT3kyRDhCcmNlVng1UURheGd6dWxkVGRGQUFSN1k4eGpkWUh3YUxOWi9XQT09In0=
+
+#EXTINF:-1 group-title="AOTGTV" tvg-id="astroquanjiahd.my" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/astro_qj.png",Astro QJ
+#EXTVLCOPT:http-user-agent=PL_12537IPTV/1.0 ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://12537-stream-ip-tv.xyz/drm/clearkey/?key=eyJ1c2VyX3Rva2VuIjoicXozODE0YjUiLCJyZWZyZXNoX3Rva2VuIjoicjVHSkxsVG83REN3cCtFT0Q4d29LMUFOOC9qekdHQjhobmg5SmVQOUd5d2lCSHJtYVhxc2w5ZjVwcHVJbkhzVkZ5L3pMeHkvemlNdU5ScFRPek5LVkNmOG8rMmdtbk5qYWlpUThRM0pXaldjV2grNDgzNVAyQll4bmlONURrRzIrTjl5ZCtET3U4WUcxWU9GWXhYT3FzeDJ0UjNnNEFQWjJ2dkgxVjFqSVo2eUhRa0FGQkYvaUVYQnoyUDZ4T1lqWC9aaFNhUHJSOXBrUHFPT0IxN0xUQUR5a3FtUmVEUDFpaXlMb2M0YkFYaDB5S1kzZ0hUeHdTKzBwYWF6WmlzV0ozSHE2QzJIdDRNbi9OZWpzVUR5VnpoaUE2YUE3bzVOSWFYS0tLL3hlMWczaFA4SHU4ZkFJRFB2TEx4VmRnTVlaeHBsM0MvWXdsdndUajhJa1Y2UTZGRWx4Y25GZFB6V1h1MTBRN3pPdUhxLzlzRURzaXhZbGhMbE92ZzV1NXZiQU1ZV0w2NDdOOGpYWCtvMWpwZEpRQT09In0=
+https://12537-stream-ip-tv.xyz/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoib2ZjdzA5ZHEiLCJyZWZyZXNoX3Rva2VuIjoiUmV3bmtONUdjaU55bVBkYndnSWdKUGt6dEtvdFBvdHM3YklvTDFQQzVMRjlVakozTUxCb1IxS1paaXo3TWRUeVVZT2U5MjZ3a0xPc0xMNkVRUmpKQUFabnRoQVhEMmxrdzl5cnNmaWloWVZtTzJJOWU1SUVGZ3l6aWJ6WEN4eHRCeXVpcjNkSXhmMWVEMVJqTFZIdk1iL01QWjY0OXRXeUUyOGZLTzl3TjdkaElLOWJIbEpTMkp4NGJVcnRWVEJENUtxdHFXVFNLclNSVFdlUUVMcjZkd1VHcXIxM2dHVVZTQ0FCWVI1cllWcTdtUFNLRzJOQ3RFUkErYTNpS3FQSXRaZnJUM05QZHNjWGl4ME1TM1lIRC84YmM2OGhMcUEvOGdOcEllQU1Ja1lSNlB2aHEwQ3VQa3ZlSUxpYUs2cmhRSmVyN1dtcWlKSFoxU3BReTN0T0I0cU9lekdrWmMzWjBmaHB6d1FYWDNpUEYxZDZkSTdqaFgrMmtIamlmK3FEIn0=
+
+#EXTINF:-1 group-title="AOTGTV" tvg-id="astroshuangxing.my" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/astro_shuang_xing.png",Astro Shuang Xing
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoicGN1endnZjgiLCJyZWZyZXNoX3Rva2VuIjoiOW1OY21pQitqNzZ3TzFaTDBSVVhBb3l5blMzYkV2Ym41d2lGT0FZSzAvZ3ZOVTZGN1RSdzdGZE1vZUVhUkxZR2J4bE82S1M4c3R3TmFDYk5Bc2pDRnM5RzNmejJzdk9UckVpSUc0RmYyRXBGU2R1dFFMamwrMWQ2WVhxQ2cwUzREbU9vMHQ4dVlDQ3AzRjJKZUxQZFRzMVlQMjZrK1lxZWR5Tkc1RU5iYkUzTWZuOHdwUTl2OFhwNEJrZ1FWMWg0RE1teHpyVzV1aEQ0bzZEYnBLUVgyRkh2V2dJVlFoSHRVbmxEditrZmRreitiVmd0NzM4MzRwYXdCYTFTaExLU0lCVXdkNU42Yjg3UWU0akk4dE5wRGZhQUF2WW9PTjdpRGtNdGN2N2VtYVVFV3lJRUp4SXZNQVFDZE9EYkVFNWErNWJrcHJEV2tsa0RxOVRhbTk4Q0NQcS9WRFBmdndPZVVvWHhTVDZ2am1NPSJ9
+
+########## Singapore ##########
+
+#EXTINF:-1 group-title="AOTGTV" tvg-id="Channel 5 HD" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/channel_5_singapore.png",Channel 5 Singapore
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://12537-stream-ip-tv.xyz/drm/clearkey/?key=eyJ1c2VyX3Rva2VuIjoicWl0bTV2YzYiLCJyZWZyZXNoX3Rva2VuIjoib1d1U3g1MTVBTWJhVXRvaHd4KzF1eUpQMitJSWIxY3crcW9NeWpaWlpvY2FtVnE3azVyaUZSNDRuZnVJWkJtT0hZZHB0S05lZ1NnMnNkT0krQ1RwOXBFNjRXVG01SU1aWFl3alRZam8rY3MwYUlOWE0vL1NvNzBWcm9vYllLWFczMFhvVXNrS3E5TS9tMnpxT2MxVzYxY2FjUmVwaHkvOFRxc21JWEl1L0luVjJ0K3pIUS85OWR2elFYcmowQkEwU1BseGk5Z1lTRTlMWDg1OHNLUWlKdGZuRGxSWXpkSXlyWm81WlVLMjFkVkJFSWZ4S0tHL2ZkeXU4Zm0ycGd5R0huOTlIWXZCenZPdm5EWkh4bXl5Ym5kN1haK3J1S0MwOGtWNms1MFhHM3dWdlozUzNXTXI3NHFlS0s0TWcvaW90RzJyVlM1Z2ZwK1RYcXJXT1BJN1p5S3B6QVpqSUtNS21sc2V6Sk9IR05BTHREUEN3NjE5dlArNG9vaEdhZ0wwU2tLTHNvc1ZqOWZaMUI5NWJhM3Q4UT09In0=
+https://12537-stream-ip-tv.xyz/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNXkxbTlydGciLCJyZWZyZXNoX3Rva2VuIjoiV0pNcDdyS2h4bUdOYlFZVGM2Y3NQbmxCU0kzZkk5aGhZM3NUTjNmWFQraVFmeVJjRmh4YWhtUmovTGkzQUtTSjhDUHo5OWZ6dzlyOEVManduLzRUNHVjUHVDbE9pYlcvQzhyVUtZQWRhTExha2xwelUwaFBKU09Sd0NLODl2cnc4NitnTDJzcjYrei9iRU1HRTlRTEVQdEVMUmhZU3Rwd2Q1OWh1Ky9lb3UySDNHakRuUk5ReUJlQ1RWNEJ1eVJBandWdFdGUk1WRUlQSkxQbFVtRGR6MExzbUZ0UElJTytYS25ab1QwNHk4SXFLMWk4SGdEbXFPWFNmZGZqcU5oYUJlVjY2ejRKckFNd00wNisxTGRaWk83a0NZRyszSzgwZVI0aTN2bFZ3TFFrN1ZEYnpsNk53QW9uQTcxOFR0OEs4WDMrcGhTOFBhbXdPejVrZzhPMGJzRGhJVVNUYTU1UitJT0QwQW50cTZVPSJ9
+
+#EXTINF:-1 group-title="AOTGTV" tvg-id="Channel 8 HD" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/channel_8_singapore.png",Channel 8 Singapore
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://12537-stream-ip-tv.xyz/drm/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiN28zem5sZXMiLCJyZWZyZXNoX3Rva2VuIjoiRTQrYTI3Nm4xS2lwKytUbllLRkRybU10SU9tU2N4SWpVc2FNOEhEdUtsblBNYlNxOHNNSTRCbVR3aFpBcDBmamtneFIwdER0R29vcUZTcVlLbUhmUE5UaE54THVWVTdLdlZoT3AzM2M2OFp6UEpMT1R5UUpHQnZEbFRwU1ovUWFIOEpVaUQwU0FHMSt0eFdZa0VTUUhTN3FhTmMzQ1RRaVk3ZUhPME1PTVM3Z3lMUWNjcmtVU3Zqd1ZuSCtMMFU1VGxpbjlaekFsTEhmRTVDY2xNdkoxWlRLak1UaE5qR25neVhwMWJ3anJOL3pZWm4yQzZNMGpnZ2ZURFI1d2EyeWZ6NDlPL050WjkrQ2pOVmRzNVYvNVRjNk1LUm11dytGSEZkZXpJSWN2T2hVYnYzWi9STU1KOTNPQ1BEcnRtUDhTalNMVWU4WW91eXFHWGV3ZlJwVzkzeXYxaFlibk9xblZHcEdZa08rb05aTWdFTi96cjQxd0prM0ZOcWExTExoZ01QOERLSGtyV1lzUVdFVzJTYVMyQT09In0=
+https://12537-stream-ip-tv.xyz/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMm94cDRhcWgiLCJyZWZyZXNoX3Rva2VuIjoicGZyWEQ3ekswZ1pnWXFFSlBiNy9IUG9IWldYbjlBVTVUWCtoS05laStLeFJoZFphNUFQMWcvaDJ0MmVQTnFYalJJRFlDRWhnSTloVmk5RVhldEFSN1MxRkJadlZhYyt3eGFmeEdnWEtaS3ZNcUlZcDg5Wi94OC85NTFFTjlYV2QxazhvT0Z2dG9NdW9HWE1reDYxaVhkT242TExyd2pmdk1KT2RzZU9uVUdNR1N1NkRKSDZMb3FnRDhjMnhQa3NtR0ZmRDRiNjZxemlCeEFxOFI5SU9kcU0zVlQxbyttVkVjSWFVc04yUFJvR2ZuaXNjTmRiWG1tbS9SV08zZ0M3Mk4rQmxyMlllcjk2T3FFRWdEcCtBSy9WSVVQZ1lnWnJkRUMva1JQdXFhRGNWVG44eGZvY25ZczQ1dDJ5WHVRNy9PeDdscVNrR1Zad2pOUVBxZ1doeXJZT3RiTklSeThCYlVPRWZWZDJrczBVPSJ9
+
+#EXTINF:-1 group-title="AOTGTV" tvg-id="Channel U HD" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/channel_u_singapore.png",Channel U Singapore
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://12537-stream-ip-tv.xyz/drm/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiZjgwZDkxeHIiLCJyZWZyZXNoX3Rva2VuIjoiWWVpeVNzOHVBRVRYenZ2UXY1N3Q2UE9HUHgya0s1SW9VdTFFZ0o5ZWJvY3U2WUZMSVM5SDNyY2pEL0E0TVhub2MwaWUxZXJ6VUxhS2lzUlF5QmgvTzhNa3hUUGhGQXB2Q25hd2oyWWJ2clJjd2d6VTY4ZHRRaUkrVjBBU2dTY2c3aks2aXpJY25HMjVhUnJEOFB1dTFqc1l6UWtyMFRlbEVMNHo4RnJPWnQxUjdtc2liNGVJU1pqS3V3WjJPRmJ0cjM4MHVNS0Z4ZmdvbkhFK3EvRjZFNEdhbnJIdzhsK3RyTmRoU0ljdXJJTzBadk9EQmlVZ1c2OFRMQ2ZCcmlzN1dhY1VINU41ZDVXeWhwTnRXNk95Qnh2QUlkTG5sdWhkMDQ2azMwVUFrdGprWjJYMS9ZZEpDZ2MrTnNubklkVVRkU2d3RStXSnBOL2pCaUxFRklrSlVIRU1neC9ENkxCek9yOXZyWi9kUFFFbXUrUVgzaS8rakpEVnU2dVFsTDZJTTdYUjVpZW1xTzUzZ2JVV3ROb0xqUT09In0=
+https://12537-stream-ip-tv.xyz/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiM3Z5ZHc3ZTYiLCJyZWZyZXNoX3Rva2VuIjoiS1FNS0xXYm9tOXA1ZXUvdXlMWHNXNnZoTC9ySjlERmhXMmE4V3p0Nkw4SEhRaHYzMEhmZDVpRGJqM1k3UE56Y2JDUE5vV1VVajhoOEpHSTNRS2gyRFQ4S0FwRjZDaEpLWmFuWFlZS0UxUERiUEI2TDhMdlcrRXJLeGxVcUNRdE5qYjUzUEY5UHMwdHJnSG1wTXBPeFdndE1mNUMrbzRaQ3JkSGpDQnRCckJqVGtuZS9YVWMrdGkxdzVxRXBUdU92QjNwRGNRdU96aVRRYi92ODI3R29scWZOMk1LTzk2RE8zamNVb1BzaGFMcXV5WUtpa2NWYVpUZ1VTcEpKaERmb1B6eXc0dVdwOTA3Zmt5bHJFaVZ5MlVLaG1zYmR4U044UGQvKzBEOEZtVHk2V2pRZ0xGZXhxZmxPakJjblZIK2tYY1c4Z0JGM3F2RFlsU2JyVVc3aGtpNWNYRlR5akV0VlNsOGdKbFlxWDZjPSJ9
+
+########## FTV ##########
+
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/ftv.png",FTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://12537-stream-ip-tv.xyz/drm/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiZHY0MG10amsiLCJyZWZyZXNoX3Rva2VuIjoieXg2bHZ6K3I3eS9TTStpd1hvblhuTTRzUXZoY3B2VnhRUXl6a1RaWWdzL2VNVmpTRGZqZCthUjhhbXlPTmhXVFM0RG5oaFBTMUJHNmY1NDVCVjZRZURic1RuNXNIWjRjbTAwYW1rbUNHNDkrQUlrVVBiUlkvQ1FNWTVFaGZtNndzaWpoYnhtU0RRb0hHVHVVSXdxKzdFZ0I0dU0xS0V2RnJ1ZmtUbi9PR2hwUUthZFdQOWZwQThFZjFJSXAreHFrNnM4K0xQN3djbmgyeldpajFwOE5XU0NkVDljWWV1dnZ1Tzg2TVNBOHZtWkNMLzljNnNFcTdXS1NQbU1BQzN6Zy8xVjBpclZmbklQMnFnNHhHVWgxNDl3cEszRUpWOVlLVHo4eVdIYWtWaHp0Z3B6T3NCNXZtWTlzTFNTVzdhU2JCNkxsNCtORGJyTmVPMHZTRUR4aG01dllBVGdweUdxQmc0M1F2SjhjbUNGTzY2Q2wycENmTnNkM0s1TWxTbW95WEVRNXN2SzQzZjBvUkxzbnZzbzFYZz09In0=
+https://12537-stream-ip-tv.xyz/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiYzVyMnE5bDEiLCJyZWZyZXNoX3Rva2VuIjoiTFZITFIwU3BTZ0sxK05iendFeVk4OVlHVWxOZ2J5Z2JobzlwYXM2V054SHMvTU8yS0Jnb09WVEpDMDBoWUdEcUROZEtHdXc3YXlsc2JEWUdXQ1dJTjhXdkR1T2x1N0lqVzZhdklYaURYbktOY0RVUUdlb0IwV0x6cDFlcThtdkRYVVBaMkpIc2hrc1BUK0VJZXpvN0FRaXU1dy9PZDc2b2lyL1ZqYUZPZnN2aU5aSDJnN2hUMzI4cWk1Y1U2eUg2ZVlCd1dGemJpVHJpQUFSSys1SFYrakVqN2xDSEswc3RUUzdtVWsyVU50WnNyVTNmMXNSdzh4RkJOelgxQ0h5QUFaeTR5QXZ6QU44MXYwQmJkTytVWG9sbXRFYnRjZ1hGK1AvbmI2M1JvTUIrb1cyTnFSTmVxeGhGRFlwSjY4T0tIMC8wN2ZrL29uRjRWSzRRSERObFB0bUlrVlpYNHJCWW1lTFBZT0xTQi9pUlJSQ1JoaC9BZVdLWmk2UVN3TzZTIn0=
+
+#EXTINF:-1 group-title="Movies" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/ftv.png",FTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://12537-stream-ip-tv.xyz/drm/clearkey/?key=eyJ1c2VyX3Rva2VuIjoieDduaXUwMmsiLCJyZWZyZXNoX3Rva2VuIjoiNXJuN25ac3MvV2s4TUQ1VUFURURKSG9oOUV3ZHZsUUxPOGJIcDcwbndCSVhBemcwdDlSUUtqWHB6N016MlRzSmVVYnhWWG10SngzckNMSytWUkk2MWVmb1psZ1V5d0JOcXRtV2kxSVMzandhYTFublFKck4veXhXeEpqNUVnQVJxTk5UWmVTRjAxQU9pK2ZJdTdiR1IrOWJicXJaS0tJcTZsbUxoWTlHM2RIMm5PeG9MSU1MbHFWT3VyeEJPaWo4N0svUllKMkkzb3U0eVZaRjVBUTNSOEdZa05PMlZWaWxxa3Q1a1J5MjYrdkVIYUhTbk0wSzdaZFVuZk1qeWwzbUJHcEpYV1VOYzBOZng1SE9sOHFGTlBRZ2E1cFl3VGM1Z3QzRkFQc0QzVmdNV3FnQVkya3NZbTFVMFp3OEpFbHJRRXpZQzdscG9LSGQ5K2dpV0V4NnFCY0Iwci9RQVl0NVFaWHE2NWVNOFlvR05OaXpBSWE3cThIRkJ0WmxlcGtXcDhuMjBvN0ZscDR1Mi9FamtXRGRVZz09In0=
+https://12537-stream-ip-tv.xyz/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNTh0NzZmMngiLCJyZWZyZXNoX3Rva2VuIjoiNWorR3hGcE1oVFc3d0U0a2c3Y0RtcVdFNUd3djN4bUFCY2hsY3VZYmp2MlZ6eFpRSlRGU3VEUld0WjhHazJRVWhvMUdaYVV5MnlseU5tY1NmTjJIU2NQa1FqS3U2S2RxRjNNRjZvOXRLKzQ5WFlqdDBRQ3NWNWV4bVhXVElmK1Q5d1JGM0hGRGdUQk5qTUFXQXdVOVMvZmR2TGpkRXVMcGViZlVKdnF1TlBoSjhVb0VTU0NnZk82MDROZE1aeERFdGVDVGNWbDU1eVVWSGNXTmVTMHQrOENzVWV1Q3NETFhla3dncU1VcTNjQjdYcGZDWWlIdjNpSVFsNVhDdjJOS05GVGN0VUtHY2FqMzNsL1VMakk0R3Zmd0Q0L1BDMXgwcVdKMVpNRUFKelMwNEpqTVdEV1M5dlEyVGI5akF0Y1BYVGF3TjBwaHNsSGEvT0RWdFRMbFY0Yzd4YmcyYW1hSjhLek1aNXFBTW8xdnRSbXo2VHh3TDhUYkNmVDhnUjlzIn0=
+
+#EXTINF:-1 group-title="Lifestyle" tvg-id="fashiontvasia.fr" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/fashion_tv.png",Fashion TV
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoicDhsZzNlcWsiLCJyZWZyZXNoX3Rva2VuIjoiZG9ZTDZFY0pnVmVVVWNPVkJDS0VDbmlaRWZ6U3Y0ZWRvNmJvTlpZNmdCU3Nrc1ZiNXJaTTN6aHl5ZjFJZDJ4NDU2OU5TRnNZU1BYWC9pQ1BjdUtxR2ZxZVdDWTY5VFNBWDcrRGxuUEdMUS9hR3FjeEQySGRnNXlCK2xUbE03b0o5eGN3R0hGUkN4TzdSRVg0cm5kdTd2NHRCcVM3T0RYVnFTSFVqblBmOGNtd1VNTzArVi9WMGNTcnRldm41U0hwN2tFb2MvbEVLTkdCYmNtT3JxbTJJWks5cjdKNkhQZWdBZXdIZnNtZVBQVzNZUlZBR2htQ3phRmNZQUtCRXRnYlNDUy9qWThMZWptZDdCRWdyMlJ6UVJZZEljMzhzU1VIT2pMdFlZTm5vdW52RWorMTZZQUtQOGcwc0J2SzdwdEFZT1ZiTUJIOUdDOW44ZldKblBwdHRRPT0ifQ==
+
+#EXTINF:-1 group-title="Lifestyle" tvg-id="fashiontvloriginal.fr" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/fashion_tv.png",Fashion TV L'Original
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoibjF3ZGJjcmkiLCJyZWZyZXNoX3Rva2VuIjoiRnFxTmhnWkNqYXcvMHM5ZUMyNGJTcmc4QTN3enRGUFJMK2tmMW90d3VhUVBRSEFlY1BhdFFRVFhiSFgrRUNzZlNBSEg5Z1NxMTh3SVg5bk9UNlg5MVVmS1p3R25YRDR5ZU50R1hTTjVPNDhhZll1T212b3ZHQUREWW9MNlpCbHZaN1dnTnFURnVxYUJXN01GTEkzZlNqbXA1Tk9tdjgxQWVKTnRSYmFhMGd2bkZ5am8wY0R4TFdJUVN0ZkxiVUJsK21ibEZxNDFETmlUeXJQMVZMM3ZoYWFpT2NMNUxEVTQ4eUN4eWZTYUF6SnBwSmhJNnAxR0F6UVRnYkhqY3hnUWNYc3dVVk04SzQwenJvdk5ROTNlVFBmYmVpUGlFNStmb3ptVHM0Y3JPdkdOTE9JT3BObzlteTQzTXE1NmIxM2Q2aXdXL1NUaGVKd28rbEtGSHNHRXZwR3FKTVF5cFBKYzI3b21wL29XMUlRPSJ9
+
+#EXTINF:-1 group-title="Lifestyle" tvg-id="fashiontvmidnightsecrets.fr" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/fashion_tv.png",Fashion TV Midnight Secrets
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiejM1YzRmcGoiLCJyZWZyZXNoX3Rva2VuIjoiajRCWmswMVkwbzM2WEdsajE5dGM1c2xBZHZvbmNQbXlEdytZLytuMDZDQXlTWVdtSHQ1MVZxa0k2RGxEeVZqUFBJSEUra2puYVFoUzNqbGhQZUR6YlBGTGVmeVd0TjRCcU9sWkhjdTM0SS9Hbnh5VDhTbjZtKzVQdi9leTAxVHlIQmlrT1h6akNORk9VV1F5dEZlVUhzaGRYMmZCN2w0UTlBMnJvdXVndkF5WkFsWVNYbU4reUt4aXFiNVZ3ZDlGM0N3bXRzK05vbWhWdCs3a1l6c2pWWDFIaXlYbFMvdWNWSFBPR2RSUnFtb3hEN25XR0U1cjlWbVp3TXc2OFluNkN4dWRvWkkvT0t0TjVZdGpRZFhuQjRlbTRmaE5mbDhLYmg0V1kwNXU1ZVN4aVMwNVRYMXludjhlWXVHLy9zNFFRQy9jYmYxbUduY2NUUGlSVjkzc3JBPT0ifQ==
+
+#EXTINF:-1 group-title="Lifestyle" tvg-id="fashiontvparis.fr" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/fashion_tv.png",Fashion TV Paris
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiZHY2bHB0bWEiLCJyZWZyZXNoX3Rva2VuIjoiVzQ0bzV6WFdBYnFTTmRHb1c5cGlNSmpueDBzMWxBUTNZMkVCbkRhZWhSaEIxM20zNVFwb2swd3p4d3c4Rm5OamJUUFMwTXNpS2ExVVkxU1lCTzYrWWx3Z3BzVlFIQ1BIcG43TWhSLzI3S0pBdmE0bWRHelZkYXVqZzdoTElZWmhyUTFwMlV1UmhLT0hBK1c2QU1sdUxobFpxRURIMloyc1oyS3NMM3hDOTIxUlNRV2pHWUxtaHV6WkdmK1ZoMkJqL3llV202RkRjNWFhWEU3b0RBWXppWlYveXdZS092Z2tjM0RkMmM1aVVCL0RubzRtNHhiU0pBYVB6eE1kNGo4U1VmU2FqWGE1UkVqZlVISGJLay94aU94Y1dZbmExRXpBQ3Zzd0F5Z3VneWtqY3ZueklFSGxQZ0NXS0FWaW5jaWIyZ0hINkMydWgvUUdhM0U2WmpVS09BPT0ifQ==
+
+########## Sports ##########
+
+#EXTINF:-1 group-title="Sports" tvg-id="astrosupersport.my" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/astro_supersport_1.png",Astro SuperSport 1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiZTFrNGN3eXEiLCJyZWZyZXNoX3Rva2VuIjoieXV0czFnb2NvanZmckV2VE5hZGRVUVA5WUZUclM3TjBHWGk1QWxwdzVkTmZsNEpUc2JlYzJYZ1gxUkxFeVhPRHdFNnRzUTB3dGxkVG5jNmprc0RZa1N2MnEwWjJwY1pLSEdZdE12TE04Yk5SYVBWWlFNcW1Nb01vczM4Y0hvWFJkNFVlQmdtQWlXOTM0ZTIxVWJxQVNkWWZGWXBqWTM5WVJXcE9LL3dYQ3ZRVzdBY2VUejNiTno0VFgreUxnWExXQVhWQ25oUHNVYVdRT2x1RXpleVV0NHAyYmlWaTc5cUdJVGw5TS9NeEpxbzJ2bHk0Z1hIL1RBd1dvYW9BTXhJeGZjQ29Pc3JTeDk2NGpNRVZBMzk0UmdMNmJVNTdWNXdkWDNBRXE3eUNTblhFaS9xTHBFVDVKQ1NjbE5VeXNnWk5lRGt2NzFTamhXTEJnbENKWitIZ0E4aDljNTlBbHhUOGp5MDh5ejgzZTA0PSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="astrosupersport2.my" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/astro_supersport_2.png",Astro SuperSport 2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiaWxudDgzamUiLCJyZWZyZXNoX3Rva2VuIjoiWjJlNUhUQnpwRUsyaE1oU3cxUUo0d2s3bTUzY2I1SWJRL3MyaE0rK2Y0SndIS2lnNERJZ1ZWOXdXZnExeHQ4OWpNaGRHWjQ5K0dzR3lvU1FtaUxTVFJFVmpHb3BhZTRvRXRoN0paZTZNTkpSOXN4QWhyb2ZPY0ZGbFFEci9pODlESGNLM1h6Smc0U0N5ZVRrK2R0dkZJUmVFTTNlcGZpU2ZESGlEb2ZDUi8wQkFkTzgzQTZqc0gvbjZ5VzNrZUtmNEhmSk1KM3BMbU1vVlFLL0FWTUhZWVJvbkF1c09DbTFYTUx4QVhDL1JGTFBOdGJRYlg5bXluK1RhcnVCNEhpdDRLaXV5TmhTNXBRVFN2cWErdFg2azJJQ0FTRFUwaVJUV296K1J1QVE5UXZuZGtrdGYzdHZSWHhMVlhnZkxrZnlKY1dRVVRvSlNGT2wxc3EyWjFOWW5MRFNVUno2aWdwbUdUa2djS0JTQS9zPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="astrosupersport3.my" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/astro_supersport_3.png",Astro SuperSport 3
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoibTZxNTBvZzMiLCJyZWZyZXNoX3Rva2VuIjoiQlZ4enFFQjZ0SGFtRmVmTy9WUzFweUxtNytRdjRKdGZSckV2NzIzWnF2WG53NksyangrbTk4YTBKbWZFblk0T29UTE9iN3ZSWWE0MzhXVjIxajVMQlU2TVpMd1p2Y2tKSlV6bExFWlpqNWhFRmhZa2dQbm16TDh1SWNoR1NRTXpGOTRWNy9tWGVUblpROGk1MEJZT2xWMThMdHAzOEprSzFwQ1M2VzFJTThnMTdsZUhhTEllRDg1OXZROEF2K2ZNMEI5WGJxSTJPVzVkSEdnTVZwcFA5dEFHeXo1M2x1czlIcmd1a2R0OE8xbGZmRmFaUm5QZXFZbHRZMWlXY2JacThMZVZRczFNMGVHZzhlK1ZxODBDcktjclQ4RXdXQTVNeHo0TGMwaEFwQVpCNk1jRnUwUndJRm5wY3BqNVYra2hLSEZaTDgvaStRWXlJMktpVklPbitzK3Y5ZTlSbHRVdk1QNzZYUHlTekRJPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="astrosupersport4.my" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/astro_supersport_4.png",Astro SuperSport 4
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoidnc0MnFwNmoiLCJyZWZyZXNoX3Rva2VuIjoieFhYMXp5MDBQMTcra0gwUW9acDFCT2dBaXFyYXBtNlJoT0Rqa0krZC9lR2hoMXRKTG14cFlpWTQvN0U1Uk41NkpYR21GY0JTZkxPZ1RBY2V5MmN0R1ArcVc1b2NOVDN5d2NRL2huWnAwSVFBRFJUOXhqRkVGbk1EMHlKWlBNNUNvMEFHZnNHeHJ0UDdiQyt1Q0wrL04vVWh4RXEwT2xuSGZEWDNSOStBMU5uL3orb2phQ0FIN3B6MFUxN01Vd0E4dXI4aHVSaTJPZVNQbGxOMkF3dGkvc20rV0VvY0cvZ09CN0Jlc1htdUJnTWplYVpOWHZTU3Z5YkVRRXB1Vklwbk1xa0Q2VHBxVDNseVQ1dHJzM3BYamJYcktFTVRzeElXSmY4UEdTNlVZTEdlRUZ3VnBWNGJJcDRkY0MxUTdVdy9iT0R1NGRlR1dpN3dteXMwc3RhNmZid2JvMmtMMHRPSG51ci80c204aS9JPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="astrosupersport5.my" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/astro_supersport_5.png",Astro SuperSport 5
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiYXkzaWxwdjkiLCJyZWZyZXNoX3Rva2VuIjoia3g5WWxTVksvSkdYcEo2bW9zL0NRU25WNVV2dU9VUzFYMzgwb25WOU9pVjlWdmxyZlhRMk95b2hZM2NobHZYWFVMajJVcGdodnpnUVh6RmFzUnpHeFB5Z01IcEEwVkJDQVc1ZTkwN2V2amJNUHM2ZFRyc2VpTUZNTmZTR0ozbTFxQ1ZkNXdYRzVsUWRoRWxUR0d0Ym1nRVlaemZ6TVNicFZTaHJnQXR5cGtELzFZRDlwaUk2THlCektrT29JUXBOR05pMHRlM1FPV3ZBYzZ6elJIdkg4YzJ6bTl5N2ozQ0NaMWt1UG9PR25KUGVzQmhXcHd4Mkk3QmNzeHF5Q2xHa0JwWnJSQjlIdkZYUkVlemtlbzVHL3BKa0ErVVVQMDcyQlcvK0ExVkZzejFXTVZOZzFyNzE4VkQxQW1HZkxjd0hCK05DYWhWSCtSNTRxWkJsRFYxVGNnbEU0MW1IVk5xWEVndTdqZG0wMnM4PSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports1ar.id" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_1.png",beIN Sports 1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoia3E3Y2h5NGciLCJyZWZyZXNoX3Rva2VuIjoiNXFscXNsRDQybk9EK1lHRUdqTzBtQUZZNTBvV0xmbnVGTEg5dGJEejhhNm9KTVBibXdha0o5YWR1a016ejRVR0duY1I3dUZpUVF1UjRBdWY1UzZUZktPdjNob2xJUXZhMXZQNTBydTVKZ1VQU1lJa3E1aGdzM0grMGJsUFpSbDEzSTRFTWV2MEs4S2NBZy96K1p5Sk1PWDZnbmp3anNHMmE0Q0dhL2syT1F1QjIvUURuR1dPTUJBekJYM1ZQbnZmdzVtR2JsYTZoZUwxdTdqZXhGcW05RHZ2aGlXV0g5VWFNb2s2Q0VndlNxRHNYU3NZRmU3ZmxrV3p1YW42djAwSkU3cUtXVFZydm1EVHZkdUlmdzRRMElhT2U4d2RJWXZWSUlvTmpWT0hjNVVWVmZES0ZzeHZQQXlGcGM3UmlIMHBWM21JS2xLRFR5RkJleWx0aGtvcmRPTW94bjBhVWlURFkxMlZpd2RtZ1RBPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports2ar.id" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_2.png",beIN Sports 2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoibzFkeTJ2Y3EiLCJyZWZyZXNoX3Rva2VuIjoiZkFKdnJVMUdQSmd4d0VWcDdMcnhrbXVOV3Jia0dOSHZZaHM2SVMzSlo4aFdUVDRBZGRuRWhqaFd0UTA1MUFpTElSNG5tRXNudHI2QzJoNU1nRTQ0b3JVNSszeURySEZhK210dEdkMWdiNEJvcmFjc1FGVS9rcUtxOXZObGdreCsxeThscS9yQ3JNUHIwL3BjUGFQUVNjWjdyeWNFTk1STHgyajZRS1lnblV0Vis1U09VVUFGYUNER2pRc09ieTRhOFRmbzMxNUNRYmFSbXVNYTEwZjJNTzNnSGd0TCtVNXVjNDBBRU9zelozeEd2VzByeW9aNjZBR212VnZQcHg3WCtidUNBTVVIQXBrNWt2akVRd3FBVktHcFF3WXh6UXZlRHBza1Z3L0tOSVdyTHFGVEswcE5ITkxTekZuZmVMN2ZYL3Npd29tRmVYaWoxMnR2TTZ6ME94MkFFMmwweCtrZmExa1h4bEREZi9rPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports3ar.id" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_3.png",beIN Sports 3
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoieXQ2MWxpcXYiLCJyZWZyZXNoX3Rva2VuIjoiVExtZS9xbFdPbG5xMUd2UkRQSG9sN1BOV1NGd0pTV2l4K3pUMjNBSHZudFVrYTZXS1h4VjZkWnprU3J1STkvL3paaFJMdy9KV1MxY3psWDZmYWxrNkNNS0Ryb24rUTlMSkFCcGRadlUrVTJZK2IyOFpsVnVBWnZJRkJLRVlNeFErc0VVMTdNNVNHSUowVWlKd3d6THVlc0wxdVA4cHhhNGpYcWFhY3VoTkZGQTNWdnIwK1FxSU5ZQXl0dlVyd0g0UVZyZFo4T0dFSitENVVtY3hNQ0M1ZnZiK1Nid2xzWUlqVzNPOVBjb1VIbjVhK1VncFp5dFEvbitVY3NmMktaU1BwUVFwWW00UlFMdmVKSjRLbDlzUU5NbmpFQ1JZTXhpSGFhN3poOUZBNzY4WWRtRmJPdDJmbER1YmVWNWtWVkUvN2RJSEVSWStpdThEYjRZRGE3S1poTzlLNGNML20ya2swWHJnYjdVdFJNPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports4ar.id" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_4.png",beIN Sports 4
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoieWVzbmkxdnAiLCJyZWZyZXNoX3Rva2VuIjoiVGI3RnpHZ29weHJlZUxoTnZIdmI5QmlLRGk4TTZQZzdHL2VmU21QSDdpZGxueElEeVRpRERRYUJYWSt5SU42SElPeWNqM2FSZWF1RXF5djM5UFg2MVltV1MrY1kxTnhJYm12VEpOc2lhMVBXaGJHNmRueW5YL0wyemFsbnh4VnBaMGJtbTRjTDVWUDFuUTZ4UUdyMC80Rnp1ZGhXQThDd0VxWHhIVkxOVnhZcW9EQW4zditEZkYxbGtIOW52Q3R4YnlObHptRDJqQS96dXlTWHdFR05tSVVxbHA3VzN6Si9qNTN6UXl4YTZ3M3VOelozdDd1bXg1N1B2V0ZhV252M0h4UkwzZ1RjOG1HNmJsRSswcWtMZlJUMXoxdDhqcVBNak5xbmlYZHJiN1luTmdpcjZJTy9JZEtRUGErNUkwbXZMblhGY3p5Mkl1RVVYUk5Jc0dDaFBoMUJKNmw1WkRSY0ZUWWhwZjcwT2trPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports5ar.id" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_5.png",beIN Sports 5
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiZnh6NWQwdjIiLCJyZWZyZXNoX3Rva2VuIjoiRytHRkZaVzVPMzJOY1E3WDdMOE9RTGJDeTlGQnlvbXlMdll2aHlqcXpxSUFSZVNyMWNzdVl2aW5IN3R0OHVtdzhqWFgyNms0QVlWdXRxWXZuZE9Kbmtta3d6dzJkV2JGYldDMko5TWZ5VjUzUml0YTBGd24rUnRvZDdFYkFxV3FIZmsrVWlWaFBLT0Y2K2toSU1zYWRxS1ZETjdTakd2MGJGTlBQMkxlbFFXMXFqMkFkMm9JaXZVQTBuQVpQem9nMUc5RVd3NEQrV0NkL3dFYVBvMEl0N3M4UUd4MlJMbEQ0WUYzZXJyWVRDcFNjOVl4YXlZbXZpcDFtKzFMV1p2MFpoNFliRFJzM05ONy9JK09ZclpHdUUvb2FuOEZsK2NaUVM4UWFIOXZuY2hhNDdWYVAxRndEWGZrS2liZWRFTW5VM1BLUTM2TFBlUDM2Q0NWZU1BVTU0bzdxNlgwSVZ0c2k1dml3NzhLRmJvPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports6ar.id" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_6.png",beIN Sports 6
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiNDhpOXhodjUiLCJyZWZyZXNoX3Rva2VuIjoiM3NSWXd0WmU0MU5LUTlaSWtTaTJ1NHJITEloclVpSk51SFZpUXlPYzRBRStQa3lleFh0ZzQrMDJMSlZJTHEyTzloSmpySytWbGQvU05IZU1QcEtwZkNCMUhPaHNSSlZob1d2TXdqV0Z5K1F2Y25pUjNlOGVoanNXc3FqSFdyN1k5ZkZtR0tmdEdoTzVadmdxQ1lHQkpQeTFxSmZvcEZlVndzWUlhQ3JUa1RNMVVOVm16RitXZWhubTlUSDd0UU5GVldPMEtvdjlTT0Rla0VDdWxvS2EyK0J4enBpdEJBRFJ0dGpsSVRIU2YzVWlSTUltblFiTWpSVnNUWHZBcndFMTB5K1AyOEFOeVkxMTExQkFXdC9FNm9xNEFhN3paZUZuc3pSdUxTMnJEZUlDR0VHT1g0ZXo1VVFjdFlEQ1dLLzJKUjV0STdxTTcwOXVvY04xQWJjK0hGeVZRM05mQmNhMW1LMEdKR1cvczV3PSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports7ar.id" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_7.png",beIN Sports 7
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoienRnbmJ2cmoiLCJyZWZyZXNoX3Rva2VuIjoiMUJ2cWdLbWJSbHlnMVgrS0JEKy93SGdVK3lvOXZBa0FUeEgra0c2QzRvSVk3NEN1UWVNZ1BBVHZ5anJ3b0N2U1VNVEpueTRrdmxsb3k2aHJuYXpSWms4YWxrREFpMG1wT2RnbGVvRHN3WUpMVE80TUU4NGNBL3FPL2NtMmhRcXNFdTVySFk1QmFub0V1RXpPUFhtZ1JBNlhKby84MDZJS0MrU25TQ1BVZXpkREdndjBsSy9IbzN4aEFIMStJUXFzbVdRKzUxcHZnRFJWUGtUZitqV3RkY0VTaWtCRnBFUXAxbE9xaWhRdlFxdWkyRGVVdTVHMTZRMVR4ZHpaWEVhSisvSnVleUY4U0JMMXRQN1BEZzRTa2NTYkRHY0paS3BJOG1BVmlLR1lDTGhHMUU1cldCaVhHR2VEckNENDc0TlR6ZlNJUnhOcTdCUFZ4eGRNeEpucEl4Q1d3TTZ1L0l1emtnZUZjWGlxY3RrPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports1en.id" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_1.png",beIN Sports English 1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoieXRpODd4YXMiLCJyZWZyZXNoX3Rva2VuIjoiZDdMTktXMjJudmxMMTJ3M2M5N1hrUDhMWFlqSThESVQ1ZGx0ejBZbFQxSFZZVnp6S0owdTBXV0phYVoxME92VGtFN0ZKaGdZSk82R0lCL29NTnVpcUpZdzhJeXgxTlRGSkN2UmlheWo5cG5mV3JmMGxlQ3VxSDR3VldRdm5HTllNcnc4NWY0dU1oQ2FjNHY1cFJ6MzI0bjZwcVg4VGEzQ2ZqUzB3QitsVWM1WnArUEk2cDc1T1hjcldJc3B6Z1NMWWw0M2lQejdodFFsM21weDdzNWRVZkxmcnpBa1FqdHpWQlJDb1VhODgrayt2Y1N3Vk8xUlBZZHlGamtvSEZHeGJDenBIOXdOYnNoU3V2RHZ4WnlDeEhIVXU0aVZjYk00YW1MbkYxWkkxdDNhNWh4Zk9Pd0VOZzkzR0pwc2ZQTUpvNm1NMkZ1MTgweTJ1TE81d2t0YnNRaDdVemFhSjJQZG04WmJ0Ykx6Q3VnPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports2en.id" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_2.png",beIN Sports English 2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiamZ3YzBvNm4iLCJyZWZyZXNoX3Rva2VuIjoiaDMzYVFvcVRTSzBSYVlFOURzMklvVktMMkhVVGkxclduNnFYRmlwVm1BbzFuemxkTU9WWlZvaHFLMDRmeEVybWsrNXlsVnB5Mjc4cW1QL2hIQXZNY0dpZkN2SGZycVB2cjFEMWhjMWZyNHJRMDNqYTVJMDh6dXBlMGNPd2dVTlhUL0lvOHVXSFZhWnVIQlVQWTRXdS9LQ1BWczV3TFk0WXFzR2hJZy8wNFBkaDkrOGNLUklqY0ovM2xxVDhRZ1BkcXVnTndjekd4Ymt6VGtIbGk3bURlSTRhSGxOcXkxN3A1VnF5bkt5V2lkVEhKUXBDYkh6dlJzUksyOWpQcENuRWlrZ1Q1VTBVV0c1Q0xaY09hMXdVSmtBTit1Z3FJUGpld1NXSUVTY091bkRGbzRTVzk5VUpHR21iQXFBcDczNStlSFBWSFZWSDMrMEVSU2ZNSVpSeWJpamZCdUdrK1FmQkprSzcxRGJSOTIwPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports3en.id" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_3.png",beIN Sports English 3
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMmhwOWl3cW4iLCJyZWZyZXNoX3Rva2VuIjoiT1F0L1h3UzloZW1YejA1ekFFZk9LMXB6d2x6QWxiTnpOYjBPSXA5eFFCRzZSQmFLTDlhK1g0dlY3L29DSlNtdDVrVnNya0MvN3hMck5IalBOWmxSMWFheWpNYm13SHYrZG5Mb1FqUnd1NE43N1UvYmkyRXJBL1g3bTYvd3I2VDdkSTNmS0Q5UmpVbUg1QUQyTkduVnYvOElCL0JURVp1cTF3c1Z1aWU3MTRGSkVZKzdLSGZKaHFVc1hzOFlXcEFURHdSQ0hoYnJBMWRpYXZ4RVRWR29aK3F4bGNPeWlnSVRWWlJraXFtd2haaytFQWdJMEtuNnRLUmFiVE9zYjlPQUxaZ3ZTdzRWb2wyaDZoZ2VGNGx2eldrdmxuQ25RNFY3a1dUNVQrbzc5cjRSeGxWQTZNUW82anRCNXRJOWVFaTlBUG9aWlBhV0ZScU5Qd3Q4L1d5YlJVUHZWdnNvck1EdmtxYk1KNUdwd2tBPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports1france.fr" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_1.png",beIN Sports France 1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiaGUyNzhhMXAiLCJyZWZyZXNoX3Rva2VuIjoiVW84TXJXUkViVTR3N1VPaWhyMUNpdkdNMjFSaEJ2eGVnaThwR1ZBT2tEZlRoY3hUc3lVYVM4b2gzUnZFalZ0OU5CUXljZmxvbGVOdVJvdVJCOVRkVEg4NjhTZ1p2b1JBSEFmMkFLUzQzUDhmRzNYMHpTeUY3NEZVZG8reHVUNG03Q3lscmR5OXNIai8vMTRhZXBHelNRKzZ4MkJ1VXk2MXplbktkVmJ5YVVmeXp3RjNqTGdKK0JINGJQbmNOc2t4d3kxYVUzL1ZwYm1Ba2o5cG9uRFBnSDJsN0d0TkpVWGtIS014bE52MFlLbDRNd3IrQi9uV0F2WW5uOFlaWmFxdXVuZzUwNDJqM3JpV215YzVMSkF6M0UvUHNOaGRtUU1HUUdFbGlFNVNyZTZWMnR5QVRVd2xld1dlMElkUU9VcUNORW9KeFVXSTdYYWpPVWpsV25JL3dIWGgwOHlSMk55SjdOT0hoM2pBam5NPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports2france.fr" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_2.png",beIN Sports France 2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiOWo0emRhODEiLCJyZWZyZXNoX3Rva2VuIjoiWTJVemt2c09jRWdZUExsTXNiWFBHSUxlWDN3UXFKemRFb2RwMVF4cTU0Mm5OV28zQjJDVzJ3R0pqQ3VXazN4eHBmVDlGYU5OMnlhb2lrVDVxTnI5Q254NytqYVN3emgwaHlrUkNsand0RlkyZy9rQWRCVjJWQWVtOUo2U2xGSGV5eGFDV2ZBUURpakZuY3VTdjBRUThjdWo0Wjd4aE5IKzNMRFViSDd0MzdtZk9XclY3WWVtWW1vdk91dXZXQjZwdzYwYit0WXdMOEQ1WjV3MktudGRhblp0UnhvMElNU1hZV2tPaTBKQkJLaDRmUDlqRjZSVXpiUWtCZjlTOFJMc2owQVMrN21wMTlpT2VKMy9aTW4yMUF6aVN5OEpCOTlvYUpKRmg4YmJIMXlrek5VdzZ4dFZLSWk1QktyV0dKTklNOXlHSzdEaXNtMHZSWG5GbFZ4OTRpOG14dGxPSzBvR2ZXK0IxcG0yZ1dRPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports3france.fr" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_3.png",beIN Sports France 3
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoidjBhc2NxcHUiLCJyZWZyZXNoX3Rva2VuIjoiMTBEZ0Z6U2czeUlLQ2hydGljcEsyaVFxRHRVQWcxcENvRVVUdk1KeVZ2SUMxUW1DaDFRVVowVzJGM1YwVDNkam9VSk5nbG8xZkg2aldycmdaNDUyZUhORVlpZVlhRlozYWczUUI5cXM0RkFXeUVENVR0N1MwbEVJMkttVEJWOGJNU2c2TE5mdDhwNkZkUGt0ZEY0b3JNVGgyZmhIMThIR3VwbVFIM0YwZFNzUitIeTRxcEpZM1ZRUFlJMXJrZXhpUXBKTkF0UWpvdVdaTGdkQkd1VVpVcHlDRGM2aDBjSEJZQ0srREh1Y3ppMDNnM0h2aHptRGNpNzhvMmVVY3JSTEFMZC82WFBVNGMzTEdjR0F4V2QzVDVTcjd6M1FiaXM3MWxQSVVXMCtmL3pjb0JNbU83Wno2S2lWL0FZUDRJT2puZUhlck91QzNyQ3dNRDFFcWNZRnBkeUtXL25JUFJ6TDJIZTFRSnh2SjRjPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports1indonesia.id" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_1.png",beIN Sports Indonesia 1
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoid2psMzdweXgiLCJyZWZyZXNoX3Rva2VuIjoiMGtRckh5ZE5BbU9JeUZORTZDbDBpNDg2RHQxZTJtd1ZNZVhib1BISTJhaU8wYUk3OHE1U0JpOUtKaEZURGQrcGF1dzdubGdvdHJQOHlhOWY2dUhwVUxkMjNPaGRJV3phZHloTWZoOFREbHBmRytscXNGRWdEUHpBeFEycUk1czFsOFhnbW9yY09UZDRxRmlBMG0zNnBhN2x1aVRKUVBta01nRFZiVVVNUS83RXBxOVNKR2RNQzE5eXNMeCtFeVVDQVZIVHZYS243WHp1ZzRoQmU5c3U1ckQ1bXdrS3JhdHhlS2czbXZsbFRoYWRYMktvSGRBTEFzb0pLSEN0dHdJaW1sY1hVa1Btejh0dm01eFE1bWM3R1RwYm8xNWlqVGQ0dE1vVmlocGhIaE1LWFhZS0RHeUdwcFc1UXB3dnc3Y3BkQUxieGlxSXJ0WHpWQkV4Z0I3K1pRPT0ifQ==
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports3indonesia.id" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_3.png",beIN Sports Indonesia 3
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiZno2eHUxbjUiLCJyZWZyZXNoX3Rva2VuIjoiSWp1YWltd2VNMHhOQzRYRWxML29GN0p4cHFoWnFia2lHMnNPSjc2LzNPN3RacmlTZi9EMW9oNGpTdnZIeHk2djliNThNU2svYzNSMlNYWmJvajU4ejBtYzR1cHlWR3NZL21MYjhvRzRuY0s2N01WTzA1d0poUEVWUHNKekJoaEJJRnEvMGtzNVV6R282bGF3TmtLdnl3ellFcWJwTHdEdmRlNW5jTGFpdnlhd2pvMGcvOS9UaldPTUxVRzkyVWdoN1VQZDlmVUxrMzdDMHFYYXdPYmRaamMxaDFEc09rMzN5bTBvNzIxdnZhY3VqWkVuZC9TbVNFY2hHTGZoT0pkWUs0S3BNcTZpQXI0eE43dEVFSkpzM0FrUzVib2RXTlhVWGtZWUl6UGJIYU0rMU9vV0VrQUR2RTl4L0FwdVNlWlJ4NTdBVnB1M1JZYWNzaFNvanF3dzNnPT0ifQ==
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports1.my" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_1.png",beIN Sports Malaysia 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://12537-stream-ip-tv.xyz/drm/clearkey/?key=eyJ1c2VyX3Rva2VuIjoid2EzdWtyMHoiLCJyZWZyZXNoX3Rva2VuIjoiaXYrNDUyVGpQRHJ5czF1MlI2TDBOVzh3ZUkydTM3SkYvaXBLVi81NE9KckpWd2pNaXZDblFycU9vRXJSUXFmZTZUQUJ5MmxSSTFLQ04zam1YNXo1REVZRjd3dXVDWElVbXNwMDNkQlR2QlpYS0JhemVnMWN4V1Bqa09wc0VKc2tQa3JIeXYzT09IUjlEaktwK3dPUVNyRDNNRFl5ejNuOE4xM1BsWXpleVZpNW5xUnMzVXZBbk10TXNYSTNyTGppQWc0UjNDb0w4VGFUVHhpU1hicFhWZjFoWDNSdTRzcWduVVFUNWtvN0NCNmFtVnE0MXhRK05XdjZ0cmw4Q1doYTYvWEFaNmFQL21YYWNvOUFZM3R2Z1NSWGJBZTRjZFhpVFdKQURLc0tYWnFEcWlYNExDbE5mRnNkK1VMVURwbHNiOGgzaWRrT1NqUW5vR2xrY2JHbmNnYnBqL3cyRzVtdWtVeklVaWZ5NXJicktPa1FCYi9acVh2SjNUOHE2WUJXdm9FbTNUdU9vcVArdXNCRXVUOEhFZz09In0=
+https://12537-stream-ip-tv.xyz/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoieXMzZzdvdnciLCJyZWZyZXNoX3Rva2VuIjoiL3Fmb2JYb0lCTGdkcFdtS0RhZU1iMmlWbExSS0lYbkZtWEVnVnN5cUZvMUZTR0t3Q09SRkFQS1JqdVBmNEliczVTRmpQR254QlZTMHM5VXR3V3ZCNTZ6L29KK1puVGh3MDRUa0R1T2NIcEV6OFM4TjdkdElmbk5ialpVK1F4UU5LOWMwTDJwdG1ucFFnMGp0RWU1YzRxbzVlZ3VRblFRWmJCUzhWdWhvL2xGZldSbHdrdnJVdFNMMTBiYUkwOFVFRmdlZjhyYlg1TFZHUU5Ic3dVTHhNUnlzMWRveVVYem9DK3JDeXBVbENlMXc0NTN5UVY5Y2tlZWN3RHFaaGh4S2NndVBMVHJDR2hoS0dDOGN3enZHa0VVa2pmVUllUDh2QjNYZVFFa0Q3RmFLZ2t4WGxwaGtJOWhVaEJONDZnazVzSVlYUVFCS2VnTzJERmxBY3M4SWpYZFlNTGRiU3NHOW90L3lJZWxyNUdTdVJXakVBTC84N1A0TE5MbUdLWldNIn0=
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports2.my" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_2.png",beIN Sports Malaysia 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://12537-stream-ip-tv.xyz/drm/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNDZmd2luNzAiLCJyZWZyZXNoX3Rva2VuIjoibzJTZml3T09KNnhmTU4zdloyQ0huM3JDR0Nkb2ZzWFBkWE9HU0laZFFka0pwK2NVUy9MSk1YaGkrMENnRnhleGk4b3dHMHhUQlEvVmVSajRWMklHaWJoM3ljMC90cDFnbGF0V3o0cmVjZkMwZzFXajVyNFRLczJMcDFXT2lTT0VCUGdIUk1qTzd3dG9MKy9wc1ZxMlI4THhrV2FQZCtSYThrS3BRVnlMU0t6UnZZOXd0NEhWUys5SlpPc09xajlZOUxXb2ZwNE1rdlJNQjBJaEhZdFpMWGprRTVzUVREUllqZExrMnRvQ3NFSk1qeEgvUDJoSXV5cDNlTmxTZ25vUFdsU2RYUkZlZy9xYmFURkEyWDNITEsyWDd1KzhoVHNyVWt3ZkpEVnRzWFduRHJTY0pNTEJxOTR4ZEVOYUJMckZZSFJ2R0Y1eUdmNmhrR2ZnWmdmelFleVI3RUtnRFQ0bjVZMlBuWkVNWHJCOGxNZUt2QURnVVMzN0hpbVBMTFRuTy9mME1BQmlwNHA2RHpyWm5BOUZOUT09In0=
+https://12537-stream-ip-tv.xyz/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMndkY2o1ZTYiLCJyZWZyZXNoX3Rva2VuIjoiMy9zR2VDSk5Bb2N1eXo2bDh5cUcvSkQ5aTVBd1crNWFHaldYQzN0VnlXNVo0VHhjWkpOUWtOZ0NCbWVGUnBzbXZYcVdTODRYbXovSmpoQVZBTnM3aEo0Tk9ocGJHQzROMWQzYUQzUjhhY1Y0Tk5sZzArVGpseG5mVHFpQzlJZVFyaEdiQlNjbnRnRG0reng5TlRmUTk5R1d4NlM1RDdOUnFUNXlBUUs1dW16Y3BvWWVMaVIyVE1OK0lsV254TjY1YzRYMjFFQjNMdWZSaEIxVmY0WXRPMnYxbVhNbFR6dUUrQkc2eXN6WFJadzFrNlpVTjdHWWxiZUJKY2x5VUZ1bnM5WlM3RzJseXlWL2MrYzVMNVRvWEFhNkw3NnBRRTRwd2tEN1NQNUhFaGFWYU4xcDZCTnQxRjZQNU5hem9UVEZWb29TL25ZUVc2TkpNTGQ4dnNKNlYxTzZpRjNXVnVVNStLVGlzSHEwTXNDV0VHTm1lYjZZQnVTck9HN3RZNklnIn0=
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports3.my" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_3.png",beIN Sports Malaysia 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://12537-stream-ip-tv.xyz/drm/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiZzRja3ludTAiLCJyZWZyZXNoX3Rva2VuIjoia3FGejk3QTlFdnhNSVZSNk1xdVdscVJBeFNFN0VOdVVrN1ZnK2ZNcVJZa1haQ2k3bXhLYytlVzY0VFRBWlpobFBjdUFjSEowSHVWUm54d0JzSGs3TnZMK3pQRVEyTDJtSTdVUFNTb25hTDA3YzZYWHRxOWxiaCt3YmVWdVVzNHRUWUVRQXIxSmVFZXhpTk55ODhZaStDczJpbDFqUzJOaW1XUDFIRHVjaEphNzBoOC9UVGJ1aE5VdlZrSlhVUS9ZbCswRW9TVTYzeVFpcnZkS3ZOOHdMMXJhcnU2RWo0RnIrYjM0UnF5Y2psMnJxdEJXM2lGT3p3RXVmeXNzUU93aGJqT1hyL2JTL1kveEV1SHlFS3lLTHd6cVBQMWd6MktZMVM4UWhOZkRpeVdMcWV1YjZKK2VZSy9GaEdCemxieWRidjErZ09QSCtFNndzUHZCaHVSellteXNYejMzcXczYVk3S1ozTllILzRBa2NpeUZvUFIzWXpUQm1BZDlmV0kwMFN3K0p6ZG93V09lTnZsd1gzblVUQT09In0=
+https://12537-stream-ip-tv.xyz/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoidGVncTR4bTEiLCJyZWZyZXNoX3Rva2VuIjoibGhPUGptOW5TRjdVN0tvdG8rVWVrTDYxOHFkTDBJYUJ1MnVxMHgvOGFTdXhQaFY3aWplbmd4OHl6TUNhQjQzbC82SmdUenBjUUl4NGJ3cVBKUFM0Y3ZLanpsQmZQS2l1VmYrTEtlNWpuVFdjTUlYUmloaHl2U1FVdFRaWTVmQkpGM2VXcE1VYU1adDdDUmF1akZwN0J4c3NNVW5RakNiSjQvUkozZkJUc2kwc2FmOVNmNkhPOTJtaDRTOWRVM0hveDl2QlM1a1ZOSFZMOTdpQlUzNlZwcmN1QnNDejZvNm1CL2N4Tm51M2xSb1V2Skkzc0lRMGw3V3J2SW1HL3JLL0VvTEJQOG42YkZIWmxVbk4wVnNNM2ZkSTFHNGJSWG82OEFBNEs4R1VBblRLUGF5QTNYRGxhNE5tSlVPajRFWWJ0dTJiSXBkNmk0ZGhBdklkL3BMUUVkV0Fla0xKdGxsb1MrNStLR0x5WENhcjQ4VnBMVW8xWHV0WnJucmRsdmwvIn0=
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports4.my" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_4.png",beIN Sports Malaysia 4
+#EXTVLCOPT:http-user-agent=PL_12537IPTV/1.0 ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://12537-stream-ip-tv.xyz/drm/clearkey/?key=eyJ1c2VyX3Rva2VuIjoidTQ4djV5eDYiLCJyZWZyZXNoX3Rva2VuIjoibHpSU0hLajNuL0Z2azY3cy9NUm1hVUFHRkdLZVMvT0x2VkMyTndldEJ4ZktLaFBYenZTVVBRcnM4Y3RXalR5bEtaTld0N2ZTVmZKeGlVK0FycExmOUhERnBSZ01lOThKaGl0Sk1JejlzeDRiZWRUQlBJbTlLQVFJcldPWWxSUjJiTFBYOVlyUXIxMzdVWWxHLzlGMWVseXFDSWZoUlo2SVlMZDFXbDA3T0xWNmFONUM1djJocDlCWmZGNVQ3Vm9Xb1lPOWRHekxHWFlPSVRYbkJWcytBcTd5bW5rOUVWa2pqcUxDaER3VUdoWVFmM3lwZGZ5L0NuSjFRM25aOCtmaFNPdkxxck94UHNJNUhZTGdjSTg3SFNveVFENW5OU1VLUHloblNIR0I3SFdZMU00bzVERzFPNlllSldOMFlUOVFkVTJpSXNwQ3d5dnF5bFNsWXBpQTZFdnZTMStlRC9rUWtONzVld3p6bElGYjU3MytMQzJzdWhjMW9GOE9yTHNCY0YvZW9teDhDQUxEcUwxUUNBbWZhdz09In0=
+https://12537-stream-ip-tv.xyz/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMmp0bzU4azEiLCJyZWZyZXNoX3Rva2VuIjoiN2V4cDBnNjFmR1ZXaTNCTXpQOVhkaVQ4dWFJUnVzWmIrS01pcVdPNVVLWndpWmh3WW5wU0h3L1B5dHdlaGZnbkFYV0Z0QnFFNEV4ZXJKT3pBZUFzYTdzWkRkcDkvN3FtU0VkNGprMitiVzVFQjA5SVhUQXU1UmhxVEpMQWhwcTJ2VjFDeDFBdE5aMGtpK04xVnNEUTNsUFJoRUcrZ2lZTjUrdzNXVGhnYWlHeTR4TVZHRTVHNmFtQ2NTQTg1ZnVkc0pQZHJBNGVEMW92ZDZHNnZWeDB1VWNpWkVXLzJIVi9ZeDk3Yy80amZMcXBtSFFwY0ZsMDliRHpZanUvYWdEbDBLWE5iUUptUmMvOHRsMkxoREpQbndBdUlJWXZjVjZvYWZtZlpSanlybXZ6MjFTdGpFdHRNdmZhME9LbGZJbkk2SVNYUisrOVd0eEZ2NExMVllaL3dwdXhSQy9CNGhld05rc014T01HeFl3PSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports1premiumar.id" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_premium_1.png",beIN Sports Premium 1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoibDJucGFxM2oiLCJyZWZyZXNoX3Rva2VuIjoiWlF5OTkvc2JsMkN3QzhLeWJmWXBNQTBlc2dFWDZoK1dHeUpwQlIrSkNnTnFodnFxdWU5OC96S0lOenhIZ29kZGNiL1gzSm00VFVPOHd6aHA0dGx1cjk3d1VvdW5hNTE0UzU1MDNEcmZrbUM0SXJvektDc1djSnM3UDNmd00vUWJkdVczWmNoZGVrazMrK2RsRWFXVWRoYUUzdlZBNHBVbFBKU1U0NzBadUd4SFdxT09mdzRxZ2YxRnY5Vll2V3JUWUtJT1hqRC9wOHQvQlBETG4rUHVlSUlSVFhxVE5yMlpnWWNYMnBsbVFVaEFJdlJZaDRnSUo4cGlHaDE1blgxd01JQVhVUnhWZE4vWkJjdFhhL3NRQzR3c2svakRjTVdUaVpHVmdXc1c4MlphcHRjYmtWbE90aFZqZWwvbG1NZmNjcVkyT0NpeVRSYmN5ZG5PN1lEbUVWckhHRnB4RUtMemdIVWxYV0xCY3E0PSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports2premiumar.id" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_premium_2.png",beIN Sports Premium 2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoieTRyZ21hOHMiLCJyZWZyZXNoX3Rva2VuIjoiRmhxM3Jxb2pkOHFiSDFjZFdTOE1XRjBrZloyd2hJQmkrV0NEa2J6K3pySVd0c3V2bURYRkNkQlZPNnkvekI5T1l1ZG56dmo3UHRMbmN2Qis2d2p6VFdqa1JwMUFraU05eEhTdWEyOXJrNFE3YkFIUExscVZxMUptM0lGWmd0NWV5TU11NlJOSXJCTlRtMk5LQ3hUYkRjRzE3UGp0bWRzeDBza1ZZRFBkaWVNUlFHVWR2dGFOVFJRRTREOG5lNlJSV3YyKzhRTVAreEk1VjFEajF4QithMW1BQ0FJbTdDM3FkQXF1UlRoWlhWL1FtRWQ2RGRPWDdlUU92M2ljNXRyeG1la3o1Wnc3SVR2K2daQmZMYkx6dFdnZG11clVvdWI2TXl4bThuckljb09yaUpmcmxoaldYRU5rZEdWWGdYdnhxUDR0ZzBqU0RYVkNXRzNyeEZTZkwrY2M5azAvVmZFc3lmUTIrclBRaW5NPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports3premiumar.id" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_premium_3.png",beIN Sports Premium 3
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoib2h1em1icDciLCJyZWZyZXNoX3Rva2VuIjoiU1ZSWFhGR1FSa3prYjZ1NDJMMjg2NUEyYlVrTTcvR1ljWHE4YmgrODZJd2pEQWF5VG1MQnRpZHhHVFdxTWdPTVJOUTNLM1ZTV240Z3ZVU3g1VFhKVnE1aTNpN1VNdVRXRTJQd1lrb0gxbWVvd2lOc084eG84QjQ2QXM3YzFNK0IzOVVHVWpWV2xuUUZrNnNOcUpKTzhFL3VLOUZYcStJaW01VUVaT2RkVmEvY0Jsejc1RmtyWmpwc0IwcTBUUENVMU0wZnJtRi84azdOTkJmNWFPVHVuSWF3dCtmbkoydkhvckRtZFlUK25pZThZd2VCQlJZUnplRXVYc0pyN3VjMzkwN2o3Z0FhOWVlSFJkYkJxcERPeTFWTTY4ellESlYvck1OOCtOYnlDbXM5ZjljM1NMNzJjYXJmbHlGemJoRGNsRWU2a2xnRklHTjg2OVZ4blhNNUMxdHNBTVNWdiszTU15c1Fna2E2ZUlvPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports1thailand.th" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_1.png",beIN Sports Thailand 1
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiZnI2ZDF1dzgiLCJyZWZyZXNoX3Rva2VuIjoiNUFmYVZFdStHOUQ0ZzYwUXlpaXRMQlBJSVRqSzRxUERzLzhSUTF0VUNmMk45emtLZXRiWm1QUWFNY1BhRVF0UEhlL2hPZFRNT1VsS0V5RUFOdFYvYW9RL3ZFRkJVbHpka1llOXlEQTZKb3JYeldXSlBYeks5dlJCV1ltU3d5TkdvZGFhdktrYVNYVWlZTzEzS1djdXZGR2tNSGJXZ2ZTT1RDQnk2SGNHcDczNHo3YUxHQ0hoYlc5bUJxZmgreFlnSDdJV2NtSjk2bjZOc094SUp4WmpoNFIzMXFHblVScmx6ekxGaitqNFY3U3BORk42cmFjY3dXbHhvdFVCemthMENRbU9YT1NhZStGQkp2Zy9OSzVSS0ZmbENEMjdpaW1hZzNwNmNDUjFHZUZielFObStCZzZkQmJpOWMxSmVhd1duVktRQkRkQW5weHE0enB6TkE2R3JMS3l3NVhrTG1DbGxrR3FONVM1dm9jPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports3thailand.th" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_3.png",beIN Sports Thailand 3
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoieGNmdTBlenYiLCJyZWZyZXNoX3Rva2VuIjoiZmFFYzZ6cFgyM09tOUpYNVd2ZCtPSXBWSDBITC8xS05FREFSZ1RKZ3E3WUNKT1kyMWZaOTFYeVl5dE1obGtQZHc3YzNST2RQTjh5UmdDRXc1djJWazh4bmlBRE5FR0V3eGJNV0I0MGV0bkJFRkEzK2FSSnB2NGhKM2JmbHV4SUNURE5BcCs5NEQyeEthVFNmODVJZE1QUEhTK1FtUlRzbngxQzB5RkQ1N3p5Z2lsYUV2c1NNSFY0dlBlTnFLd0tTTVZheG9JUU9WdUFuNFhEakZsMWpmeElPUGs5Y0pwTTBRa0xKVXpQeHpGWkU3Vm5teWlULzhBRm42Tm5hMnNVcm9SZnZlMU9KTU40WE9pYWIwazdBYTIxMndQZGZpZkJiRTJWNkZFK1huSDkxWDM4MU0wNkFWZjk3T0RkazB3bjF4dTgydmpjVXc5SmdHNGRISksxQ01ua00raHZXVUJxR3FlcFU2emt5aWdNPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports1turkey.tr" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_1.png",beIN Sports Turkey 1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoieGd5MmV2ODMiLCJyZWZyZXNoX3Rva2VuIjoiekU5blhYUE1LQ25qeVBQbFp2RHlxZW5Fd3ZQTTlIUFg5TW9DS1VQdnhBZkhCRnBhYlRPTEo5MDJZSE4zbHk1M0tOTW5BYithQ0FaKzJnZXBOZUtkUDUrTFczTnB0SUFxNkhFcHBjWHI2RWtWZVAxdklBakJ6eWhXK2VtRzhPRTJSejZ5UVpJdXM0TkJIUTRIR0VtSWpEbnh0cmt1eG9Ic3FHWU5CMFQxRy9mUmF6dFFsMCtCbmhib0VLdFhVT1Z0S2d1SHhvMDA4VU1DeTB1c0VpblVyMUF3VlFtOFR3YXVLRVBxL1dyN3ZEQ3dOSVFIc0RUanZMTEJZWWpFblpzQy96UDZ2VENNOW5lZzIyRnNydlJ3UHl2VFVwOHFkbXo5TkVPRWtYTTI0L2VBUnU0WlNPeWF6REMzdWsxZWpJeTV4NXcybFNRNkpnb29GeTFUQ1dzdkdva1NRbGMrSVdEZG9MMHNMbk9HTy9FPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports2turkey.tr" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_2.png",beIN Sports Turkey 2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoidTFvaWNhcngiLCJyZWZyZXNoX3Rva2VuIjoicm56Qkx1TkYxUzFvaGgxUlBzWjdKL1o3WFRjdTB0alk3NWpWaG5pTHcxQ0VBL1RGc014T2I4V3p0V2hSbkRQSmJ3SStReXg5ZlNmd0hoWS9PandReUw4ajhJNUxvanNEbmkwOGF1Z244VnkwVEhZYitWSXNvdHhJQVlLRjdSb0FjQUJsZmg1TVQ5QmQvVTBETzBtSzZUTDk2VzBLT3JPUDVsOGx1YjgyTHVkSm9Kems1M0Z1dEE2elFuQStxUWRNRUc3dTNYTXlKWEl5MERmVjhVZ0VUZkNSeStkcm5JaVRHV3QyM2lOT0d6ZHBPV3E2L084ZEt2SDNmR2VRK0JmR1Q0TG85bFF4VEFobzNNY2hnUkRvZ1VVaGd2WWxaRmVMSDgrNXo0M2xVZm5GRGpGT1hZNzBjckN4ZXFvVUNNVHBRMGN2WDh2TmkybDNudGNOdHpMcmVuQ0E4bWtKK0lZSHJubHNINmdyU0NzPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports3turkey.tr" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_3.png",beIN Sports Turkey 3
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMHY3aDYyb2YiLCJyZWZyZXNoX3Rva2VuIjoidHB6YmFWa1cyR0l5R0svTDNhTEcrTzNBWmZLVFB2RGo1QVE0NERDTlM1N25uUHM1M2xRVmFNU3NsY2RUTC9GejEvQ200QUFMMEYxZnR4b0NJU2YrV2dIRDB3bkNZckdHWmlqNDV6bXpPcGlDUDlGcmpZL2luSmMrc25hVDRDdmF2VjFJZHpHMjh4Q3ZkVFN0NVhQQXhSTjgyS3hnaE1hM24rbzBpVm81cGhZY1N2QzNEL0JLUUozK3pNN1RHbHY4ZWRnNHkrY3AvWVg5LzQ1S1ZIYTczRHFaSlhkbWtJRjZMTlhGcm5XVlZYVURRR2JzRnR1bzEvcjUwaFQxMzVwUDFpeXJCYW1rcEI2dm54M09hNlBiQlRxenRjV2h5ZHFOR0RFUTVVdmdMTUNXUmlNRitVbEtURTFNSlZXRHpDdWNTUy9QUzBERDBpOTRteDQrbXpjVnRmSmxWZTlyM3VxVUQ4WHhac0pmTzBVPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports4turkey.tr" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_4.png",beIN Sports Turkey 4
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiNTkycWJwazAiLCJyZWZyZXNoX3Rva2VuIjoiTmZUVDdHRzFOZU1zc3VENXhUVUJ1Q05sOW1oSlJwY2YvY3NMN0ROUmFKKzJ2R3RZRGk3RXhlcWs3RmtaMjRMLzFZZ1ZRaGZ2aG1DU3RsSWlLb0JaTHpKTmVBOUFRK1BqN2hEQi9LQk5vWS8rN3llSW0rR1lHZ2kzcC9XdUxRa3M1K3F4ckdGMmpVczFnSTliWUZVQ2V3Q3ZIbmZYZUNpazJBRGFKNFJqejFIOVlXYkwrL0RNaGVwVTdrTnJEMFRNb1RXbFh2dmU0S1FuNUxtcU5RV3FOZHF0MzJuOXl2OFd5V29waVp5MnVMRzZyNWhVTU0wYTR1NXREbWd1cXR3Q2E0SXBKVjV4QjdOcW56dDBhYWxrcHcvYzM4YjdjSDVSNWlXYjhjQThTdTVpaDhmbEJUQWVxbmFLa0ZQMWFnVzdpZmR5RGZlbTVSRm8vOEkvVlBnSUFhVkdrL1pBTDlQVXRKT0gxc0lhbWxnPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="5df975e2b27cf5000921c102" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_xtra.png",beIN Sports Xtra
+#EXTVLCOPT:http-user-agent=PL_12537IPTV/1.0 ExoPlayerLib/2.19.1
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoieXhvZ2Iwc3YiLCJyZWZyZXNoX3Rva2VuIjoiSEJ3bi9YcncwWkN5VmpYVi9QaHh5cU1iRVNtOW13L2dPWnk1WW1waWc4RXVTNjF4a1VKMzl6UFdNRXVqSDBoU2xrZGNZNEJ4K1pMRGNLY051c1R6SGFVSWtnZWlhVnNIWkxYR1J6VjZObVVTa2dwVlZDWm1DMlp6bUxERERGcWNVRUM2VDRDcEpmc1FHYXNjR1dmdW5xM2dtQXRVTituVWhrcmRzTDdMeVA2ZnAzcStvaE1DblRXaGRFdEJVbDJwczBqMFJWVnY4VjQ4aU9nN2FjSmNZSlo0MFQ3QUlDayt2TWE4TnFKbGh1bnpyRGorWDU2SlVzeUhnT2tuL3dRK3IwZ1lOSUZsa2ZuZEJzb3k2WlhSaWphMGhhVkpqWm5uV1lOaEJyMlVoSER0UFFRcFl0NktJa3dtZ0RCSjJCdkxGWEpraVJvak53QWdFSXA0OFp4YWFSZ2RaRGt6STNZTVRoU2ZNTjU5WG1EbU5BQ0dxdkNqL2VzRlZmOHQwZlIrIn0=
+
+#EXTINF:-1 group-title="Sports" tvg-id="daznbeinsports1.uk" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_1.png",DAZN beIN Sports 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://12537-stream-ip-tv.xyz/drm/clearkey/?key=eyJ1c2VyX3Rva2VuIjoieDVmc2Q2ZTciLCJyZWZyZXNoX3Rva2VuIjoid2FxVGZ3SnBEMEo0WTE3ZGV2YUF5K3JSNUNHdVVKM1FoUmJGalo4SXZJNDRRZzNzTWU1RTNUb0hZd2ZMQkdVbkZyano2RWwxSTZiTk5kbnFSNEhLN0k0U3NFajJNTHhmZ09KWmQ5SXVmY1BlK2VHZWVxNThNZDJPRENYSDM0VGpNNFR4NVlSTkNBRWhkQnUyRmhLd2padDBabU1RVjlYYzlMaS9OV2hOUmx2dVpCQVlja1YzUU82WWlCVm96cGFRYjJqSkZKOUVtcTExT3ZoVkM2WlYyMmJRaGc4cXAzcE1BRHlSN2tVbnBvYW9CNUJ6ejMyOGVxSkFOeWdxaGNtZG1jb0ZjQ0lQTUI0NjNIRzdseGlGbi9JQzV1Q1lQRTFkMXZSQU84QlI3OElwc2svUlp3dE1mQkR1MWsxNDJlZ1hITHJMeUZURW1zck8zTkFoVitWWks2T2hUWnAzMTZlQkZyZG5QWjhuMlpuWGkyay9rc2kxRlg0UnJBMmxPaHZUeXA4dmpXNWpuQUNtWllFTjk4T0xwZz09In0=
+https://12537-stream-ip-tv.xyz/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzl3YXpzdjAiLCJyZWZyZXNoX3Rva2VuIjoiMTFNcGl4dGlnZE1uWnNDR0U4YTJvaHRGTzdCekdVV0I2OFBaMERob1I3L1FNNmRXZ3A1U0xRSlFqTHJaY0s0bnU3NnNIeXB3RytCdVZvc0pleGluWElBZmsyYU1sRW4yOWxvY210VXlrREk1QTMxd0VKUURPN3JhMlZmMS9lZjJJaE9UYklybkdRVVVyNDdPTTdrMDJNQ09SdEVvT0N5ci9Qa0t2aU1hS3BCMGhSeWRFMEJTSGdHRE5tcUF3UlZxZlcvKzlZdmM2L01xVDk4NlE2QlY0QjJPYTR1THRGTkhnbEcyanhyRHp0ZHpJcU56T0xSZHdwblExREFUbjVzaFBrNXdYenk2UkNaMjFlcjkvOGdPc09pMjZ0SWJQWnV5TTMxYWZUWVM3MnA4NFl4WEQxdHlxTnFGVEpZM3hQUWNjeHBaS2E2RjAyWWkySVNNWGlpcWRBPT0ifQ==
+
+#EXTINF:-1 group-title="Sports" tvg-id="dazbeinsports2.uk" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_2.png",DAZN beIN Sports 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://12537-stream-ip-tv.xyz/drm/clearkey/?key=eyJ1c2VyX3Rva2VuIjoidDIzZTd6ZmIiLCJyZWZyZXNoX3Rva2VuIjoiK1pGOG9PV0hXY3QvWkkzbjl4bEljZ09PMWd2dXhPbi9GdjYyd1NGM2dzZXF2aEk3clJQdUI5Z05IYW80ajRZN1kyejJDZnQzM1Bnano4bCt0Tzd6L0VONXQvNFlGM21LV3EzaWVLQjQ2Q2lJZTk5SmswYkorUmNFNjhySGhIRGFXdHV3bmRuWWkvVEU2VEhJMncvY0o5RXB4UDlnY3Y5ZFJqWW9jTkg3bWlHV010Z1RmeUpXNXYxZTl0L1IyeVpHdVpUMGRmT0FaZ1FUU3VleUV5MUxqanRHVHRmMnFFajB6ME01MlZESCswZW1mTXZqek5MajA0SElDT2hMOUtFRSswbzNJN0g1dXNwOUUvQVA2Um9iNFBlR0Z6Y1lIeVlHV0pmaFBCNnFhV09nN0hBaTAybU9xNnZDVmVrRkczQ0ZXYnBHVXNxOW5oUzFOTFlNUFhWcHNpbVdMVjEwektPdGc4VUNwc3RncmtZU1pROU5aTlNNTjNaNXpnMjdYZ3NOYm95RFhqeGZXTlR5Vk1vcHdkVjk2QT09In0=
+https://12537-stream-ip-tv.xyz/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoicnhjbTB0eXEiLCJyZWZyZXNoX3Rva2VuIjoibCtrc0dTdTVtZzVYUTMxbWVUS1hCMEpBckk5eEFES3g5VUIxbHVCL1NZbjE1NE9ubHVMTUNXVXVaa1pUSFQ1VEZ1d2tOdmlESUl0bFhzMlpFVlVNN3JrTUh2YkJkZjBGUVpJbTlMVVdjVGJzMm9yVWhweGkxQkhOTThrME5BOERYMytsd3VOM3g2WnoxVmY3UDFTUXZCalYwVmtZcENsTUxrNFNJWTQzQ3pia1huWHZuaHlNbU1JM1JScjEydkxuWnJ2STBabC9aRkN1YU5MeEZIRWZzRWVSVWZramdYcmhkNGp6RExRalQ4b1RURmJldW5VUVlMR3dHR0lUNnZnVVlhZmhRb3J5QUxBV3MvdDlZTmlFT2ZnVVV6aE5ib2g1K1JOdmY4Wk05WnQ2ZWl4d0o4cW96OUxtNHVZK2NPNERZbC9TUVRBcWp4Um9tYnAxdnFBdDdRPT0ifQ==
+
+#EXTINF:-1 group-title="Sports" tvg-id="daznbeinsports3.uk" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/bein_sports_3.png",DAZN beIN Sports 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://12537-stream-ip-tv.xyz/drm/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMG1panF0eWgiLCJyZWZyZXNoX3Rva2VuIjoieGFqcGRjSklHbTFMOWlaSmlvTXAzYUpxZGxiVUNEZkVtWGhwU1R0SzI4MkdLZU9CR1Z2azBrK0kvRTA0cmdCL1ZkdGpkS0NiYTNvRnh2UE8yRzdLYStRczgxdWdGME1wZk5wd1YyVzFsUGc1QjE4Y29KWnovTENzMkljN080ejRZZWExSzVUVDYvbFA1QTh0eFhZbWFDeldGWTExRkdnUk1ueDlrYVFGRHFTeDg2c2ZxNmtFSW9LTmtsVkhENHRJQ1hXRkFrMHBUSEFmd3pkdFJBaldsbVhoZ0o5QVRBQWZnYUZpUHh4NHVEekVvWUtqYUNTNmwwWWh5RkZ5V1hHdkt1MzNnWEhTSEhhSGo1S3R2ZzFoQmQ2MnYyaFI1SmNhbW5Zbm1haWZ1OTlDL1lWTTlWMklSSVNEYm9XeVYzem1UYWZOaitONG9VclErUGlEanpFK0pOQ2RJem13b051UmZGbVlITjQ0OEtzOGxqcUtIZlV1S2R1UXN1azNDRWtEVEVZNHRrb1d0TERoOElEODQzV2JqZz09In0=
+https://12537-stream-ip-tv.xyz/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiaXRxODNuN20iLCJyZWZyZXNoX3Rva2VuIjoidm1aVytlNVh3Zm5nVUN0MDNYNEVxcUU2Ulp1cHorN292RmNjaFdHSzRMUzVlZUYrUWsyelZoR0VpQWZYN0FHVkJYNGtub0hYM1RDaDhnZlVDNWxQampjdG9Mb2JFSjkxa0Nhb2kwTXFZZTJtVnhxVjZ4aHZiSXBNZ25wbFlVMDN1RDZFb1V6VW85dFY1TXdQOUlOeUMzTVZFV2VQQmxXVDZpTjFyRlBwYnczdFN4OW9CYVhlRlZaV0tKZFZCcnZSVjZEVGRmUkZhV2p3SS9NbkZLZXJxZUhtN0NKZUI3YnY2eGN1YXNPMG11TENjNDBtek5mSVRlRnhXL0UwRUdRZ3FaWUNHcmljNGlVRldiVWp5TlVISysvN3l5ak5FaXEzcXRHNENZK3Fadk5WZzdKa2NWdHpPbjFPd2ZqUG02cDdvTzIxeDlBdjhqNlJpdk8yRG5oN0VnPT0ifQ==
+
+########## Sky Sports ##########
+
+#EXTINF:-1 group-title="Sports" tvg-id="skysports24.it" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/sky_sports_24.png",Sky Sports 24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://12537-stream-ip-tv.xyz/drm/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMzF0czJneGIiLCJyZWZyZXNoX3Rva2VuIjoiRUExVmpTRlI0UGwxV3hGcjB1cDhIVWxTcTJRbFhkcTFzZXhyU1pEN1Y3cFRhYU05aWEzQk10K1c3RTlNWUpycUJsOThRNmwveXVLQVBvRGdvR2NNT0hzdDhFM3RuWDJ2cndTR09oa0JaZlFXMzYvVk9lNlJHRlZINTIzOC9iZkxhR2o5cG1ibzR5aGJVZFFrd0hDc1lwWTltVVdKcDVVVGMwcHN2d3RXYmNaK05lK0lldjkxa0RtUFF6UUNTSmVzWmFDMGt2bFlRdzl4MU1UQzRneUNxb3lQKzFBMjZoR3pnTGtmdi94bkJBQW1jcVFJcGxKNnBHRGdkOEx0ajlkaFR5KzZheWoyNHNWaWJvaDdQc3VWTUpkZFdzN1E2RTd3TGpYcFZjbUZNOHhQT1BYUm90ejBRakJWRW5BMjEzUUlXTFM3MG03VXFPOU5DS2p1cm5qNndtY2p3OHk4RHhaNFE0RlhUSWJ4ZVo2U0NJY2pZTFhBUGZFaUFNYnpqUVZ0REJsMHZORUxIUmUwMWQ1YUNwdU1KZz09In0=
+https://12537-stream-ip-tv.xyz/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoia2RhYnlyeDIiLCJyZWZyZXNoX3Rva2VuIjoidDdxT21BUlZ3ZzlrWnNxYUZEU1R5cnMxNEdJcWdVZy9CaWZiZG1HZ2JUKzQ4MUtQU3R4MnByNzY4NmpIbmlKcXN6WGRMZ0NTWkNadFllbjUvamNNcEZWWG1CbkFJSVN3T0F6aWcxVER4OHRHR3Q1eDNyTmowWmQvZCtUMS9ubFRiQ3JsdzFmS0E4Zlh0aEorbkhZOUxibDlHVFZ5TnV5cVdJUW5KZkkwSGU4dnBwbFQ0YmhaOXNHUHFzaHRXWjFoL3RLcVRJTEhhMVlTRHUvWjArdVEvbDlWZWQvUVdrQUd2Y1AybTVhRi8zREJBV1pWRkNDakNzcnRlVU1ZcU4wOEM5N3c2WUh4c0RZRU9uK2JUZWh4bHRPL3IramozMlg2Qi90RkY4bmtkZW5WUEF1WWxHaUhVckIwaUJLTDZaa09HYUNTSGRMbElNMHNnR3UrMU5zZjFqQyswOUlzcGFWeFZaVzRKOXI5LzNTdHRRZjZZMTJVR2x5NndHUWsvbExWIn0=
+
+#EXTINF:-1 group-title="Sports" tvg-id="skysportsaction.uk" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/sky_sports_action.png",Sky Sports Action
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://12537-stream-ip-tv.xyz/drm/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNmd1NHZsOWYiLCJyZWZyZXNoX3Rva2VuIjoiS2pEbVFublhhZ3hHMzRBYUVWUFNVQWZZU3llVkNaUTBCT2Rycm43anNQRDZ3N1JFc0ovMXNWSzhQZnBPZ0lUV0d3R29DYWNGczFiU0JqUlZFSzZ4NWFMdmpBd0ViWStnazRlSmgyZGcvRW9FeXBOUVFCUW1HZURMS1ltbnZuS2JLN0VNUE9NSFJGZnF5UlZCeEF4TUtwZ0xDVGdLZlJJakpaVTZWRHZzSm1Oa3VONHIyS0l2MTVHU0FMQjVaQkpIZGw0MDVsM3hPTjNtTVhoYkJhMnZHYi9NR3lkQVJZeDJJYkQ0QmNTb1pMUjVRMjJBS1BDV3JmNTQvaU9yUDQxTHVPV3YxRWwxOEE1Ti8wdFhvMjNsM1JvWVB0KzZiR2V2YUVPd0VSSHR5VXQwTEhsMXNRcjNIQWFTMXNQTVVKV2dsdkZmZVhzempOY1EwU2ZRY0wrNW1jWC9QcFlkTXcyblRlR3RoNCtOWGZNVUhGSDE0OUthOHZJUlhUaEZEdXFpWGxBTnprN2E5RlpkOEZsZUVaUlRyZz09In0=
+https://12537-stream-ip-tv.xyz/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoic3Q3MGVjZmgiLCJyZWZyZXNoX3Rva2VuIjoiUzJNMjB2VUg0NkJrNEs0VlNpNm41R3gzMXpXN3JGVU81RWtaNmltTjZUbWdKZzAyWFVxb01kcVozUktTVlJPWFdjY3M5bFBDREpoNE1YS25WNFdkS1NRcTJyaDJNT3BMdXZmcDltWnVvanN3RTBJNnpWdlRHNFpDMVNrRG1kUXJyZDZuejRFTmN1TTJBVmlLeXZnT3JyY3kzd01Od1NpK0Y0RUViZWRjTnRseXVjclRqdmpEZEZkSm8rUnpyekpyZWRQWHJCNUpMcjdVY3lHekpuWitMeUd4UXZ4U2xvQk4yNlNOVm44Y1NlSXA2OGszTTY3WXJSQVBnT2o5bDU0cC85NDltc3p4V2ZORHRqWWlmM3NXNS9zRzJNUWJIODRhTDV5QlVNTmdsbGlFdGJ0Y0gxd0tRVHpJZjBvclJ4TnZ5NGRzS0pwVWl5Qit0d1Z5RHBNSFZ0dUcyMVh3c0dEL0VVdnlUTE9XVGx1ckZvMzROQldHRUI0djlSQzgxUmdROVYwb0wxYzlXTEZXUlRDRW1DdXVMZz09In0=
+
+#EXTINF:-1 group-title="Sports" tvg-id="skysportsarena.uk" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/sky_sports_arena.png",Sky Sports Arena
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoib2lnMmVzbjAiLCJyZWZyZXNoX3Rva2VuIjoiT0UwcWVBemZxc1gvbGg4dlhMOTNmTktnY0ZNKzVDSmZmdFlaSVZ4NnhsaVV1SDBVMXF4QkdualVDRWhvZjVZUE5wVG10UEVkZkt3eDZCQ2JBWmdtcHh4Myt6VmdWTVlJK2hXcThxczZwSWZ5dmFWbFBmQU5qK2ltUzVhYlI2T09yZkk0R2hCTGUwWVNmWW9ra20rUFFCNnczUXdhdlRCYklqUTN1SXNsVnM2cTVCNk9QUVdnVzVhSzJHTCs0dFNFRFp5RmhrT05UWXFDUzdDVlQrdHNIckp5TGhSVnRuTDFoeit3TGJkVkVrOVJDWndFcHZGTmxOaUNDeHFHczhJYjNjemRSTDkxMWNRbUNFdTA3TkowazkvZ3pXeVZvWXlaRk9RclFsK2lESDcrR0Vnc0x1TVVIWGc3U0hRb2hLRjlSMk5GWkhraVZNU1lDV1duaDdmaTBWc0xsaElVRndlU3VXUDhCRFRIQnNRPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="skysportscricket.uk" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/sky_sports_cricket.png",Sky Sports Cricket
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoieXppcTczMGciLCJyZWZyZXNoX3Rva2VuIjoiL0l5NHJseFh3VUZuY0MxaksvRzI4MEVVYTZHMnc5b01JLzh2WVVCSGF2bmM4V21nM2V3UWhseTVWd1hRUnREanlXT2hGRjNkUDhybjhsM080a1dJZHlGMjNPZnl3OEdYN3liaHR2NHlYdWdBc2N0UGk2V09YRjEvVHFJK0pDNCtwYWdLUEMweE5iUDBxZjJ5T3BuUWExUjllSlhKcFdpY0pRUVZPS1d6VnAzVEZjMnd2dmxWMWsxdlFlWUsrVUdDeGdYQXJ5TnUwMURtL0UxUXViUCswTnNBMG12azVBdGxLL3VwcHpYRk1UWnl6VEdoUWJDRXlnMUxGa0R0YzB5ak9WeHpsMHJpeStJMSt3VWk2T2YxK2Voc0ErUEhzaE0wditrTlh0QUZQWVFyakorcWtucU1wZUR0ak9sUTJMcHlPenFFbHl5NTRTMlB6NHB1cXhzSy8wSGNXQzArRGlSVUxlcXRNNGRzaVNRPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="skysportsf1.uk" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/sky_sports_f1.png",Sky Sports F1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://12537-stream-ip-tv.xyz/drm/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiOHl3c2Foa3UiLCJyZWZyZXNoX3Rva2VuIjoiaFVIRVkvT2hlVVd2S3AxaHh1ZnZaT2M3cGFNNjRpbC80NG9Kb3VEd2x3WDFrUXRKZ3JVa0JCdDU4Tm9NOEdMdjVvVE12NjRKUEtab1RnR0NXRE85YjR4K1BqdFdpakY5YkJFNTVBcnVYM21QdUJmYkhWeHY5QTRZNWc5dnNneG9OcTM2Rlp4bzE3WU5SMjVWMkFQOUNaUThhVW5xZG95aTM3KzNsQ2NaalU3MWpxNDV2djJ6RnRHemd4UE82eHJjb2JDNGFlazVoZ1FjbnFxNmROS0EyNFV2cUxvL1Q1UWRJcVZyT0kweHc1cEVURC8wdVhQS2xtdi9kcXk2VG5ua3RtM0NDclVOODlwYWJXSzdrYzBZNnpMMG5rK3ZyMi8rZDRzQkphNFlvQWJzekRPRkF2d2hud1BNR0VJUUhsSlAweFhxVTh3eHBOcUJVZ0dGbGxJVFlSMUpRbjBmNlVMaEJxMkx6b242QUIxd1R5aXFyZjN6bnQ5V3RYazV5QVUvZlVsMEQ0NGVrSTR4SzZ3emdiSzhJQT09In0=
+https://12537-stream-ip-tv.xyz/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNG0zYzl2bmciLCJyZWZyZXNoX3Rva2VuIjoienBFelZmTUhsVVNhZW5DNDhEVmpnbVhDdm5nVFQ4anc1R1pXaEFBVUY1YlVXcitTYmVjVUo4V2lwdGVpV09aUnVFQ3R3a2FZa0djMC9LWXFrQ25uYjBQVmRVeTBvczJWb0tlMis3YUNmSjdGa3ZGUmh3blJKMVB0em9aRlVHUkZvZWJWV2tkUUdIN2RYcitLRTgzaFZlTXJjclFzT04rYitaS1pGc3VweWhiZkhYRXdRc1UxMFdKWkNEeWZDNGhYWDg0MnlMSjQydWd6bEZ3UWk3eFZBQWNURElMNmpRZDVvbk1RdEdPbTZqb01ZM1Q3OFFoNWJJK1BsWE53d3BsMGsvOEFYOWVycE80Y29VbDBNYTRxcGRORjAveU9MNytCNDZobHBMcVppaGttZDZvYjMrWHZ6V2hHS1pwZjBhYmRpRjFzYWRYeExhOHRIZjJxUHU2am0wbXZRWDVONmpLQkRPM1pCZms3c3B2UjVXU3FwdnZaUFVCb0VKVEVDdnJGT003a29GTEpHTndndTVEem9ENFU3UT09In0=
+
+#EXTINF:-1 group-title="Sports" tvg-id="skysportsfootball.uk" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/sky_sports_football.png",Sky Sports Football
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://12537-stream-ip-tv.xyz/drm/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiajg3NDZsYXciLCJyZWZyZXNoX3Rva2VuIjoiVTFuUGpxZWhWUmZaMHpIRHJmR3h3OXdIK0VvWUJWaGJSQjAzMXhrRzVTaDF2T1lQdE4vM3pHbkpuSGtSOC9TVWNlVFdubGNycHI0dm50M3VmTEpHYjk3RnZSY29CcmNuMC9tRjZLZGRGVkVlY3ZGdXlJdHY3clh4eHk0b1FKaG5BWGxGL0hwUjM1eTdWUTB1V0VyM2lDL3lHOHRtUGhSblZEbitsT1kyS3k0NUtWQ1RRTkI5WCttMXBpdXgwRDV6YUJzSEJmMGZsbUF0VU1PS09hZ3laSFJCVEpELzAzQk9UWng5SGhOWDhobHZ2cjFJTytkUWlFc3cvbWVuTjBHZGN3WUNiekJhVDYrMUJVQ3NUcHhrZ1VFVXFKYkN3THEyemptb1FDdk1CdElUMk5HbnkwOHVYMFN3SHJPdHAxekFHVXRSQVh3L1pSdm5iemQ2b2Z1S1NQUXk5Nk40bExkWXJxVE1FdG1HTFd5UzNYaWZqZGdKK1krRUVudHlOUCtUNVdtdCtKeDJsUXU2SFFmOFVQekNwUT09In0=
+https://12537-stream-ip-tv.xyz/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiYWtkdHY3NnoiLCJyZWZyZXNoX3Rva2VuIjoiZHhBZ0hBenlia3A3SENmblRyTHZDT0ZSMStNeXgyYzNQZGtxbXdhdmw1R05CU0ZvblFDZFRFN21NcUEwMWZIMzRlY2lUWk4zc3JVdjBTK3h4OXFFQ3dKN0E4TUVKY3VEVWY2dHQ2WWtKL04rOW1JaXFhUlc0cjFsd1IwNmNyeTNhSTBRd1VQUVJtZVZLUEJHVE5JOFc2c3RCYjRSdTRTZW1tOGNrY1hCZlF6RFA5YU4yQ2diekcyRzFRVXlvUitJRmZhdU04WVM5dGJYZk1Pb1J1K3pwY1BJSzVNMkd5NGF3QWhjaGtZM1BCdXNCajIwZGpMVHY1U3VOWlI4Q2xFbEJkMDNMOTZvUWpRTkdpY0xQSEtzTmZPTzg4TzJtVmtJK3VGdFIwMHQ4QnVieXR4ZXd4RzFVVXFkMm9PSCtsK0JLYTJhNk1FOGdPRDBKc3BPZ0pTbHpHT1N2ckhkK2tKeHlFMURiZDdtNmd5b3JZQlF0cmRYSDgzN21mOWlzTUU4Ui9hYXBTVFZscnV4Nlo1WGhmR2lWUT09In0=
+
+#EXTINF:-1 group-title="Sports" tvg-id="skysportsgolf.uk" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/sky_sports_golf.png",Sky Sports Golf
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMGszaDF1ZnMiLCJyZWZyZXNoX3Rva2VuIjoiNFVDNmlGQkwzdjlOV2dJcG9BWm1oMDhTeGZTSXJ2aFo0N1ZCS3pOTnJZcVhHODFVUElPSllWaXB0WVhFam5ycUdIWjV1Ky9RNzhjVGtMblkyT041M0tCSFFVdXJ2ZWs4M2ZrV2hwN29YUGtxN0V2RTE0ZzQ5ZkcxYXM3ekFyS2RRQnYvRlJrQ3hoTzlCSWRUaHhFcXZmTEw4K1Z4VUpMNVdkUXFKaHZVU3VzTGVPMjdwYW5qYW82d1FERWRURGdnMWIzTXpqUTRuNnQrcFNCc0hJdkpaR1U0REtGalJkNjdCV0RBdWRraTVTUWY1bWpTY0dJZGE4WlNoaVROWHlJMFpPd3VhWDRSTGQ2SSs1MTd0aVJVSENhRG1yYmJHZ1h3bitjazlQeHNVbkErVEcvVlhTRUNrNVBGYVk2VFdOSDhUa2hNTFpQQjk2UkdIUGttTDhpZGNZVndWQVlrZ2h6dTBnVWtFUzZjTnFjPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="skysportsmainevent.uk" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/sky_sports_main_event.png",Sky Sports Main Event
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoibzU2eHZsYmoiLCJyZWZyZXNoX3Rva2VuIjoiNzJHZktvdnFnS005WWVvbWJBWHFuTmNKNWVXNWtCdXVocCtONWEzdDJJa256b2lkM1R5UGhkTitHbkNxTkhBeWVHTHExMXFiZ01YajNtWVFwL0tkcGhndzNqZnJQeWdpT0xZTFBDcUVkRm1TY0hFcWxXMUFOV0ZVU3dFK3hVU28vZldaSWZGSFI0VmpDNjBkY2NwYXRIbjJ2cWJKMG5ORFlYOURVRG9mZkM2R0ZwazVvZTB0M3hiaUpoODYxaS9abXcrV1hLZCtKYjhOQW5iWnVwWUFyZU5SNlBJTTBOREoxRjRTOTdRN3JWdkVVUUxMVTI3WjZWN2xIZkJGYjd1TzkvTkRUNC9TbXh2bUxPTmNTL3Z3K29KdEh2QU8vUjNCUWUrT1RmUmwzbGxZMmxTdW5qZUU5ZkpjZXNGMVhjYzdnbE9oM1dtS2Vld0Z0d2RMRXorWWZxazlMS3NqdGpmOEk3OUE0S2w2ZFZjPSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="skysportsmix.uk" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/sky_sports_mix.png",Sky Sports Mix
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://12537-stream-ip-tv.xyz/drm/clearkey/?key=eyJ1c2VyX3Rva2VuIjoia2RvenZjZjEiLCJyZWZyZXNoX3Rva2VuIjoiS0YycXFWNE5vRW5HaG1QWWkwUjNsTTlOc0VtVEFQRHdZcTFqK0ZlQnM4RWJSNm5CUThmeW82ZFdVcERJU0V5OW1mcDFQTTFIMXBva2NEeCswQ05xT0haZ0NwT3RlYXk5UUlMU2tja0h3NzRCZnJIeGJNMXBBL3NFTVR0RGpQV0g4UFpRNlY2RkdvY2E2NEdNLzQxdVRVTUVNbElZd1c1RDlKclhJVk9QODhqekxROTdmcWJnYVp0SkRLQm1Md2Q4c0hzT2IwOFV2aTJKU2pEZFkrRVloQVk5VldWKzR5SGNqMVh2bzd4bTZ0ZURCQ2lvOUdtTjlzMHNreDRsVXVpc1E1TXZ3SG91cE8wWU1QaGt1aTNZK3A4WjRLcUJ0bVJSSDMzYkhPblowUEZlWEw5NW9rUUZhUktSVEVEWFVCUWgvZHJ6M1AycUhUZlBEaERPOFEzZmRjaXVlM09tTjRZc2plWDRHaWloaDV5UE50NEFYc2oxd1VNN1lGOGQwMjZaQ0V2YXROZnNtdUcvdSsyWTV3Tkh1UT09In0=
+https://12537-stream-ip-tv.xyz/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNWM2bndlcGkiLCJyZWZyZXNoX3Rva2VuIjoiMjkyOTZQNmIzWWZZMzR6YU45OERjVHJjSzBzU2RNaS81OXo1WTRLdEdoZkU0WTJyS1dsT0pGQ2s3MGFWNmo5dGZUYkdPTWJ6MlBUQnVTUmlGRTJEN3ZZV1JYVDlJNU1zMXNGeGpIaC9zYnNwZjMzWXNKWTRZdmo5c21hOWdtUzE2NVNFdXpLdlFlaWJTU2crV0ZDQzh3TW4rT3VxdG1PV0VqSzUrYUNjRG1Gam94aHRKQ1hwcldwQ3NObXlGbVVMWld6Rk0yYTlkVm4wM2tmQ0JGNWFFOWRRbWQzM2x0clZjR3lLT1FUcTRGdEJRN0ZQT2NrLzd6Ym9lc1RZaHNXV0t5QWl3WU5GUkM1YjhrV21uUCtXTjJZek05M1V5NHI4VUFQN3lvRFpyUkhOYXRteHJvSnRJNFJqOXFBWW83WUtrbTJSaWdESG5TblZQVDNhOFVHdmF0WW5hT1V4d0NVNUZsOVE2eTdGNW9xMFVWUVFNelVsZzFjSmhnNUhwTjM1RWlEdlZ2b0daUWtXRzQyZEplbEpmZz09In0=
+
+#EXTINF:-1 group-title="Sports" tvg-id="skysportsnba.it" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/sky_sports_nba.png",Sky Sport NBA
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://12537-stream-ip-tv.xyz/drm/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiOGN6ZjNndmQiLCJyZWZyZXNoX3Rva2VuIjoiaFQvdFdHTU13RDV1L2lVMnFxUjFUY0h6MzRHZ2lWS05YVWNaTnlXUzJzenJ5S2J2ZllzQXVZZlNFWDBPSHh3ZzRLb2ZJbE5obCtXQUl5bVhuZU94QjNDL0xZelJzd2haMmtZY1hsME83Sy8rblZ4Y0hHeXNqUDBreHpqMUJWQ3NSRVlsS3pVc0hZTmdyWHJDMW90Y0dFZ0VaMVVjdU41aDV4NUVMZ3dPMmxWcVVUSVk3MUFrYlJKU2YzRGRMTHJDaEZub0JITEV6eGR5ZUJVZ0ZsRkhJQ3BxNFZDZzBqb2JQM1hxbG8za0wwdlQ2d0lzOVVZYXVyanFYOUVIWWRWWi8vdGZxeW1EQXRuam5zYlk4aWVYZGpIK011bWkxcFUvQ1QrTXhjcFNjMmpWS2RwVU5yNlhOOSsvSEdnMm1aRzcrZ0FORC9tK2gvSUJxSm9vc0Z3aWR2M1gzUDl0WVlrUkVzMTVuWit2ZFJJOVl2SWgxNmljOEh4MjJCek5LMERGSVNSMHoyeURCNDRsQnNtOE9OWU5Cdz09In0=
+https://12537-stream-ip-tv.xyz/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiZTdqZndzbTIiLCJyZWZyZXNoX3Rva2VuIjoiT09pb0s0aU41Y0dQbi93ZzJWY01zQUY3WkYzVGdIeHRsYytRQkJ5c1RCUDZhUnJBckVkN01VK3JMRytreU9IWG8wTTBxTHlVeENpWVFrVk4rck1waW9IOHNKRGFXVEtVbUxueXJRejFvRnQzNW9vVDNZZm1qZFpHOFpwTWNSQ3BUaGNadVVmWGlhSjNUNHBYdU5hT1JwcTVNNHZrcms5Y29teUprMHlFbktOK0xqYWwybE40QVpoNldkZDcrUjVFWUhVdXd5dS95dG9qZVRaN3AxcmRjQWFUeWZBS1o4MWNDamlLWkRDeFdLQUtnRGZOMVA5S1kwMnl4R1paSlA1eHdvc2RQTHlNS3lmQXhRd0dXUzZ3YVdhajV1VzNaSlYyM29zODNSdzNyaFNaWmxNa1hXd2xlQkNLbERHU1RLb2dzbzVFMm9GaGRmRzBOL1A5QmhmaXAwVlFPUVcyMlUyK3h4Smx2eWc3bXVtMFdQaGJYajVudDBFWDh5VGxRQXk1In0=
+
+#EXTINF:-1 group-title="Sports" tvg-id="skysportsnews.uk" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/sky_sports_news.png",Sky Sports News
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://12537-stream-ip-tv.xyz/drm/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiOXp0NDNlMGoiLCJyZWZyZXNoX3Rva2VuIjoiUWZnY09pcW4wNncxTjB1V0hCSU5qc0FaMVZTT2ordGRkamxqRGJhZEVVRkpuZEhLZlpSbUt3TGpTWTg0WFhqZEgrakJ6MFN0ZjJPYW9aaTVaWStXY1F6TmpMazFqU3grR1lDS21RWitiemdPMWZVNXdoVWw3WkZqZVVPNHF5ajY5OWFJai9LbjZkRVYvTERVY21SUmwvVk11NmlqcFRMOFVNMVVPUUdqUms2bVpKRGhyTGNmTmFyTHh2N3FMMEFOcWxYeTltaTdNWXNIdDBvODkwYVlmcVpiUjhrT2JCTDlGazY1L3dnVXk0aHhFRzBCd1ViSkY4SWpJZnFjMHNhV3lMQ0licDRRc09LS01kWDBmNG9RK3ovalV1SmtERWFxdE0yRGo2Q2VrRitSYWRpYUpJVjFUSkl6bjB6ZTk2SEJDNmhCcnhUOTJRWVZ6ZmVQcXp5ZUpvVDRXaEtEQTNtYUJHOURVRHN6ZkkvT2F2RmdpL25EamlPY0xqU2lxNVhNMUpPVkcrVnA0d3BWL3FrNWJmK0pSZz09In0=
+https://12537-stream-ip-tv.xyz/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMnJwdnlpbDciLCJyZWZyZXNoX3Rva2VuIjoiYXJIV0tLT085Z1Evc056aHV3RExQZ3V6cnFwODd4My9tOVhXMkl3dHkxbjUyTzNOenVYZVd2T3d1bmNKemhJNlpPa3Y3THh6MlorcG1kZkd5L29Rb1NNQTBrd2VCVng2NjZLaGdYakJVL0J0eVlNUmgzOUFWRDF6Sk1rZ3ZzWU9oVlVyWEZwQVczQVFjMmErQ2cxV3JSYjVSSk1OcjJoSldueEFUandQVEQzWmxSaTNSYnRXZjJRMHhodjBkOEFIbldSeHhqWEQzRGtLSURUdDMwZzR6Wmg4RmFsSFpuSEdwZ0Z0UWRZa0hmQXkrMDJDbVpZRVNBZFZQTWh5TG5mNXo2RVB5L0Z6YStMR0RPMmE0TkRBSklxU05kY0tMQ0EzYmNqNkxOb3dib1lnL292TUwrdHIvZlQzaXJ6RHd1MDhBOVZNclpIdjFYL2RrV1hjRHFKbDZselNWa0tRV3VnZUREZndRVUlrYVVjakFNVWlFYjdaeHkxbW41RVUzNDh1elcvd1RLa2NSZmFHVTA1bTB6aG1pUT09In0=
+
+#EXTINF:-1 group-title="Sports" tvg-id="skysportspremierleague.uk" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/sky_sports_premier_league.png",Sky Sports Premier League
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://12537-stream-ip-tv.xyz/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoidGJhaDVkbm0iLCJyZWZyZXNoX3Rva2VuIjoiQTBickliVzZhQ0ErTWFtTTRQWnphUUIzanhTdytIYWQ3NndIVFZjL1o5aWpQQVcvUkJ5T3pVRlMyV1lVUDZQbFNoaklNcVlUWlltNDFQQ2o1S043VE5RcTcrMlJrSGptNmhDMVRneXNyNG1UOTRMQjgxYUtjcUZhZG40UjljVW9mcm1NNmRIenRFNEZ4MGtVaFFzOGxXaGZZeE0yeE16bHBwSDNJVUNtQVExWjQ3YVdYMmxCRWJJQWVEYXdITEl6RGNYWi90OUNRa1dmYjdTcWR3YXFBc2dpTWFRcjdtRG9ENXVtMW55K0tDcm55K2U3L1ZuUitia2JqYUVsMU03QUZQdS82TVpxVkFTaEZKaDI1V2xOZS9IckNYTnZOL0tjdk9pV2cwVkVCTlpEY20zRUNsc3ZiMDgzOURsY2xTdGY5Y0xIcnoyM2pUTU0vMXJQVy8wQ0dWd0lCbFMwaXBHckppUWRPTHdXcyt3PSJ9
+
+#EXTINF:-1 group-title="Sports" tvg-id="skysportsracing.uk" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/sky_sports_racing.png",Sky Sports Racing
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://12537-stream-ip-tv.xyz/drm/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiaWNleGtoMjYiLCJyZWZyZXNoX3Rva2VuIjoiaDJmTko5VUdrMTdxdEdkUUNCRU1tSjBUZUs2VnhiZWk0bXc2ZnM5SEQ3d2x1SFhkYU1QQmVMbFNmQzBBcDBPUVhHc2lJQkNyUVU1R0RwWGUvSDV3cVpnSTR4NTBLeEhFY3dPRDJ1ZUZBcVljSXRraVZJcmhrRlZpVlJHSFRjaTNnWGh5QjNwVllHSFJwWVczaWVKOTlzNnNDajFxU3E5VTY0aWwxVC80UVpLZ2FVRGxTVVErejJsL2VabHFuM0ZCNjdxWVlwaUhRT0JNR0k0NlZEaVdqWk5LV0dCaTN2NWN1K0JaUjBnQWp1U2hSUHpLb0dWaUo3R0Vrd2RnM3VjOWFNWHNiRnNxZk5QNWIrdG4wQndwd0c5MVB2dnZmUG42Q25jWFByVGdLanhKaUNzUXp6S3l5QVdXcEJZdHNPRy9WSDRxbEU2enFUbmVmSGNqVERCYlM5NnBlMXB6eStnTi9iVEZFK0NSWWQwa09nSUhhTnp0clFhWGdKNWI5NFJoQWt6bzBHdVlmUXpzdXpnTHNDVnFidz09In0=
+https://12537-stream-ip-tv.xyz/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoibTFsdm8wdGYiLCJyZWZyZXNoX3Rva2VuIjoiS3dFZnB0aGtzdG1GL2lHcVlOUTRCSE11dmppQ1Y0eUZ3SnBpSFdodWVCY3p5WVduelJhTVIzeXJwK2NLajVuSlFPYk5WemRBZDJUOXJ6b0dvcXgxaGJPWFJJRk5iMm9BSGdlN1FqK3FIUko4c0Rpd04xaS9SWXBtTDRCbkZBQW5Db3lMSm5GeGhpNDd4UXZ6YVhIU2RNOC85bkFybi9zTDZLWHo3bWRQcXFNelBSK1JaR2lTbWJWenBWNEZJQ2lmdDRqQWtOcUJmNjNWVzNPbmZHallZK21QS1RLS2hmck9aRVVKVG5NaXpROGlvRjNWSGNrS2RCNjhMeTNsSmtsSFkwZEtGZTVSeThwang0RVkrSU41WGIvc3BUa2VCeXcwdFlJVTA5MnhxV0hUNHVHSXpGTGhsYWRjUGZRSXo5TThDSEFFTldzeTdIanlaaktyVGZkeDJLOEZ1VGNYeTBnUFp4dFhzYjhDOFdHdHhjTk1pNkEydDQ0MWJ1dlZsS2dWSDQyaWJ3U3RuUk5PUDdrV0pLcGc5dz09In0=
+
+#EXTINF:-1 group-title="Sports" tvg-id="skysportsuno.it" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/sky_sports_uno.png",Sky Sports Uno
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://12537-stream-ip-tv.xyz/drm/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiY3pyZjA3cG8iLCJyZWZyZXNoX3Rva2VuIjoicTZJZEIwcnJTVVBvNXptNGpHWWNGNEl1dEMwdUV6cTlNYWdBY01kdTNKR1Ivb3pGVzNQdzAwbDdKUGtVNmNtaXZzTWV3Ui80N2NpdWhWQUxnMWlrcU9HRE01SUhwODd2RE1Hd0lDS1hoWWw0VTRhNndvNERDaDVKTGFrM1BFRGdKaWRJQmFhMzdsSTN4YThHblZ5ZnRmTUU4YktQbkZkVTl1U0t0T0RQaVRLWTFCWlYyUGxuQ0hjdGs4VVdtZjNzZE1xMkV0SW1vRlhJRDFUL05yS0lmd2JBSjc0RzdzNmlBNWdKUXhOMVJIaXBndlViREZyV2J2SnM0SWpxcnc0dm1ZaE15akZ0bXIraXprN0xXdSthVHJtbWxleU1PMTc3T0ZjMG1VWW4wTWdSZzgySVZCd0J4SUt3MTU1eEUwRkVKSEJOMTRHUnBZVnJVTTYyam9uNHZGNW9kV3ZRblBTVG1OWXVzOXBzR1h5b0lqV0t6M3d2eFVjenNjUlpkUS84NVBSWDVwaGpqVFkxZnhhYk9ONUlzQT09In0=
+https://12537-stream-ip-tv.xyz/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoicnNwbjhqMXciLCJyZWZyZXNoX3Rva2VuIjoiV3JPVDIxZit5WDFQd3ZrRlJrSlNjcjRrVS9YVXB6WmtVazZMZHJYQW5ESGZIcTRNU21qc3BsQkFjRHFFZ2wvUGkzLzBOTjFFNnpEbWJiNnkxR05NTm5pVlhHcGY0cjJEWTNTaWh1UHREcXNuQy9QWW5nQmlBK29oYUhIUXhaL0FVY01oQ3U4aVVpRHR2YXFRakt6emdRaVdGZWJhS2IrMGJsemVBQ2xsbDJZNCtKczZlWUlpSVdaN0hnSnl5MmVXaUVhY05EQk13VWZOMjJxOVRHcVh6d09oZXdycXp3WG5aMjVKK2VOZjRlVG5SZnl2VGp4UWQ5OW9walRqRTVsREs5TU5BeHlXK0U5R3JFSUJQTVNxOExwWkIxNWRXWHgrY3BBRS9COW9RdUxIRFQ2Z09FQm9VUmszK3Bzajh6UjV2N3RrMVBudFB0bGRWWkZZNElqeEdLUkd1b2xEaWtpR1dWLzF0WWYzZisyL25iWWpPRERrUWMxSUpqdUxMMVVLIn0=
