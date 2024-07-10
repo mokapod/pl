@@ -1,3 +1,5 @@
+https://wiki.debian.org/NvidiaGraphicsDrivers#sid-340
+
 ### nvidia-340 driver
 
 * Install nvidia-340 driver
