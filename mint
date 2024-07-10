@@ -40,3 +40,9 @@ EOF
 
 https://easylinuxtipsproject.blogspot.com/p/first-mint.html
 https://www.reallinuxuser.com/21-best-things-to-do-after-installing-linux-mint/
+
+### QRedshift
+
+		$ sudo apt-get remove redshift-gtk
+		$ curl https://github.com/raphaelquintao/QRedshiftCinnamon/raw/master/install.sh -sSfL | bash
+
