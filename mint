@@ -1,3 +1,4 @@
+https://forums.debian.net/viewtopic.php?t=156263
 https://wiki.debian.org/NvidiaGraphicsDrivers#sid-340
 
 ### nvidia-340 driver
