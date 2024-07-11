@@ -1,7 +1,3 @@
-https://forums.debian.net/viewtopic.php?t=156263
-https://wiki.debian.org/NvidiaGraphicsDrivers#sid-340
-https://forums.debian.net/viewtopic.php?t=150559&start=20
-
 ### nvidia-340 driver
 
 * Install nvidia-340 driver
@@ -20,13 +16,13 @@ https://forums.debian.net/viewtopic.php?t=150559&start=20
 
 `````````````````````````````````````````````````````````````````
 deb http://deb.debian.org/debian/ sid main contrib non-free non-free-firmware
-
 `````````````````````````````````````````````````````````````````
 
 			$ sudo apt update
 			$ sudo apt install nvidia-legacy-340xx-driver firmware-misc-nonfree
 			$ sudo rm /etc/apt/sources.list.d/sid-repositories.list
-			$ sudo reboot
+			
+			**Do NOT reboot yet**
 
 * Set PCI-E registers during boot
 
@@ -42,9 +38,12 @@ EOF
 
 		$ sudo chmod 755 /etc/grub.d/01_enable_vga.conf
 		$ sudo update-grub
-		$ reboot
+		$ sudo reboot
 
 ### Spotify
+
+* Install Spotify from Software Mnager
+* Apply SpotX-Bash
 
 		$ bash <(curl -sSL https://spotx-official.github.io/run.sh) -h --installdeb
 
@@ -68,38 +67,53 @@ https://www.reallinuxuser.com/21-best-things-to-do-after-installing-linux-mint/
 		$ sudo apt-get remove redshift-gtk
 		$ curl https://github.com/raphaelquintao/QRedshiftCinnamon/raw/master/install.sh -sSfL | bash
 
+### Firefox trackpad scrolling
 
-https://www.reddit.com/r/linux/comments/72mfv8/psa_for_firefox_users_set_moz_use_xinput21_to/
+		$ echo export MOZ_USE_XINPUT2=1 | sudo tee /etc/profile.d/use-xinput2.sh
+		$ reboot
 
+### zswap
 
-sudo nano /etc/initramfs-tools/modules
-Add the word z3fold to the end
+		$ sudo nano /etc/initramfs-tools/initramfs.conf
+
+`````````````````````````````````````````````````````````````````
+MODULES=dep
+COMPRESS=lz4
+
+`````````````````````````````````````````````````````````````````
+
+		$ sudo nano /etc/initramfs-tools/modules
+
+`````````````````````````````````````````````````````````````````
 lz4
 lz4_compress
 z3fold
 
-sudo update-initramfs -u
+`````````````````````````````````````````````````````````````````
 
-Open your GRUB configuration file as the administrator. It helps for this part if you maximize the window so you can see what you’re doing.
+		$ sudo update-initramfs -u
 
-sudo nano /etc/default/grub
-sudo nano /etc/default/grub.d/50_lmde.cfg
+		$ sudo nano /etc/default/grub
+		$ sudo nano /etc/default/grub.d/50_lmde.cfg
 
-Find the line that says “GRUB_CMDLINE_LINUX_DEFAULT=” and append this to the end of the kernel command line. MAKE SURE TO DO IT CORRECTLY, OR YOUR SYSTEM PROBABLY WON’T BOOT.
+`````````````````````````````````````````````````````````````````
+GRUB_CMDLINE_LINUX_DEFAULT= "quiet splash zswap.enabled=1 zswap.compressor=lz4 zswap.max_pool_percent=25 zswap.zpool=z3fold"
 
-zswap.enabled=1 zswap.compressor=lz4 zswap.max_pool_percent=25 zswap.zpool=z3fold
+`````````````````````````````````````````````````````````````````
+		
+		$ sudo update-grub
+		$ sudo reboot
+		
+		$ grep -R . /sys/module/zswap/parameters
 
-sudo update-grub
 
-After rebooting, you can verify that it works by issuing the command:
+### Decrease swap usage
 
-grep -R . /sys/module/zswap/parameters
+		$ sudo nano /etc/sysctl.conf
 
-sudo nano /etc/initramfs-tools/initramfs.conf
-MODULES=dep
-COMPRESS=lz4
-
-sudo nano /etc/sysctl.conf
-# Decrease swap usage to a more reasonable level
+`````````````````````````````````````````````````````````````````
+#Decrease swap usage to a more reasonable level
 vm.swappiness=30
+
+`````````````````````````````````````````````````````````````````
 
