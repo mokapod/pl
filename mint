@@ -20,6 +20,7 @@ https://forums.debian.net/viewtopic.php?t=150559&start=20
 
 `````````````````````````````````````````````````````````````````
 deb http://deb.debian.org/debian/ sid main contrib non-free non-free-firmware
+
 `````````````````````````````````````````````````````````````````
 
 			$ sudo apt update
