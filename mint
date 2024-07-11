@@ -99,4 +99,7 @@ sudo nano /etc/initramfs-tools/initramfs.conf
 MODULES=dep
 COMPRESS=lz4
 
+sudo nano /etc/sysctl.conf
+# Decrease swap usage to a more reasonable level
+vm.swappiness=30
 
