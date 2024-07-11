@@ -6,9 +6,26 @@ https://forums.debian.net/viewtopic.php?t=150559&start=20
 
 * Install nvidia-340 driver
 
-		$ sudo add-apt-repository ppa:kelebek333/nvidia-legacy
-		$ sudo apt update
-		$ sudo apt install nvidia-340 nvidia-settings
+	* Ubuntu
+
+			$ sudo add-apt-repository ppa:kelebek333/nvidia-legacy
+			$ sudo apt update
+			$ sudo apt install nvidia-340 nvidia-settings
+
+	* Debian
+
+			$ sudo apt update && sudo apt upgrade
+			$ sudo touch /etc/apt/sources.list.d/sid-repositories.list
+			$ sudo nano /etc/apt/sources.list.d/sid-repositories.list
+
+`````````````````````````````````````````````````````````````````
+deb http://deb.debian.org/debian/ sid main contrib non-free non-free-firmware
+`````````````````````````````````````````````````````````````````
+
+			$ sudo apt update
+			$ sudo apt install nvidia-legacy-340xx-driver firmware-misc-nonfree
+			$ sudo rm /etc/apt/sources.list.d/sid-repositories.list
+			$ sudo reboot
 
 * Set PCI-E registers during boot
 
@@ -54,16 +71,5 @@ https://www.reallinuxuser.com/21-best-things-to-do-after-installing-linux-mint/
 https://www.reddit.com/r/linux/comments/72mfv8/psa_for_firefox_users_set_moz_use_xinput21_to/
 
 
-sudo apt update
-sudo apt upgrade
-sudo touch /etc/apt/sources.list.d/sid-repositories.list
-sudo nano /etc/apt/sources.list.d/sid-repositories.list
 
-deb http://deb.debian.org/debian/ sid main contrib non-free non-free-firmware
-
-sudo apt update
-sudo apt install nvidia-legacy-340xx-driver firmware-misc-nonfree
-
-sudo rm /etc/apt/sources.list.d/sid-repositories.list
-sudo reboot
 
