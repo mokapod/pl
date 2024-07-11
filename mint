@@ -75,3 +75,12 @@ https://www.reddit.com/r/linux/comments/72mfv8/psa_for_firefox_users_set_moz_use
 sudo nano /etc/initramfs-tools/modules
 Add the word z3fold to the end
 
+sudo update-initramfs -u
+
+Open your GRUB configuration file as the administrator. It helps for this part if you maximize the window so you can see what you’re doing.
+
+sudo nano /etc/default/grub
+
+Find the line that says “GRUB_CMDLINE_LINUX_DEFAULT=” and append this to the end of the kernel command line. MAKE SURE TO DO IT CORRECTLY, OR YOUR SYSTEM PROBABLY WON’T BOOT.
+
+zswap.enabled=1 zswap.compressor=lz4 zswap.max_pool_percent=25 zswap.zpool=z3fold
