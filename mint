@@ -72,5 +72,6 @@ https://www.reallinuxuser.com/21-best-things-to-do-after-installing-linux-mint/
 https://www.reddit.com/r/linux/comments/72mfv8/psa_for_firefox_users_set_moz_use_xinput21_to/
 
 
-
+sudo nano /etc/initramfs-tools/modules
+Add the word z3fold to the end
 
