@@ -112,7 +112,7 @@ GRUB_CMDLINE_LINUX_DEFAULT= "quiet splash zswap.enabled=1 zswap.compressor=lz4 z
 		$ sudo nano /etc/sysctl.conf
 
 `````````````````````````````````````````````````````````````````
-#Decrease swap usage to a more reasonable level
+# Decrease swap usage to a more reasonable level
 vm.swappiness=30
 
 `````````````````````````````````````````````````````````````````
