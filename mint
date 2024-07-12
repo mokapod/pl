@@ -97,7 +97,7 @@ z3fold
 		$ sudo nano /etc/default/grub.d/50_lmde.cfg
 
 `````````````````````````````````````````````````````````````````
-GRUB_CMDLINE_LINUX_DEFAULT= "quiet splash zswap.enabled=1 zswap.compressor=lz4 zswap.max_pool_percent=25 zswap.zpool=z3fold"
+GRUB_CMDLINE_LINUX_DEFAULT="quiet splash zswap.enabled=1 zswap.compressor=lz4 zswap.max_pool_percent=25 zswap.zpool=z3fold"
 
 `````````````````````````````````````````````````````````````````
 		
