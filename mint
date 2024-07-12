@@ -117,3 +117,11 @@ vm.swappiness=30
 
 `````````````````````````````````````````````````````````````````
 
+### Blacklisting Bluetooth
+
+		$ echo "blacklist btusb" | sudo tee /etc/modprobe.d/blacklist-bluetooth.conf
+
+Blacklisting built-in webcam
+
+		$echo "blacklist uvcvideo" | sudo tee /etc/modprobe.d/blacklist-webcam.conf
+
