@@ -125,3 +125,4 @@ vm.swappiness=30
 
 		$echo "blacklist uvcvideo" | sudo tee /etc/modprobe.d/blacklist-webcam.conf
 
+https://askubuntu.com/questions/76081/brightness-not-working-after-installing-nvidia-driver
